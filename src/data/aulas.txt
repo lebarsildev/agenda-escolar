@@ -1,52 +1,151 @@
 ---
+DATA: 2026-04-17
+PROFESSOR: Miss Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🎤 Assembly | Apresentação sobre bullying (Year 3)
+MATERIA: 📚 PLA | AV2 – Produção de texto narrativo + criação de heróis
+---
+DATA: 2026-04-17
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Two-minute Talk + interação com Year 2
+MATERIA: 🔢 Math | AV2 – Desafio de Matemática (estações)
+---
+DATA: 2026-04-16
+PROFESSOR: Miss Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🌎 Geografia | AV2 – Climas e biomas do Brasil
+MATERIA: 📚 PLA | Leitura – heróis brasileiros
+MATERIA: ⚽ Ed. Física | Aula com Mister Paulo
+---
+DATA: 2026-04-16
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Two-minute Talk + AV2
+MATERIA: 🔢 Math | Revisão para AV2
+---
 DATA: 2026-04-15
 PROFESSOR: Miss Thayná e Patrícia
 PERIODO: tarde
-MATERIA: 🧘 Momento de calma | Momento de volta à calma após o lanche
-MATERIA: 📜 História | AV2: Produção da revista América Indígena em grupos
-MATERIA: 📚 PLA | Centros de Aprendizagem – Jornada dos Heróis
+MATERIA: 🧘 Momento de calma | Pós-lanche
+MATERIA: 📜 História | AV2 – Revista América Indígena
+MATERIA: 📚 PLA | Centros de Aprendizagem
 ---
 DATA: 2026-04-15
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
-MATERIA: ✏️ ELA | Avaliação TRIEduc de Matemática
-MATERIA: 🎨 Arts | AV: Desenho de Carranca – expressões faciais, sombra e volume
+MATERIA: ✏️ ELA | Avaliação TRIEduc
+MATERIA: 🎨 Arts | Carranca – expressão e sombra
 ---
 DATA: 2026-04-14
 PROFESSOR: Miss Thayná e Patrícia
 PERIODO: tarde
-MATERIA: 📝 TRIEduc | Avaliação de Ciências Humanas
+MATERIA: 📝 TRIEduc | Ciências Humanas
 MATERIA: 🎵 Música | Aula com Miss Michelle
 MATERIA: ⚽ Ed. Física | Aula com Mister Paulo
 ---
 DATA: 2026-04-14
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
-MATERIA: ✏️ ELA | Revisão de adjetivos, pronomes e verbos + construção coletiva do Poema Diamante
-MATERIA: 🔢 Math | Subtrações com matemática mental – correção coletiva pág. 28
+MATERIA: ✏️ ELA | Poema diamante + revisão gramatical
+MATERIA: 🔢 Math | Subtração – pág. 28
 ---
 DATA: 2026-04-13
 PROFESSOR: Miss Thayná e Patrícia
 PERIODO: tarde
-MATERIA: 📚 PLA | Apresentação de Robin Hood + Centros de Aprendizagem (4 centros)
-MATERIA: 🌍 Geografia | Fronteiras e limites do Brasil com Google Earth
+MATERIA: 📚 PLA | Robin Hood + Centros de Aprendizagem
+MATERIA: 🌍 Geografia | Fronteiras do Brasil (Google Earth)
 ---
 DATA: 2026-04-13
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
-MATERIA: ✏️ ELA | TRIEduc de Matemática
-MATERIA: 🎨 Arts | Carranca – uso de sombras para criar profundidade
+MATERIA: ✏️ ELA | TRIEduc Matemática
+MATERIA: 🎨 Arts | Carranca – sombras e profundidade
 ---
 DATA: 2026-04-10
 PROFESSOR: Miss Thayná e Patrícia
 PERIODO: tarde
-MATERIA: 🌱 Projeto Ciclos | Exploração do inhame – propriedades e degustação
-MATERIA: 🌎 Geografia | Diversidade climática do Brasil – atividade investigativa em grupos
+MATERIA: 🌱 Projeto Ciclos | Exploração do inhame
+MATERIA: 🌎 Geografia | Climas do Brasil
 MATERIA: ⚽ Ed. Física | Aula com Mister Paulo
 ---
 DATA: 2026-04-10
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
 MATERIA: 📊 TRIEduc | Ciências da Natureza
-MATERIA: 🔢 Math | Estimativa de diferenças entre números de 3 dígitos – pág. 26
-MATERIA: 🎨 Arts | Finalização do autorretrato com palavra representativa
+MATERIA: 🔢 Math | Estimativa – números de 3 dígitos
+MATERIA: 🎨 Arts | Autorretrato
+---
+DATA: 2026-04-09
+PROFESSOR: Miss Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 📝 TRIEduc | Linguagens
+MATERIA: ⚽ Ed. Física | Aula com Mister Paulo
+---
+DATA: 2026-04-09
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Buddy Reading + centros de aprendizagem
+---
+DATA: 2026-04-08
+PROFESSOR: Miss Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 📚 PLA | Início unidade – conceito de herói
+MATERIA: 📜 História | Povos indígenas – mapa de conclusão
+---
+DATA: 2026-04-08
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Poemas (rimas AABB / ABAB)
+MATERIA: 🔬 Science | Mudanças nos habitats
+---
+DATA: 2026-04-07
+PROFESSOR: Miss Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 📚 PLA | Finalização unidade – amizade
+MATERIA: 🎵 Música | Aula com Miss Michelle
+MATERIA: ⚽ Ed. Física | Aula com Mister Paulo
+---
+DATA: 2026-04-07
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Poema diamante
+MATERIA: 🔢 Math | Diferença entre números
+---
+DATA: 2026-04-06
+PROFESSOR: Miss Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 📚 PLA | HQ Calvin e Haroldo + centros
+MATERIA: 🌎 Geografia | Formação do povo brasileiro
+---
+DATA: 2026-04-06
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Revisão de poemas
+MATERIA: 🔢 Math | Estimativa de diferenças
+MATERIA: 🎨 Arts | Autorretrato criativo
+---
+DATA: 2026-04-02
+PROFESSOR: Miss Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🌱 Projeto Ciclos | Nutrição – inhame
+MATERIA: 🌎 Geografia | Climas e cotidiano
+MATERIA: ⚽ Ed. Física | Aula com Mister Paulo
+---
+DATA: 2026-04-02
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Centros de aprendizagem
+MATERIA: 🔢 Math | Correção AV1
+---
+DATA: 2026-04-01
+PROFESSOR: Miss Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 📚 PLA | Produção textual – diálogo
+MATERIA: 📜 História | Povos originários
+---
+DATA: 2026-04-01
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Centros de aprendizagem
+MATERIA: 🔬 Science | Adaptação dos seres vivos
