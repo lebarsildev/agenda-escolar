@@ -1,0 +1,52 @@
+---
+DATA: 2026-04-15
+PROFESSOR: Miss Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Momento de calma | Momento de volta à calma após o lanche
+MATERIA: 📜 História | AV2: Produção da revista América Indígena em grupos
+MATERIA: 📚 PLA | Centros de Aprendizagem – Jornada dos Heróis
+---
+DATA: 2026-04-15
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Avaliação TRIEduc de Matemática
+MATERIA: 🎨 Arts | AV: Desenho de Carranca – expressões faciais, sombra e volume
+---
+DATA: 2026-04-14
+PROFESSOR: Miss Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 📝 TRIEduc | Avaliação de Ciências Humanas
+MATERIA: 🎵 Música | Aula com Miss Michelle
+MATERIA: ⚽ Ed. Física | Aula com Mister Paulo
+---
+DATA: 2026-04-14
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Revisão de adjetivos, pronomes e verbos + construção coletiva do Poema Diamante
+MATERIA: 🔢 Math | Subtrações com matemática mental – correção coletiva pág. 28
+---
+DATA: 2026-04-13
+PROFESSOR: Miss Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 📚 PLA | Apresentação de Robin Hood + Centros de Aprendizagem (4 centros)
+MATERIA: 🌍 Geografia | Fronteiras e limites do Brasil com Google Earth
+---
+DATA: 2026-04-13
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | TRIEduc de Matemática
+MATERIA: 🎨 Arts | Carranca – uso de sombras para criar profundidade
+---
+DATA: 2026-04-10
+PROFESSOR: Miss Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🌱 Projeto Ciclos | Exploração do inhame – propriedades e degustação
+MATERIA: 🌎 Geografia | Diversidade climática do Brasil – atividade investigativa em grupos
+MATERIA: ⚽ Ed. Física | Aula com Mister Paulo
+---
+DATA: 2026-04-10
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: 📊 TRIEduc | Ciências da Natureza
+MATERIA: 🔢 Math | Estimativa de diferenças entre números de 3 dígitos – pág. 26
+MATERIA: 🎨 Arts | Finalização do autorretrato com palavra representativa
