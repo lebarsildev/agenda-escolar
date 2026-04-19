@@ -1,72 +1,103 @@
 ---
+DATA: 2026-04-17
+TITULO: Indicação de Leitura - Árvore
+AUTOR: Miss Thayná
+CATEGORIA: tarefa
+CONTEUDO: Nova indicação de leitura disponível na plataforma Árvore. Prazo para finalizar a leitura: até 27/04. Incentivar a leitura em casa.
+---
+DATA: 2026-04-16
+TITULO: Livro de Matemática
+AUTOR: Ms. Mari
+CATEGORIA: aviso
+CONTEUDO: Reforço para que o livro de Matemática esteja diariamente na mochila, pois é utilizado com frequência em sala. A ausência prejudica o acompanhamento das atividades.
+---
 DATA: 2026-04-13
 TITULO: Retorno Les Fotografia Escola
 AUTOR: Miss Jéssica
 CATEGORIA: aviso
-CONTEUDO: A empresa Les Fotografia Escolar estará na escola para realizar o registro dos alunos que não estavam presentes na data anterior. Caso algum responsável não autorize a participação do aluno, pedimos a gentileza de comunicar previamente à secretaria da escola.
+CONTEUDO: A empresa Les Fotografia Escolar estará na escola para registrar alunos ausentes na data anterior. Caso não autorize, comunicar previamente à secretaria.
 ---
 DATA: 2026-04-13
 TITULO: Calendário Escolar de Abril
 AUTOR: Miss Jéssica
 CATEGORIA: calendario
-CONTEUDO: No dia 20 de abril não haverá aula. Nos dias 22 e 24 de abril, as aulas ocorrerão normalmente. Quando constar "dia livre para o aluno" no calendário escolar, isso significa que não haverá aula.
+CONTEUDO: 20/04 não haverá aula. Dias 22 e 24/04 terão aula normal. "Dia livre para o aluno" indica ausência de aula.
 ---
 DATA: 2026-04-13
 TITULO: Atividade Avaliativa de ELA – Poema Diamante
 AUTOR: Ms. Mari
 CATEGORIA: avaliacao
-CONTEUDO: No dia 16 de abril os alunos realizarão a atividade avaliativa do poema diamante. Estrutura: 7 versos sem rima em formato de diamante. Verso 1: substantivo-tema | Verso 2: dois adjetivos | Verso 3: três verbos | Verso 4: quatro substantivos | Verso 5: três verbos | Verso 6: dois adjetivos | Verso 7: sinônimo do verso 1.
+CONTEUDO: Avaliação em 16/04. Poema com 7 versos em formato diamante: substantivo, adjetivos, verbos, substantivos, verbos, adjetivos e sinônimo final.
+---
+DATA: 2026-04-10
+TITULO: Fire Drill – Treinamento de Evacuação
+AUTOR: Direção e Coordenação
+CATEGORIA: aviso
+CONTEUDO: Treinamento realizado com sucesso. Turno da manhã atingiu o ponto de encontro em 4min03s. Destaque para organização e segurança.
 ---
 DATA: 2026-04-10
 TITULO: Calendário AV2
 AUTOR: Ms. Mari
 CATEGORIA: avaliacao
-CONTEUDO: 13/04 (Seg): Artes | 15/04 (Qua): Science Quiz | 16/04 (Qui): ELA – Poema Diamante | 17/04 (Sex): Math Challenge
+CONTEUDO: 13/04 Artes | 15/04 Science Quiz | 16/04 ELA | 17/04 Math Challenge.
 ---
 DATA: 2026-04-10
-TITULO: Two-minute Talk – Cronograma de Apresentações
+TITULO: Two-minute Talk – Apresentações
 AUTOR: Ms. Mari
 CATEGORIA: atividade
-CONTEUDO: 13/04: Yasmin e Davi | 14/04: Bernardo Costa, Vicente e Luisa | 15/04: Louise, Dom e Leticia | 16/04: Carlos Eduardo, Clara e Matheus Correa | 17/04: Mateus Larocca, Rafael e Alice
+CONTEUDO: Cronograma: 13/04 Yasmin e Davi | 14/04 Bernardo, Vicente e Luisa | 15/04 Louise, Dom e Leticia | 16/04 Carlos Eduardo, Clara e Matheus | 17/04 Mateus, Rafael e Alice.
 ---
 DATA: 2026-04-10
 TITULO: Leitura no Aplicativo Árvore
 AUTOR: Ms. Mari
 CATEGORIA: tarefa
-CONTEUDO: Livros enviados no aplicativo Árvore para leitura. Prazo para realizar a leitura: até o dia 17 de abril.
+CONTEUDO: Livros enviados no aplicativo Árvore. Prazo de leitura até 17/04.
 ---
 DATA: 2026-04-10
-TITULO: AV2 – Língua Portuguesa (PLA)
+TITULO: Avaliação de Língua Portuguesa (AV2)
 AUTOR: Miss Thayná
 CATEGORIA: avaliacao
-CONTEUDO: Produção de texto narrativo onde personagens usam cooperação ou gentileza para resolver um conflito. Data: 17/04. Deve ter começo, meio e fim, diálogos com travessão, e narrador definido pelo aluno. Será avaliado: planejamento, organização, vocabulário, gramática e capricho.
+CONTEUDO: Produção de texto narrativo com cooperação/gentileza. Avaliação em 17/04. Critérios: estrutura, organização, vocabulário, gramática e capricho.
 ---
 DATA: 2026-04-10
-TITULO: Fire Drill – Resultado do Treinamento
-AUTOR: Direção e Coordenação
-CATEGORIA: aviso
-CONTEUDO: O treinamento de evacuação (Fire Drill) foi realizado com sucesso. O turno da manhã chegou ao ponto de encontro em 4 minutos e 3 segundos, demonstrando organização e agilidade. Parabéns a todos!
+TITULO: Avaliação de História (AV2) – Revista América Indígena
+AUTOR: Miss Thayná
+CATEGORIA: avaliacao
+CONTEUDO: Produção em grupo de revista com temas indígenas. Avaliação envolve pesquisa, escrita, criatividade e comunicação visual.
+---
+DATA: 2026-04-10
+TITULO: Avaliação de Geografia (AV2) – Missão Brasil
+AUTOR: Miss Thayná
+CATEGORIA: avaliacao
+CONTEUDO: Quiz sobre climas e biomas. Avaliação em 16/04. Critérios: conhecimento, participação e organização.
+---
+DATA: 2026-04-09
+TITULO: Critérios Avaliativos AV2
+AUTOR: Ms. Mari
+CATEGORIA: avaliacao
+CONTEUDO: Critérios detalhados para ELA, Math, Science e Arts, incluindo estrutura, interpretação, cálculo e criatividade.
 ---
 DATA: 2026-04-09
 TITULO: Notas da AV1 Disponíveis – Portal Sponte
 AUTOR: Coordenação Pedagógica
 CATEGORIA: aviso
-CONTEUDO: Os resultados da AV1 já estão disponíveis no portal Sponte. Acesse em: https://portal.sponteeducacional.net.br/mbvilavalqueire usando o CPF do responsável como login e senha.
+CONTEUDO: Notas disponíveis no portal Sponte. Acesso com CPF do responsável.
 ---
 DATA: 2026-04-08
-TITULO: Tarefa de Casa – Leitura Calvin e Haroldo (pág. 140–165)
+TITULO: Tarefa de Casa – Leitura Calvin e Haroldo
 AUTOR: Miss Thayná
 CATEGORIA: tarefa
-CONTEUDO: Os alunos devem realizar a leitura das páginas 140 a 165 da obra "O mundo é mágico – As aventuras de Calvin e Haroldo". O livro deve retornar à escola na próxima sexta-feira.
+CONTEUDO: Leitura das páginas 140 a 165 do livro "O mundo é mágico". Livro deve retornar na sexta-feira.
 ---
 DATA: 2026-04-07
 TITULO: Inscrição para Exame de Cambridge
 AUTOR: Miss Jéssica
 CATEGORIA: aviso
-CONTEUDO: Informações sobre inscrição para o exame de Cambridge disponíveis em anexo. Excelente oportunidade para desenvolver habilidades em inglês com reconhecimento internacional. Em caso de dúvidas, entre em contato com a secretaria.
+CONTEUDO: Informações disponíveis para inscrição no exame de Cambridge. Oportunidade de desenvolvimento em inglês.
 ---
 DATA: 2026-04-07
-TITULO: Livro Paradidático Unidade 2 – "Era uma vez Dom Quixote"
+TITULO: Livro Paradidático – Dom Quixote
 AUTOR: Miss Thayná
 CATEGORIA: tarefa
-CONTEUDO: Enviar o livro "Era uma vez Dom Quixote" etiquetado com o nome do aluno até o dia 14/04/26. Este livro será usado nas atividades da Unidade 2 de Língua Portuguesa (PLA).
+CONTEUDO: Enviar livro "Era uma vez Dom Quixote" até 14/04 com identificação do aluno.
+---
