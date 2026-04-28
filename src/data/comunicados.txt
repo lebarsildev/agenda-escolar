@@ -1,4 +1,52 @@
 ---
+DATA: 2026-04-27
+TITULO: Alteração no cronograma de avaliações (AV3)
+AUTOR: Miss Thayná
+CATEGORIA: avaliacao
+CONTEUDO: Alteração na ordem das avaliações AV3. Novo cronograma: 04/05 ELA/Arts | 05/05 História/Music | 06/05 Science/Geografia | 07/05 Physical Education/PLA | 08/05 Math.
+---
+DATA: 2026-04-27
+TITULO: Orientações para a AV3 de Geografia
+AUTOR: Miss Thayná
+CATEGORIA: avaliacao
+CONTEUDO: Conteúdos: lugar, paisagem, território, regiões do Brasil, relevo, hidrografia, biomas e clima. Avaliação em 06/05.
+---
+DATA: 2026-04-27
+TITULO: Semana de Revisões – AV3
+AUTOR: Miss Thayná
+CATEGORIA: atividade
+CONTEUDO: Revisões realizadas em sala com correção coletiva e envio para estudo em casa. Importante não faltar.
+---
+DATA: 2026-04-24
+TITULO: Leitura Dom Quixote
+AUTOR: Miss Thayná
+CATEGORIA: tarefa
+CONTEUDO: Leitura das páginas 15 a 23 do livro "Era uma vez Dom Quixote". Livro deve retornar na próxima segunda-feira.
+---
+DATA: 2026-04-24
+TITULO: Revisões Matemática, Ciências e ELA
+AUTOR: Ms. Mari
+CATEGORIA: atividade
+CONTEUDO: Materiais de revisão enviados com conteúdos para estudo das avaliações.
+---
+DATA: 2026-04-22
+TITULO: Cronograma AV3
+AUTOR: Coordenação Pedagógica
+CATEGORIA: avaliacao
+CONTEUDO: Cronograma AV3 Year 4: 04/05 ELA/Arts | 05/05 PLA/Music | 06/05 Science/Geografia | 07/05 Physical Education/História | 08/05 Math.
+---
+DATA: 2026-04-22
+TITULO: Tarefa de História – Entrevista Familiar
+AUTOR: Miss Thayná
+CATEGORIA: tarefa
+CONTEUDO: Realizar entrevista com familiar sobre culinária usando roteiro da Aula 9. Prazo: 27/04.
+---
+DATA: 2026-04-22
+TITULO: Mother’s Day Open House
+AUTOR: Coordenação Pedagógica
+CATEGORIA: evento
+CONTEUDO: Convite para participação das famílias em atividade especial de Dia das Mães na escola. Conferir horários no cronograma.
+---
 DATA: 2026-04-28
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
