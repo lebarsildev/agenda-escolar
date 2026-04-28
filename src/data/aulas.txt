@@ -1,4 +1,50 @@
 ---
+DATA: 2026-04-28
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Buddy Reading + revisão coletiva + criação de cinquain poem
+MATERIA: 🔢 Math | Revisão para AV3
+---
+DATA: 2026-04-27
+PROFESSOR: Miss Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Momento de calma | Pós-lanche
+MATERIA: 🌍 Geografia | Regionalização do Brasil (IBGE + geoeconômica)
+MATERIA: 📚 PLA | Leitura Dom Quixote – capítulo 2
+MATERIA: 🎤 Assembly | Preparação apresentação povos indígenas
+---
+DATA: 2026-04-27
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Buddy Reading + revisão individual
+MATERIA: 🔢 Math | Subtração – pág. 31
+---
+DATA: 2026-04-24
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Revisão – verbos, adjetivos e substantivos
+MATERIA: 🔢 Math | Subtração – pág. 30
+---
+DATA: 2026-04-24
+PROFESSOR: Miss Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Momento de calma | Pós-lanche
+MATERIA: 📚 PLA | Oficina de substantivos + leitura Dom Quixote
+MATERIA: 🎭 Letramento emocional | Empatia e bullying
+---
+DATA: 2026-04-22
+PROFESSOR: Miss Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Momento de calma | Pós-lanche
+MATERIA: 📚 PLA | Mitos – leitura "Os Argonautas"
+MATERIA: ⛵ História | Grandes Navegações
+---
+DATA: 2026-04-22
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Metáfora e hipérbole
+MATERIA: 🔬 Science | Mudanças nos habitats + newsletter
+---
 DATA: 2026-04-17
 PROFESSOR: Miss Thayná e Patrícia
 PERIODO: tarde
