@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 const RED = "#c0392b", NAVY = "#1a2e4a", WHITE = "#ffffff", GRAY = "#f4f5f7";
 const TEXT = "#1a1a1a", MUTED = "#666", LIGHT = "#aaa";
@@ -8,109 +8,152 @@ const USERS = [
   { username: "admin",       password: "escola2026", name: "Coordenação" },
 ];
 
-// ─── AULAS ────────────────────────────────────────────────────────────────────
+// ─── AULAS (dados dos arquivos atualizados) ───────────────────────────────────
 const LESSONS = [
   {
-    id: 1, date: "2026-04-15", teacher: "Miss Thayná e Patrícia", period: "tarde",
+    id: 1, date: "2026-04-15", teacher: "Misses Thayná e Patrícia", period: "tarde",
     subjects: [
-      { icon: "🧘", name: "Momento de Volta à Calma", detail: "Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula com foco e tranquilidade." },
-      { icon: "📜", name: "História – AV2: Revista América Indígena", detail: "Nossos Big Bears iniciaram a produção da revista América Indígena. O objetivo é desenvolver competências de produção textual e comunicação científica voltada ao público infanto-juvenil. Em grupos, os alunos trabalharam com pesquisa e criatividade para elaborar as seções da revista, exercitando a clareza na transmissão de conhecimentos sobre as culturas indígenas de forma lúdica." },
+      { icon: "🧘", name: "Momento de Volta à Calma", detail: "Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula." },
+      { icon: "📜", name: "História – AV2: Revista América Indígena", detail: "Nossos Big Bears realizaram o trabalho avaliativo (AV2) iniciando a produção da revista \"América Indígena\". O objetivo da atividade é desenvolver competências de produção textual e comunicação científica voltada ao público infanto-juvenil. Em grupos, os alunos trabalharam com pesquisa e criatividade para elaborar as seções da revista, exercitando a clareza na transmissão de conhecimentos sobre as culturas indígenas de forma lúdica." },
       { icon: "📚", name: "PLA – Centros de Aprendizagem", detail: "Demos continuidade às atividades dos Centros de Aprendizagem. Os grupos aprofundaram os estudos sobre a jornada dos heróis." },
     ]
   },
   {
     id: 2, date: "2026-04-15", teacher: "Ms. Mari e Mr. Igor", period: "manhã",
     subjects: [
-      { icon: "✏️", name: "ELA – Avaliação TRIEduc de Matemática", detail: "Os alunos realizaram a avaliação diagnóstica da TRIEduc de matemática. Ferramenta valiosa para mapear o desenvolvimento das competências da turma, sem impacto na média escolar." },
-      { icon: "🎨", name: "Arts – Carranca: Expressões Faciais", detail: "Realizamos a atividade avaliativa de Artes. Os alunos desenharam uma carranca, explorando expressões faciais por meio de linhas e formas (sobrancelhas, olhos, boca). Trabalharam com uso de sombras para criar profundidade, utilizando tons mais escuros e mais claros com lápis de cor, além do contraste entre áreas claras e escuras." },
+      { icon: "✏️", name: "ELA – Avaliação TRIEduc de Matemática", detail: "Os alunos realizaram a avaliação da TRIEduc de Matemática. Ferramenta valiosa para mapear o desenvolvimento das competências da turma, sem impacto na média escolar." },
+      { icon: "🎨", name: "Arts – Carranca: Expressões Faciais", detail: "Realizamos a atividade avaliativa de Artes. Os alunos desenharam uma carranca, explorando diferentes expressões faciais por meio do uso de linhas e formas (sobrancelhas, olhos e boca) para transmitir emoções. Trabalharam com sombras para criar profundidade, utilizando tons mais escuros e mais claros com lápis de cor, além do contraste entre áreas claras e escuras para destacar partes do rosto." },
     ]
   },
   {
-    id: 3, date: "2026-04-14", teacher: "Miss Thayná e Patrícia", period: "tarde",
+    id: 3, date: "2026-04-14", teacher: "Ms. Mari e Mr. Igor", period: "manhã",
     subjects: [
+      { icon: "✏️", name: "ELA – Poema Diamante", detail: "Os alunos realizaram uma revisão sobre adjetivos, pronomes e verbos. Em seguida, construímos coletivamente um poema diamante com o tema \"school\". A turma foi dividida em quatro grupos por categoria gramatical: adjetivos, verbos, pronomes e adjetivos. Cada grupo contribuiu com palavras para formar o poema. Por fim, os alunos escolheram seus próprios temas e criaram individualmente seus poemas diamante." },
+      { icon: "🔢", name: "Math – Subtrações com Matemática Mental", detail: "Continuamos trabalhando com subtrações utilizando estratégias de matemática mental. Realizamos a correção coletiva da página 28 do Student Workbook." },
+    ]
+  },
+  {
+    id: 4, date: "2026-04-14", teacher: "Misses Thayná e Patrícia", period: "tarde",
+    subjects: [
+      { icon: "🧘", name: "Momento de Volta à Calma", detail: "Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula." },
       { icon: "📝", name: "Avaliação TRIEduc – Ciências Humanas", detail: "Conforme avisado previamente, os alunos realizaram a avaliação de Ciências Humanas. Este processo é uma ferramenta valiosa para mapear o desenvolvimento das competências da turma, permitindo intervenções pedagógicas mais assertivas." },
       { icon: "🎵", name: "Música", detail: "Aula de Música com Miss Michelle." },
       { icon: "⚽", name: "Educação Física", detail: "Aula de Educação Física com Mister Paulo. Incentivamos os alunos a organizarem seus materiais e o espaço coletivo." },
     ]
   },
   {
-    id: 4, date: "2026-04-14", teacher: "Ms. Mari e Mr. Igor", period: "manhã",
+    id: 5, date: "2026-04-13", teacher: "Ms. Mari e Mr. Igor", period: "manhã",
     subjects: [
-      { icon: "✏️", name: "ELA – Poema Diamante", detail: "Revisão de adjetivos, pronomes e verbos. Em seguida, construímos coletivamente um poema diamante com o tema \"school\". A turma foi dividida em quatro grupos por categoria gramatical. Por fim, os alunos criaram individualmente seus próprios poemas diamante." },
-      { icon: "🔢", name: "Math – Subtrações com Matemática Mental", detail: "Continuamos trabalhando com subtrações utilizando estratégias de matemática mental. Realizamos a correção coletiva da página 28 do Student Workbook." },
+      { icon: "✏️", name: "ELA – TRIEduc de Matemática", detail: "Os alunos realizaram a avaliação diagnóstica TRIEduc de Matemática, conforme o cronograma informado. Início às 07h30, duração estimada de 1h20." },
+      { icon: "🎨", name: "Arts – Carranca: Sombras e Profundidade", detail: "Os alunos exploraram expressões faciais transmitindo emoções por meio de linhas e formas. Trabalharam com sombras para criar profundidade, utilizando tons mais escuros e mais claros com lápis de cor." },
     ]
   },
   {
-    id: 5, date: "2026-04-13", teacher: "Miss Thayná e Patrícia", period: "tarde",
+    id: 6, date: "2026-04-13", teacher: "Misses Thayná e Patrícia", period: "tarde",
     subjects: [
-      { icon: "📚", name: "PLA – Robin Hood e Centros de Aprendizagem", detail: "Apresentamos \"Robin Hood: A lenda da liberdade\" (Pedro Bandeira), analisando elementos da capa e créditos. Conversamos sobre valores éticos que definem um herói. Centros: 🟡 Amarelo – AV da Unidade 1 | 🟢 Verde – \"O Guia dos Curiosinhos\" com quiz sobre heróis | 🔵 Azul – \"Heróis e suas jornadas\", leitura de Os Argonautas e interpretação sobre Jasão | 🔴 Vermelho – organizador gráfico dos heróis favoritos." },
-      { icon: "🌍", name: "Geografia – Fronteiras e Limites do Brasil", detail: "Exploramos as fronteiras e limites do território brasileiro com a ferramenta Google Earth, aplicando o \"efeito zoom\" para visualizar a organização política do espaço em diferentes escalas. Finalizamos com registro no material didático, sistematizando as categorias de divisão em ordem de grandeza." },
+      { icon: "🧘", name: "Momento de Volta à Calma", detail: "Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula." },
+      { icon: "📚", name: "PLA – Robin Hood e Centros de Aprendizagem", detail: "Apresentamos \"Robin Hood: A lenda da liberdade\" (Pedro Bandeira), analisando elementos da capa e créditos. Conversamos sobre os valores éticos que definem a figura de um herói. Centros: 🟡 Amarelo – Atividade Avaliativa da Unidade 1 | 🟢 Verde – \"O Guia dos Curiosinhos\" com quiz sobre heróis | 🔵 Azul – \"Heróis e suas jornadas\", leitura de Os Argonautas e interpretação sobre Jasão | 🔴 Vermelho – organizador gráfico dos heróis favoritos." },
+      { icon: "🌍", name: "Geografia – Fronteiras e Limites do Brasil", detail: "Exploramos as fronteiras e limites do território brasileiro com o Google Earth, aplicando o \"efeito zoom\" para visualizar a organização política do espaço em diferentes escalas. Finalizamos com registro no material didático." },
     ]
   },
   {
-    id: 6, date: "2026-04-13", teacher: "Ms. Mari e Mr. Igor", period: "manhã",
+    id: 7, date: "2026-04-10", teacher: "Ms. Mari e Mr. Igor", period: "manhã",
     subjects: [
-      { icon: "✏️", name: "ELA – TRIEduc de Matemática", detail: "Os alunos realizaram a avaliação diagnóstica TRIEduc de Matemática, conforme o cronograma informado anteriormente. Atividade ocorrida dentro do horário regular." },
-      { icon: "🎨", name: "Arts – Carranca: Sombras e Profundidade", detail: "Os alunos exploraram expressões faciais por meio de linhas e formas para transmitir emoções. Trabalharam com sombras para criar profundidade, utilizando tons mais escuros e mais claros com lápis de cor." },
+      { icon: "📊", name: "TRIEduc – Ciências da Natureza", detail: "Avaliação diagnóstica de Ciências da Natureza. Início às 07h30, duração estimada de 1h20." },
+      { icon: "🔢", name: "Math – Estimativa de Diferenças", detail: "Aprendemos a estimar diferenças entre números de 3 dígitos. Quando os dois têm 3 dígitos, arredondamos para a centena mais próxima (ex: 317−215 ≈ 300−200=100). Quando um tem 2 dígitos, arredondamos para a dezena (ex: 487−58 ≈ 490−60=430). Realizamos a página 26 do Student Workbook." },
+      { icon: "🎨", name: "Arts – Finalização do Autorretrato", detail: "Finalizamos o autorretrato. Os alunos escolheram uma palavra que os representa, escreveram suas letras e as colaram no desenho, explorando texturas, camadas e sobreposições." },
     ]
   },
   {
-    id: 7, date: "2026-04-10", teacher: "Miss Thayná e Patrícia", period: "tarde",
+    id: 8, date: "2026-04-10", teacher: "Misses Thayná e Patrícia", period: "tarde",
     subjects: [
-      { icon: "🌱", name: "Projeto Ciclos – Exploração do Inhame", detail: "Iniciamos o novo projeto nutricional! Os Big Bears exploraram o inhame, conhecendo suas propriedades e experimentando o alimento. O objetivo é trabalhar alimentos do cardápio escolar em diferentes formas de preparo para estimular o interesse por alimentação saudável. Foi um momento muito divertido e de grande engajamento!" },
+      { icon: "🧘", name: "Momento de Volta à Calma", detail: "Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula." },
+      { icon: "🌱", name: "Projeto Ciclos – Exploração do Inhame", detail: "Iniciamos o novo projeto nutricional! Os Big Bears exploraram o inhame, conhecendo suas propriedades e experimentando o alimento. O objetivo é trabalhar alimentos do cardápio escolar em diferentes formas de preparo para estimular o interesse por alimentação saudável e consciente. Foi um momento muito divertido e de grande engajamento!" },
       { icon: "🌎", name: "Geografia – Diversidade Climática do Brasil", detail: "Reforçamos a diversidade dos climas do Brasil e suas particularidades em cada região. Atividade investigativa em grupo: cada equipe foi responsável por uma localidade diferente, descrevendo vestimenta adequada, sugestões de passeios e características do bioma local. Registro e sistematização no caderno de Geografia." },
       { icon: "⚽", name: "Educação Física", detail: "Aula de Educação Física com Mister Paulo." },
     ]
   },
   {
-    id: 8, date: "2026-04-10", teacher: "Ms. Mari e Mr. Igor", period: "manhã",
+    id: 9, date: "2026-04-07", teacher: "Misses Thayná e Patrícia", period: "tarde",
     subjects: [
-      { icon: "📊", name: "TRIEduc – Ciências da Natureza", detail: "Avaliação diagnóstica de Ciências da Natureza. Início às 07h30, duração estimada de 1h20." },
-      { icon: "🔢", name: "Math – Estimativa de Diferenças", detail: "Aprendemos a estimar diferenças entre números de 3 dígitos. Quando os dois têm 3 dígitos, arredondamos para a centena mais próxima (ex: 317−215 ≈ 300−200=100). Quando um tem 2 dígitos, arredondamos para a dezena (ex: 487−58 ≈ 490−60=430). Realizamos a página 26 do Student Workbook." },
-      { icon: "🎨", name: "Arts – Finalização do Autorretrato", detail: "Finalizamos o autorretrato. Os alunos escolheram uma palavra que os representa, escreveram suas letras e as colaram no desenho. Exploraram toda a criatividade com diferentes texturas, camadas e sobreposições." },
+      { icon: "🧘", name: "Momento de Volta à Calma", detail: "Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula." },
+      { icon: "📚", name: "PLA – Calvin e Haroldo e Centros de Aprendizagem", detail: "Realizamos a retomada da atividade de casa sobre a obra Calvin e Haroldo. Valorizamos o pensamento crítico e a capacidade de inferências para compreender o humor e as particularidades das histórias. Exploramos recursos visuais e narrativos das HQs, como passagens de tempo e a diferenciação entre quadros de imaginação e realidade. Demos continuidade aos Centros de Aprendizagem." },
+      { icon: "🌎", name: "Geografia – Formação do Povo Brasileiro", detail: "Iniciamos a segunda sequência didática da Unidade 1 — Regiões e regionalizações do Brasil. Os alunos voltaram o olhar para a formação do povo brasileiro. Participaram do Bingo Cultural, uma dinâmica lúdica sobre as heranças culturais do nosso país. Foi um momento muito divertido!" },
+    ]
+  },
+  {
+    id: 10, date: "2026-04-06", teacher: "Ms. Mari e Mr. Igor", period: "manhã",
+    subjects: [
+      { icon: "✏️", name: "ELA – Buddy Reading e Poemas em Lista", detail: "Iniciamos com o Buddy Reading: alunos escolheram livros de poesia, leram em duplas e compartilharam com a turma. Em seguida, revisaram seus poemas em formato de lista, verificando ortografia, ampliando o vocabulário e conferindo a estrutura correta." },
+      { icon: "🔢", name: "Math – Estimativa de Diferenças (pág. 26)", detail: "Aprendemos a estimar diferenças: quando os dois números têm 3 dígitos, arredondamos para a centena; quando um tem 2 dígitos, arredondamos para a dezena. Os alunos realizaram a página 26 do Student Workbook." },
+      { icon: "🎨", name: "Arts – Finalização do Autorretrato", detail: "Finalizamos o autorretrato. Os alunos escolheram uma palavra que os representa, escreveram suas letras e as colaram no desenho, explorando texturas, camadas e sobreposições." },
+    ]
+  },
+  {
+    id: 11, date: "2026-04-01", teacher: "Misses Thayná e Patrícia", period: "tarde",
+    subjects: [
+      { icon: "📚", name: "PLA – Diálogos e Verbos Dicendi", detail: "Os alunos avançaram na consolidação dos conceitos de diálogo e pontuação. Finalizamos a construção coletiva da produção textual com foco no uso dos verbos dicendi (essenciais para dar vida às falas dos personagens). Demos continuidade aos Centros de Aprendizagem." },
+      { icon: "📜", name: "História – Quiz sobre os Sambaquis", detail: "Exploramos o legado dos povos antigos por meio de troca de quizzes sobre os Sambaquis (produzidos pelos próprios alunos). Cada grupo respondeu às questões elaboradas pelos colegas, estimulando a revisão colaborativa. Formalizamos as reflexões no caderno de descobertas com o registro da definição de povos originários." },
+    ]
+  },
+  {
+    id: 12, date: "2026-04-01", teacher: "Ms. Mari e Mr. Igor", period: "manhã",
+    subjects: [
+      { icon: "✏️", name: "ELA – Buddy Reading e Centros de Aprendizagem", detail: "Buddy Reading com livros de poesia. Segunda rotação dos centros: Centro 1 – Guided Reading (rimas e adjetivos) | Centro 2 – SLM 12 (personificação) | Centro 3 – \"I Am\" Poem (versão final) | Centro 4 – Poema em lista (rascunho)." },
+      { icon: "🔬", name: "Science – Correção AV1 e Adaptações", detail: "Os alunos receberam as notas da AV1 e realizamos a correção coletiva. Revisamos os conceitos de adaptação estrutural e comportamental em plantas e animais (ex: urso polar e camuflagem na neve, camaleão para proteção de predadores)." },
     ]
   },
 ];
 
 // ─── COMUNICADOS ──────────────────────────────────────────────────────────────
 const ANNOUNCEMENTS = [
-  { id:1, date:"2026-04-13", title:"Sem aula – 20 de abril", author:"Miss Jéssica", category:"calendario",
-    content:"No dia 20 de abril não haverá aula. Nos dias 22 e 24 de abril, as aulas ocorrerão normalmente. Quando constar \"dia livre para o aluno\" no calendário escolar, isso significa que não haverá aula." },
-  { id:2, date:"2026-04-13", title:"Retorno Les Fotografia Escola", author:"Miss Jéssica", category:"aviso",
-    content:"A empresa Les Fotografia Escolar estará na escola para registrar alunos ausentes na data anterior. Responsáveis que não autorizarem devem comunicar à secretaria." },
-  { id:3, date:"2026-04-13", title:"Atividade Avaliativa de ELA – Poema Diamante", author:"Ms. Mari", category:"avaliacao",
-    content:"No dia 16 de abril os alunos realizarão a avaliação do poema diamante. Estrutura: 7 versos sem rima em formato de diamante — Verso 1: substantivo-tema | Verso 2: dois adjetivos | Verso 3: três verbos | Verso 4: quatro substantivos | Verso 5: três verbos | Verso 6: dois adjetivos | Verso 7: sinônimo. Critérios: estrutura, ortografia, gramática, espaçamento e letra legível." },
-  { id:4, date:"2026-04-10", title:"Calendário AV2", author:"Ms. Mari", category:"avaliacao",
-    content:"13/04 (Seg): Artes — 15/04 (Qua): Science Quiz — 16/04 (Qui): ELA – Poema Diamante — 17/04 (Sex): Math Challenge" },
-  { id:5, date:"2026-04-10", title:"Two-Minute Talk – Cronograma", author:"Ms. Mari", category:"atividade",
+  { id:1, date:"13/04/2026", title:"Retorno Les Fotografia Escola", author:"Miss Jéssica", category:"aviso",
+    content:"A empresa Les Fotografia Escolar estará na escola amanhã para registrar alunos ausentes na data anterior. Responsáveis que não autorizarem devem comunicar previamente à secretaria." },
+  { id:2, date:"13/04/2026", title:"Calendário Escolar de Abril", author:"Miss Jéssica", category:"calendario",
+    content:"No dia 20 de abril não haverá aula. Nos dias 22 e 24 de abril, as aulas ocorrerão normalmente. Quando constar \"dia livre para o aluno\" no calendário, isso significa que não haverá aula." },
+  { id:3, date:"13/04/2026", title:"Atividade Avaliativa ELA – Poema Diamante (16/04)", author:"Ms. Mari", category:"avaliacao",
+    content:"No dia 16 de abril, os alunos realizarão a avaliação do poema diamante. Estrutura de 7 versos sem rima: Verso 1: substantivo-tema | Verso 2: dois adjetivos | Verso 3: três verbos | Verso 4: quatro substantivos | Verso 5: três verbos | Verso 6: dois adjetivos | Verso 7: sinônimo. Critérios: estrutura correta, ortografia, gramática, espaçamento e letra legível." },
+  { id:4, date:"10/04/2026", title:"Treinamento Fire Drill – Turno da Manhã", author:"Direção e Coordenação", category:"aviso",
+    content:"Realizamos hoje o treinamento de Fire Drill com as turmas da Educação Infantil e Ensino Fundamental, com participação do bombeiro da Guardião Escolar. O turno da manhã chegou ao ponto de encontro em 4m 3s. Parabéns!" },
+  { id:5, date:"10/04/2026", title:"Calendário AV2", author:"Ms. Mari", category:"avaliacao",
+    content:"13/04 (Segunda): Artes | 15/04 (Quarta): Science Quiz | 16/04 (Quinta): ELA – Poema Diamante | 17/04 (Sexta): Math Challenge" },
+  { id:6, date:"10/04/2026", title:"Two-Minute Talk – Cronograma de Apresentações", author:"Ms. Mari", category:"atividade",
     content:"13/04: Yasmin e Davi | 14/04: Bernardo Costa, Vicente e Luisa | 15/04: Louise, Dom e Leticia | 16/04: Carlos Eduardo, Clara e Matheus Correa | 17/04: Mateus Larocca, Rafael e Alice. Proposta: ler os poemas, responder o SLM e apresentar para a turma." },
-  { id:6, date:"2026-04-10", title:"Leitura no Aplicativo Árvore", author:"Ms. Mari", category:"tarefa",
+  { id:7, date:"10/04/2026", title:"Leitura no Aplicativo Árvore", author:"Ms. Mari", category:"tarefa",
     content:"Livros enviados no aplicativo Árvore para leitura. Prazo: até 17 de abril." },
-  { id:7, date:"2026-04-10", title:"AV2 – Língua Portuguesa (PLA)", author:"Miss Thayná", category:"avaliacao",
-    content:"Produção de texto narrativo com cooperação/gentileza como tema. Data: 17/04. Avaliado: planejamento com roteiro, organização (início-meio-fim), diálogos com travessão, verbos dicendi variados, fidelidade ao tema, gramática e capricho." },
-  { id:8, date:"2026-04-10", title:"Fire Drill – Resultado do Treinamento", author:"Direção e Coordenação", category:"aviso",
-    content:"Realizamos o treinamento de Fire Drill com sucesso! O turno da manhã chegou ao ponto de encontro em 4min 3s, demonstrando organização e agilidade. Parabéns a todos!" },
-  { id:9, date:"2026-04-09", title:"Notas da AV1 – Portal Sponte", author:"Coordenação Pedagógica", category:"aviso",
-    content:"Resultados da AV1 disponíveis em: portal.sponteeducacional.net.br/mbvilavalqueire — CPF do responsável como login e senha." },
-  { id:10, date:"2026-04-08", title:"Tarefa de Casa – Leitura Calvin e Haroldo (pág. 140–165)", author:"Miss Thayná", category:"tarefa",
-    content:"Leitura das páginas 140 a 165 de \"O mundo é mágico – As aventuras de Calvin e Haroldo\". O livro deve retornar à escola na próxima sexta-feira." },
-  { id:11, date:"2026-04-07", title:"Inscrição para Exame de Cambridge", author:"Miss Jéssica", category:"aviso",
+  { id:8, date:"10/04/2026", title:"AV2 – Língua Portuguesa (PLA) – 17/04", author:"Miss Thayná", category:"avaliacao",
+    content:"Produção de texto narrativo com cooperação/gentileza como tema. O que será avaliado: Planejamento com roteiro obrigatório | Organização (introdução, desenvolvimento e desfecho) | Diálogos com dois-pontos e travessão | Verbos dicendi variados (exclamou, sugeriu, cochichou...) | Fidelidade ao tema | Gramática, ortografia e capricho. Narrador definido pelo aluno." },
+  { id:9, date:"10/04/2026", title:"AV2 – História – Revista América Indígena", author:"Miss Thayná", category:"avaliacao",
+    content:"Os alunos produzirão em grupos a revista \"América Indígena\", desenvolvendo competências de produção textual e comunicação científica voltada ao público infanto-juvenil." },
+  { id:10, date:"09/04/2026", title:"Critérios Avaliativos AV2 – ELA, Math, Science e Arts", author:"Ms. Mari", category:"avaliacao",
+    content:"ELA: estrutura do poema diamante, ortografia, gramática e letra legível. Science: habitat, comunidade, cadeia alimentar, adaptações estrutural e comportamental, camuflagem. Math: valor posicional, arredondamento, estimativas, comparação/ordenação de números e adições com reagrupamento. Arts: expressões faciais, uso de linhas e formas, lápis de cor com luz e sombra." },
+  { id:11, date:"09/04/2026", title:"Notas da AV1 – Portal Sponte", author:"Coordenação Pedagógica", category:"aviso",
+    content:"Resultados disponíveis em: portal.sponteducacional.net.br/mbvilavalqueire — CPF do responsável como login e senha. Dúvidas: entre em contato com a secretaria." },
+  { id:12, date:"08/04/2026", title:"Tarefa de Casa – Leitura Calvin e Haroldo (pág. 140–165)", author:"Misses Thayná e Patrícia", category:"tarefa",
+    content:"Leitura das páginas 140 a 165 de \"O mundo é mágico – As aventuras de Calvin e Haroldo\". Leitura prévia fundamental para as atividades em sala. O livro deve retornar à escola na próxima sexta-feira." },
+  { id:13, date:"07/04/2026", title:"Cronograma TRIEduc (Year 4)", author:"Coordenação Pedagógica", category:"aviso",
+    content:"09/04 (Qui): Linguagens e Redação – 10h, duração 2h | 10/04 (Sex): Ciências da Natureza – 07h30, 1h20 | 13/04 (Seg): Matemática – 07h30, 1h20 | 14/04 (Ter): Ciências Humanas – 07h30, 1h20. Avaliação diagnóstica sem impacto na média e sem necessidade de estudo prévio." },
+  { id:14, date:"07/04/2026", title:"Inscrição para Exame de Cambridge", author:"Miss Jéssica", category:"aviso",
     content:"Informações sobre inscrição para o exame de Cambridge disponíveis com a secretaria. Excelente oportunidade para desenvolver habilidades em inglês com reconhecimento internacional." },
-  { id:12, date:"2026-04-07", title:"Livro Paradidático – \"Era uma vez Dom Quixote\"", author:"Miss Thayná", category:"tarefa",
-    content:"Enviar o livro \"Era uma vez Dom Quixote\" etiquetado com o nome do aluno até 14/04/26 para as atividades da Unidade 2 de PLA." },
+  { id:15, date:"07/04/2026", title:"Livro Paradidático – \"Era uma vez Dom Quixote\"", author:"Misses Thayná e Patrícia", category:"tarefa",
+    content:"Enviar o livro etiquetado com o nome do aluno até 14/04/26 para as atividades da Unidade 2 de PLA." },
+  { id:16, date:"02/04/2026", title:"Tarefa de Casa – Leitura Calvin e Haroldo (pág. 124–134)", author:"Misses Thayná e Patrícia", category:"tarefa",
+    content:"Leitura das páginas 124 a 134 de \"O mundo é mágico – As aventuras de Calvin e Haroldo\". O livro deve retornar à escola na próxima segunda-feira." },
+  { id:17, date:"02/04/2026", title:"Newsletter Abril", author:"Coordenação", category:"aviso",
+    content:"Confira a newsletter com as principais informações sobre o mês de abril: https://canva.link/uvwjeaiv58s041z" },
 ];
 
 // ─── TAREFAS ──────────────────────────────────────────────────────────────────
-const INITIAL_TASKS = [
-  { id:1, title:"Avaliação ELA – Poema Diamante",          description:"Revisar estrutura de 7 versos: substantivo, adjetivos, verbos, substantivos, verbos, adjetivos, sinônimo. Ortografia e letra legível serão avaliados.", due:"2026-04-16", priority:"high",   category:"avaliacao",    status:"pending" },
-  { id:2, title:"AV2 Língua Portuguesa – Texto Narrativo", description:"História com cooperação/gentileza como tema. Usar roteiro, diálogos com travessão e verbos dicendi variados (exclamou, sugeriu, cochichou...).", due:"2026-04-17", priority:"high",   category:"avaliacao",    status:"pending" },
-  { id:3, title:"Math Challenge (AV2)",                    description:"Revisar: estimativas, arredondamento (dezena, centena, milhar), valor posicional, comparação e ordenação de números, adições com reagrupamento.", due:"2026-04-17", priority:"high",   category:"avaliacao",    status:"pending" },
-  { id:4, title:"Two-Minute Talk – Apresentação do poema", description:"Mateus apresenta com Rafael e Alice. Ler os poemas, responder o SLM e treinar apresentação oral para a turma.", due:"2026-04-17", priority:"medium", category:"apresentacao", status:"pending" },
-  { id:5, title:"Leitura no App Árvore",                   description:"Realizar a leitura dos livros enviados no aplicativo Árvore.", due:"2026-04-17", priority:"medium", category:"tarefa",       status:"pending" },
-  { id:6, title:"Enviar livro \"Era uma vez Dom Quixote\"", description:"Enviar etiquetado com o nome do aluno para a Unidade 2 de PLA.", due:"2026-04-14", priority:"high",   category:"tarefa",       status:"done"    },
-  { id:7, title:"Leitura Calvin e Haroldo (pág. 140–165)", description:"Leitura prévia fundamental. O livro deve retornar à escola.", due:"2026-04-11", priority:"medium", category:"tarefa",       status:"done"    },
-  { id:8, title:"Science Quiz (AV2)",                      description:"Revisar: habitat, comunidade, cadeia alimentar, adaptação estrutural e comportamental, camuflagem.", due:"2026-04-15", priority:"high",   category:"avaliacao",    status:"done"    },
-  { id:9, title:"Avaliação de Artes (AV2)",                 description:"Desenho de carranca com expressão facial, sombras e profundidade com lápis de cor.", due:"2026-04-13", priority:"medium", category:"avaliacao",    status:"done"    },
+const DEFAULT_TASKS = [
+  { id:1, title:"Avaliação ELA – Poema Diamante",           description:"Revisar estrutura de 7 versos: substantivo, adjetivos, verbos, substantivos, verbos, adjetivos, sinônimo. Ortografia e letra legível serão avaliados.", due:"2026-04-16", priority:"high",   category:"avaliacao",    status:"pending" },
+  { id:2, title:"AV2 Língua Portuguesa – Texto Narrativo",  description:"História com cooperação/gentileza como tema. Usar roteiro obrigatório, diálogos com travessão e verbos dicendi variados.", due:"2026-04-17", priority:"high",   category:"avaliacao",    status:"pending" },
+  { id:3, title:"Math Challenge (AV2)",                     description:"Revisar: estimativas, arredondamento (dezena/centena/milhar), valor posicional, comparação e ordenação de números, adições com reagrupamento.", due:"2026-04-17", priority:"high",   category:"avaliacao",    status:"pending" },
+  { id:4, title:"Two-Minute Talk – Apresentação do poema",  description:"Mateus apresenta com Rafael e Alice. Ler os poemas, responder o SLM e treinar a apresentação oral.", due:"2026-04-17", priority:"medium", category:"apresentacao", status:"pending" },
+  { id:5, title:"Leitura no App Árvore",                    description:"Realizar a leitura dos livros enviados no aplicativo Árvore.", due:"2026-04-17", priority:"medium", category:"tarefa",       status:"pending" },
+  { id:6, title:"Enviar livro \"Era uma vez Dom Quixote\"",  description:"Enviar etiquetado com o nome do aluno para a Unidade 2 de PLA.", due:"2026-04-14", priority:"high",   category:"tarefa",       status:"done"    },
+  { id:7, title:"Leitura Calvin e Haroldo (pág. 140–165)",  description:"Leitura prévia fundamental para atividades em sala. O livro deve retornar à escola.", due:"2026-04-11", priority:"medium", category:"tarefa",       status:"done"    },
+  { id:8, title:"Science Quiz (AV2)",                       description:"Revisar: habitat, comunidade, cadeia alimentar, adaptação estrutural e comportamental, camuflagem.", due:"2026-04-15", priority:"high",   category:"avaliacao",    status:"done"    },
+  { id:9, title:"Avaliação de Artes (AV2)",                  description:"Desenho de carranca com expressão facial, sombras e profundidade com lápis de cor.", due:"2026-04-13", priority:"medium", category:"avaliacao",    status:"done"    },
 ];
 
 // ─── META ─────────────────────────────────────────────────────────────────────
@@ -125,11 +168,17 @@ const PRI_META = {
   low:    { label:"Baixa", color:"#27ae60", dot:"🟢" },
 };
 const ANN_CAT = {
-  avaliacao:  { label:"Avaliação",   color:RED,       bg:"#fdf2f2" },
-  tarefa:     { label:"Tarefa",      color:"#b9770e", bg:"#fef9ee" },
-  aviso:      { label:"Aviso",       color:NAVY,      bg:"#f0f4fa" },
-  calendario: { label:"Calendário",  color:"#6c3483", bg:"#f8f4fd" },
-  atividade:  { label:"Atividade",   color:"#1e8449", bg:"#f0faf4" },
+  avaliacao:  { label:"Avaliação",  color:RED,       bg:"#fdf2f2" },
+  tarefa:     { label:"Tarefa",     color:"#b9770e", bg:"#fef9ee" },
+  aviso:      { label:"Aviso",      color:NAVY,      bg:"#f0f4fa" },
+  calendario: { label:"Calendário", color:"#6c3483", bg:"#f8f4fd" },
+  atividade:  { label:"Atividade",  color:"#1e8449", bg:"#f0faf4" },
+};
+const STATUS_STYLE = {
+  done:    { bg:"#f0faf4", border:"#27ae60", badgeBg:"#27ae60", badgeText:"✓ Concluído" },
+  overdue: { bg:"#fff5f5", border:RED,       badgeBg:RED,       badgeText:"⚠ Atrasado"  },
+  urgent:  { bg:"#fff8f0", border:"#e67e22", badgeBg:"#e67e22", badgeText:"🔥 Urgente"   },
+  pending: { bg:WHITE,     border:"#e0e0e0", badgeBg:NAVY,      badgeText:"● Pendente"  },
 };
 
 // ─── HELPERS ──────────────────────────────────────────────────────────────────
@@ -137,12 +186,15 @@ function today() { return new Date().toISOString().split("T")[0]; }
 function getStatus(task) {
   if (task.status === "done") return "done";
   if (task.due < today()) return "overdue";
-  const d = (new Date(task.due) - new Date(today())) / 86400000;
-  return d <= 2 ? "urgent" : "pending";
+  return (new Date(task.due) - new Date(today())) / 86400000 <= 2 ? "urgent" : "pending";
 }
-function fmtDate(d) { const [,m,day]=d.split("-"); return `${parseInt(day)}/${m}`; }
-function fmtDateLong(d) { const [,m,day]=d.split("-"); const ms=["","Jan","Fev","Mar","Abr","Mai","Jun","Jul","Ago","Set","Out","Nov","Dez"]; return `${parseInt(day)} ${ms[parseInt(m)]}`; }
+function fmtDate(d) {
+  const [,m,day] = d.split("-");
+  const ms = ["","Jan","Fev","Mar","Abr","Mai","Jun","Jul","Ago","Set","Out","Nov","Dez"];
+  return `${parseInt(day)} ${ms[parseInt(m)]}`;
+}
 function dayLabel(d) { return ["Dom","Seg","Ter","Qua","Qui","Sex","Sáb"][new Date(d+"T12:00:00").getDay()]; }
+function fmtShort(d) { const [,m,day]=d.split("-"); return `${parseInt(day)}/${m}`; }
 function daysLabel(d) {
   const diff = Math.ceil((new Date(d) - new Date(today())) / 86400000);
   if (diff < 0) return `${Math.abs(diff)}d atrasado`;
@@ -150,12 +202,19 @@ function daysLabel(d) {
   if (diff === 1) return "Amanhã";
   return `${diff} dias`;
 }
-const STATUS_STYLE = {
-  done:    { bg:"#f0faf4", border:"#27ae60", badgeBg:"#27ae60", badgeText:"✓ Concluído" },
-  overdue: { bg:"#fff5f5", border:RED,       badgeBg:RED,       badgeText:"⚠ Atrasado"  },
-  urgent:  { bg:"#fff8f0", border:"#e67e22", badgeBg:"#e67e22", badgeText:"🔥 Urgente"   },
-  pending: { bg:WHITE,     border:"#e0e0e0", badgeBg:NAVY,      badgeText:"● Pendente"  },
-};
+
+// ─── STORAGE HELPERS ─────────────────────────────────────────────────────────
+// Saves tasks to localStorage so they persist across page reloads
+function loadTasks() {
+  try {
+    const saved = localStorage.getItem("mb_tasks_v1");
+    if (saved) return JSON.parse(saved);
+  } catch {}
+  return DEFAULT_TASKS;
+}
+function saveTasks(tasks) {
+  try { localStorage.setItem("mb_tasks_v1", JSON.stringify(tasks)); } catch {}
+}
 
 // ─── LOGIN ────────────────────────────────────────────────────────────────────
 function Login({ onLogin }) {
@@ -211,7 +270,7 @@ function Login({ onLogin }) {
   );
 }
 
-// ─── SUBJECT ROW (expansível) ─────────────────────────────────────────────────
+// ─── SUBJECT ROW ──────────────────────────────────────────────────────────────
 function SubjectRow({ s }) {
   const [open,setOpen]=useState(true);
   return (
@@ -251,7 +310,7 @@ function TaskCard({ task, onToggle }) {
             <span style={{fontSize:11,background:"#f0f0f0",color:MUTED,padding:"2px 7px",borderRadius:20}}>{cat.icon} {cat.label}</span>
             <span style={{fontSize:11,color:pri.color,fontWeight:700}}>{pri.dot} {pri.label}</span>
             <span style={{fontSize:11,color:s==="overdue"?RED:s==="urgent"?"#e67e22":MUTED,fontWeight:s==="overdue"||s==="urgent"?700:400}}>
-              📅 {fmtDateLong(task.due)} · {daysLabel(task.due)}
+              📅 {fmtDate(task.due)} · {daysLabel(task.due)}
             </span>
           </div>
           {s!=="done"&&<div style={{fontSize:12,color:MUTED,lineHeight:1.6}}>{task.description}</div>}
@@ -265,13 +324,21 @@ function TaskCard({ task, onToggle }) {
 export default function App() {
   const [user,setUser]=useState(()=>{try{return JSON.parse(sessionStorage.getItem("sb_u"))||null;}catch{return null;}});
   const [tab,setTab]=useState("agenda");
-  const [tasks,setTasks]=useState(INITIAL_TASKS);
+  // ✅ Tasks loaded from localStorage — persists across page reloads
+  const [tasks,setTasks]=useState(()=>loadTasks());
   const [taskFilter,setTaskFilter]=useState("pending");
   const [annFilter,setAnnFilter]=useState("all");
 
   function login(u){sessionStorage.setItem("sb_u",JSON.stringify(u));setUser(u);}
   function logout(){sessionStorage.removeItem("sb_u");setUser(null);}
-  function toggleTask(id){setTasks(p=>p.map(t=>t.id===id?{...t,status:t.status==="done"?"pending":"done"}:t));}
+
+  function toggleTask(id) {
+    setTasks(prev => {
+      const updated = prev.map(t => t.id===id ? {...t, status: t.status==="done"?"pending":"done"} : t);
+      saveTasks(updated); // 💾 persist immediately
+      return updated;
+    });
+  }
 
   if(!user) return <Login onLogin={login}/>;
 
@@ -283,12 +350,12 @@ export default function App() {
   const total=tasks.length, doneCount=doneTasks.length, pct=Math.round(doneCount/total*100);
 
   const shownTasks =
-    taskFilter==="pending" ? pendingTasks.sort((a,b)=>{
+    taskFilter==="pending" ? [...pendingTasks].sort((a,b)=>{
       const o={overdue:0,urgent:1,pending:2}; const pa={high:0,medium:1,low:2};
       return ((o[a.computed]??3)-(o[b.computed]??3))||((pa[a.priority]??3)-(pa[b.priority]??3))||a.due.localeCompare(b.due);
     }) :
     taskFilter==="done" ? doneTasks :
-    withStatus.sort((a,b)=>a.due.localeCompare(b.due));
+    [...withStatus].sort((a,b)=>a.due.localeCompare(b.due));
 
   // ── Agenda grouped ──
   const grouped = LESSONS.reduce((acc,l)=>{ (acc[l.date]=acc[l.date]||[]).push(l); return acc; },{});
@@ -297,9 +364,9 @@ export default function App() {
   const shownAnn = annFilter==="all" ? ANNOUNCEMENTS : ANNOUNCEMENTS.filter(a=>a.category===annFilter);
 
   const TABS=[
-    {id:"agenda",       label:"Agenda",      icon:"📅"},
-    {id:"tasks",        label:"Tarefas",     icon:"✅"},
-    {id:"comunicados",  label:"Comunicados", icon:"📢"},
+    {id:"agenda",      label:"Agenda",      icon:"📅"},
+    {id:"tasks",       label:"Tarefas",     icon:"✅"},
+    {id:"comunicados", label:"Comunicados", icon:"📢"},
   ];
 
   const upcoming=[
@@ -332,10 +399,9 @@ export default function App() {
 
       <div style={{maxWidth:640,margin:"0 auto",padding:"14px 14px 0"}}>
 
-        {/* ════════════════ AGENDA ════════════════ */}
+        {/* ════════ AGENDA ════════ */}
         {tab==="agenda"&&(
           <div>
-            {/* Próximos eventos */}
             <div style={{background:WHITE,borderRadius:12,marginBottom:16,overflow:"hidden",boxShadow:"0 2px 8px rgba(0,0,0,0.05)"}}>
               <div style={{background:NAVY,padding:"10px 16px"}}>
                 <span style={{color:WHITE,fontWeight:800,fontSize:13,textTransform:"uppercase",letterSpacing:0.5}}>📅 Próximos Eventos</span>
@@ -350,13 +416,12 @@ export default function App() {
               </div>
             </div>
 
-            {/* Aulas por dia */}
             <div style={{fontSize:12,fontWeight:800,color:NAVY,marginBottom:10,textTransform:"uppercase",letterSpacing:0.5}}>📖 Rotina das Aulas</div>
             {Object.entries(grouped).sort((a,b)=>b[0].localeCompare(a[0])).map(([date,lessons])=>(
               <div key={date} style={{marginBottom:20}}>
                 <div style={{display:"flex",alignItems:"center",gap:10,marginBottom:10}}>
-                  <div style={{background:NAVY,color:WHITE,borderRadius:8,padding:"5px 14px",fontSize:12,fontWeight:700,letterSpacing:0.3,flexShrink:0}}>
-                    {dayLabel(date)}, {fmtDate(date).split("/").reverse().join("/")}
+                  <div style={{background:NAVY,color:WHITE,borderRadius:8,padding:"5px 14px",fontSize:12,fontWeight:700,flexShrink:0}}>
+                    {dayLabel(date)}, {fmtShort(date)}
                   </div>
                   <div style={{flex:1,height:1,background:"#e0e0e0"}}/>
                 </div>
@@ -378,10 +443,10 @@ export default function App() {
           </div>
         )}
 
-        {/* ════════════════ TAREFAS ════════════════ */}
+        {/* ════════ TAREFAS ════════ */}
         {tab==="tasks"&&(
           <div>
-            {/* Progresso geral */}
+            {/* Progresso */}
             <div style={{background:WHITE,borderRadius:12,padding:"13px 16px",marginBottom:12,boxShadow:"0 2px 8px rgba(0,0,0,0.05)"}}>
               <div style={{display:"flex",justifyContent:"space-between",alignItems:"center",marginBottom:7}}>
                 <div style={{fontSize:13,fontWeight:700,color:NAVY}}>📊 Progresso geral</div>
@@ -390,12 +455,8 @@ export default function App() {
               <div style={{background:"#f0f0f0",borderRadius:99,height:10,overflow:"hidden"}}>
                 <div style={{width:`${pct}%`,height:"100%",background:pct===100?"#27ae60":RED,borderRadius:99,transition:"width 0.6s ease"}}/>
               </div>
-              <div style={{display:"flex",gap:12,marginTop:10}}>
-                {[
-                  {n:pendingTasks.length, label:"Pendentes",  color:RED},
-                  {n:urgentTasks.length,  label:"Urgentes",   color:"#e67e22"},
-                  {n:doneCount,           label:"Concluídas", color:"#27ae60"},
-                ].map((c,i)=>(
+              <div style={{display:"flex",gap:10,marginTop:10}}>
+                {[{n:pendingTasks.length,label:"Pendentes",color:RED},{n:urgentTasks.length,label:"Urgentes",color:"#e67e22"},{n:doneCount,label:"Concluídas",color:"#27ae60"}].map((c,i)=>(
                   <div key={i} style={{flex:1,textAlign:"center",background:GRAY,borderRadius:8,padding:"7px 4px"}}>
                     <div style={{fontSize:18,fontWeight:900,color:c.color}}>{c.n}</div>
                     <div style={{fontSize:10,color:MUTED,fontWeight:600}}>{c.label}</div>
@@ -435,10 +496,9 @@ export default function App() {
           </div>
         )}
 
-        {/* ════════════════ COMUNICADOS ════════════════ */}
+        {/* ════════ COMUNICADOS ════════ */}
         {tab==="comunicados"&&(
           <div>
-            {/* Filtros */}
             <div style={{display:"flex",gap:6,flexWrap:"wrap",marginBottom:14}}>
               {[["all","Todos"],...Object.entries(ANN_CAT).map(([id,c])=>[id,c.label])].map(([id,lbl])=>(
                 <button key={id} onClick={()=>setAnnFilter(id)} style={{padding:"6px 14px",borderRadius:20,fontSize:12,fontWeight:700,border:annFilter===id?`2px solid ${RED}`:"1.5px solid #ddd",background:annFilter===id?RED:WHITE,color:annFilter===id?WHITE:MUTED,cursor:"pointer",fontFamily:"inherit",transition:"all 0.15s"}}>
@@ -446,7 +506,6 @@ export default function App() {
                 </button>
               ))}
             </div>
-
             {shownAnn.map(ann=>{
               const c=ANN_CAT[ann.category]||ANN_CAT.aviso;
               return(
