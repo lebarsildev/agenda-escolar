@@ -222,7 +222,11 @@ function detectIcon(text) {
 }
 
 function normalizeText(txt) {
-  return txt.replace(/\r\n/g, "\n").replace(/\r/g, "\n");
+  return txt
+    .replace(/^\uFEFF/, "")           // remove UTF-8 BOM
+    .replace(/\u00A0/g, " ")          // replace non-breaking spaces
+    .replace(/\r\n/g, "\n")           // Windows line endings
+    .replace(/\r/g, "\n");            // old Mac line endings
 }
 
 function parseDate(linha) {
@@ -415,7 +419,7 @@ function parsearComunicados(textoRaw) {
   // Find all positions where "Publicado por" appears
   const starts = [];
   for (let i = 0; i < linhas.length; i++) {
-    if (/^publicado por$/i.test(linhas[i])) starts.push(i);
+    if (/publicado por/i.test(linhas[i]) && linhas[i].length < 20) starts.push(i);
   }
   if (starts.length === 0) return [];
 
@@ -431,7 +435,7 @@ function parsearComunicados(textoRaw) {
       const l = block[i];
       if (!l) continue;
 
-      if (/^publicado por$/i.test(l)) continue;
+      if (/publicado por/i.test(l) && l.length < 20) continue;
 
       if (phase === "autor") {
         if (!autor) { autor = l; continue; }
