@@ -1,4 +1,3 @@
----
 DATA: 24/04/2026
 TITULO: Revisão
 AUTOR: Ms. Mari
