@@ -1,4 +1,46 @@
 ---
+DATA: 24/04/2026
+TITULO: Revisão
+AUTOR: Ms. Mari
+CATEGORIA: aviso
+CONTEUDO: Segue, em anexo, as revisões de Matemática, Ciências e ELA, juntamente com os conteúdos a serem estudados.
+---
+DATA: 22/04/2026
+TITULO: Cronograma das Atividades Avaliativas AV3 - 1º Trimestre 2026
+AUTOR: Coordenação Pedagógica
+CATEGORIA: avaliacao
+CONTEUDO: Para facilitar a organização das famílias, compartilhamos abaixo o cronograma detalhado das Atividades Avaliativas - AV3 do primeiro trimestre. Pedimos atenção especial aos horários, que variam de acordo com o turno e a série do aluno. 🐻Year 1 ao Year 3 Morning: 04/05 (Segunda-feira) - ELA / Arts 05/05 (Terça-feira) - PLA / Geografia 06/05 (Quarta-feira) - Science / Physical Education 07/05 (Quinta-feira) - História / Music 08/05 (Sexta-feira) - Math 🐻Year 1 ao Year 3 Afternoon: 04/05 (Segunda-feira) - ELA / Arts 05/05 (Terça-feira) - História / Music 06/05 (Quarta-feira) - Science / Physical Education 07/05 (Quinta-feira) - PLA / Geografia 08/05 (Sexta-feira) - Math 🐻Year 4: 04/05 (Segunda-feira) - ELA / Arts 05/05 (Terça-feira) - PLA/ Music 06/05 (Quarta-feira) - Science / Geografia 07/05 (Quinta-feira) - Physical Education/ História 08/05 (Sexta-feira) - Math
+---
+DATA: 22/04/2026
+TITULO: Atividade para casa: História
+AUTOR: Misses Thayná e Patrícia
+CATEGORIA: tarefa
+CONTEUDO: Gostaríamos de compartilhar o nosso próximo desafio para o dever de casa. Nossos alunos realizarão uma entrevista com o objetivo de explorar saberes e memórias familiares. Tarefa: O aluno deve escolher alguém que cozinhe em sua família para realizar a entrevista. Material de Apoio: Deve ser utilizado o roteiro contido na Aula 9, Material 2, onde as respostas do entrevistado deverão ser devidamente registradas. Essa atividade é uma excelente oportunidade para exercitarmos a escuta ativa e a escrita, além de valorizar as tradições e histórias de cada família. 📅 Prazo de entrega: 27/04 (segunda-feira). Contamos com o apoio de vocês para este momento de interação!
+---
+DATA: 22/04/2026
+TITULO: Mother’s Day Open House Invitation
+AUTOR: Coordenação Pedagógica
+CATEGORIA: atividade
+CONTEUDO: Mother’s Day is fast approaching! We cordially invite all mothers (or a designated caregiver) to our Mother’s Day Open House, a special gathering designed for you to experience our school routine alongside your children. This will be a valuable opportunity to foster meaningful connections and participate, together, in activities thoughtfully prepared within our classrooms. We look forward to your presence to ensure this day is truly unforgettable! Important: Please refer to the attached schedule for the specific times regarding each grade.
+---
+DATA: 22/04/2026
+TITULO: Convite: Mother’s Day Open House
+AUTOR: Coordenação Pedagógica
+CATEGORIA: atividade
+CONTEUDO: O Dia das Mães está chegando! Convidamos as mães (ou um responsável) para o nosso Mother’s Day Open House, um encontro especial para vivenciarem a rotina escolar ao lado de seus filhos. Será uma oportunidade valiosa para compartilhar afetos e participar, juntos, de propostas preparadas com muito carinho em nossas salas de aula.
+---
+DATA: 17/04/2026
+TITULO: Indicação de Leitura - Árvore
+AUTOR: Misses Thayná e Patrícia
+CATEGORIA: tarefa
+CONTEUDO: Gostaria de informar que já está disponível na plataforma Árvore, a nova indicação de leitura para os alunos. O prazo para a finalizar a leitura é até o dia 27/04.
+---
+DATA: 16/04/2026
+TITULO: Livro de matemática
+AUTOR: Ms. Mari
+CATEGORIA: atividade
+CONTEUDO: Gostaria de reforçar a importância de que o livro de Matemática esteja diariamente na mochila dos alunos, pois ele é utilizado com frequência em sala de aula. Quando a criança esquece o livro, acaba ficando prejudicada para realizar as atividades de revisão e acompanhar o desenvolvimento das aulas.
+---
 DATA: 13/04/2026
 TITULO: Atividade Avaliativa ELA – Poema Diamante (16/04)
 AUTOR: Ms. Mari
