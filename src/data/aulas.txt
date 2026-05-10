@@ -1,0 +1,55 @@
+---
+DATA: 2026-04-15
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA – TRIEduc de Matemática | Avaliação diagnóstica TRIEduc de Matemática. Ferramenta para mapear o desenvolvimento das competências da turma, sem impacto na média escolar.
+MATERIA: 🎨 Arts – Carranca: Expressões Faciais | Atividade avaliativa de Artes. Os alunos desenharam uma carranca explorando expressões faciais (sobrancelhas, olhos, boca), uso de sombras para criar profundidade com lápis de cor e contraste entre áreas claras e escuras.
+---
+DATA: 2026-04-15
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade para iniciar as atividades da tarde.
+MATERIA: 📜 História – AV2: Revista América Indígena | Nossos Big Bears iniciaram a produção da revista "América Indígena". Em grupos, trabalharam com pesquisa e criatividade para elaborar seções da revista, desenvolvendo competências de produção textual e comunicação científica voltada ao público infanto-juvenil.
+MATERIA: 📚 PLA – Centros de Aprendizagem | Continuidade dos Centros de Aprendizagem com aprofundamento dos estudos sobre a jornada dos heróis.
+---
+DATA: 2026-04-14
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA – Poema Diamante | Revisão de adjetivos, pronomes e verbos. Construção coletiva do poema diamante com tema "school" em grupos por categoria gramatical. Criação individual com tema próprio.
+MATERIA: 🔢 Math – Subtrações com Matemática Mental | Continuidade das subtrações com estratégias de matemática mental. Correção coletiva da página 28 do Student Workbook.
+---
+DATA: 2026-04-14
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: 📝 TRIEduc – Ciências Humanas | Avaliação diagnóstica de Ciências Humanas para mapear o desenvolvimento das competências da turma, permitindo intervenções pedagógicas mais assertivas.
+MATERIA: 🎵 Música | Aula de Música com Miss Michelle.
+MATERIA: ⚽ Educação Física | Aula de Educação Física com Mister Paulo. Organização dos materiais e do espaço coletivo.
+---
+DATA: 2026-04-13
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA – TRIEduc de Matemática | Avaliação diagnóstica TRIEduc de Matemática. Início às 07h30, duração estimada de 1h20.
+MATERIA: 🎨 Arts – Carranca: Sombras e Profundidade | Os alunos exploraram expressões faciais transmitindo emoções. Trabalharam com sombras para criar profundidade utilizando tons mais escuros e mais claros com lápis de cor.
+---
+DATA: 2026-04-13
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: 📚 PLA – Robin Hood e Centros de Aprendizagem | Apresentamos "Robin Hood: A lenda da liberdade" (Pedro Bandeira). Centros: 🟡 Amarelo – AV da Unidade 1 | 🟢 Verde – "O Guia dos Curiosinhos" com quiz | 🔵 Azul – Heróis e suas jornadas, Os Argonautas | 🔴 Vermelho – organizador gráfico dos heróis favoritos.
+MATERIA: 🌍 Geografia – Fronteiras e Limites do Brasil | Exploramos as fronteiras e limites do território brasileiro com o Google Earth, aplicando o "efeito zoom" para visualizar a organização política do espaço em diferentes escalas.
+---
+DATA: 2026-04-10
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: 📊 TRIEduc – Ciências da Natureza | Avaliação diagnóstica de Ciências da Natureza. Início às 07h30, duração estimada de 1h20.
+MATERIA: 🔢 Math – Estimativa de Diferenças | Estimativa de diferenças entre números de 3 dígitos: arredondar para centena (ex: 317−215≈100) ou dezena quando um tem 2 dígitos (ex: 487−58≈430). Página 26 do Student Workbook.
+MATERIA: 🎨 Arts – Finalização do Autorretrato | Finalizamos o autorretrato. Os alunos escolheram uma palavra que os representa, escreveram suas letras e as colaram no desenho, explorando texturas, camadas e sobreposições.
+---
+DATA: 2026-04-10
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: 🌱 Projeto Ciclos – Exploração do Inhame | Iniciamos o novo projeto nutricional! Os Big Bears exploraram o inhame, conhecendo suas propriedades e experimentando o alimento. Objetivo: estimular alimentação saudável e consciente. Muito engajamento!
+MATERIA: 🌎 Geografia – Diversidade Climática do Brasil | Diversidade dos climas do Brasil. Atividade investigativa em grupo: cada equipe descreveu vestimenta adequada, passeios e características do bioma de uma localidade diferente.
+MATERIA: ⚽ Educação Física | Aula de Educação Física com Mister Paulo.

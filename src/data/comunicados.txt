@@ -1,0 +1,72 @@
+---
+DATA: 13/04/2026
+TITULO: Atividade Avaliativa ELA – Poema Diamante (16/04)
+AUTOR: Ms. Mari
+CATEGORIA: avaliacao
+CONTEUDO: No dia 16 de abril os alunos realizarão a avaliação do poema diamante. Estrutura de 7 versos sem rima: Verso 1 – substantivo-tema | Verso 2 – dois adjetivos | Verso 3 – três verbos | Verso 4 – quatro substantivos | Verso 5 – três verbos | Verso 6 – dois adjetivos | Verso 7 – sinônimo. Critérios: estrutura correta, ortografia, gramática, espaçamento e letra legível.
+---
+DATA: 13/04/2026
+TITULO: Calendário Escolar de Abril
+AUTOR: Miss Jéssica
+CATEGORIA: calendario
+CONTEUDO: No dia 20 de abril não haverá aula. Nos dias 22 e 24 de abril, as aulas ocorrerão normalmente. "Dia livre para o aluno" no calendário significa sem aula.
+---
+DATA: 13/04/2026
+TITULO: Retorno Les Fotografia Escola
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: A empresa Les Fotografia Escolar estará na escola para registrar alunos ausentes na data anterior. Responsáveis que não autorizarem devem comunicar previamente à secretaria.
+---
+DATA: 10/04/2026
+TITULO: Calendário AV2
+AUTOR: Ms. Mari
+CATEGORIA: avaliacao
+CONTEUDO: 13/04 (Segunda): Artes | 15/04 (Quarta): Science Quiz | 16/04 (Quinta): ELA – Poema Diamante | 17/04 (Sexta): Math Challenge
+---
+DATA: 10/04/2026
+TITULO: Treinamento Fire Drill – Resultado
+AUTOR: Direção e Coordenação
+CATEGORIA: aviso
+CONTEUDO: Treinamento de Fire Drill realizado com sucesso! Turno da manhã chegou ao ponto de encontro em 4m 3s, demonstrando organização e agilidade. Parabéns a todos!
+---
+DATA: 10/04/2026
+TITULO: Two-Minute Talk – Cronograma de Apresentações
+AUTOR: Ms. Mari
+CATEGORIA: atividade
+CONTEUDO: 13/04: Yasmin e Davi | 14/04: Bernardo, Vicente e Luisa | 15/04: Louise, Dom e Leticia | 16/04: Carlos, Clara e Matheus Correa | 17/04: Mateus Larocca, Rafael e Alice. Proposta: ler os poemas, responder o SLM e apresentar para a turma.
+---
+DATA: 10/04/2026
+TITULO: Leitura no Aplicativo Árvore
+AUTOR: Ms. Mari
+CATEGORIA: tarefa
+CONTEUDO: Livros enviados no aplicativo Árvore para leitura. Prazo: até 17 de abril.
+---
+DATA: 10/04/2026
+TITULO: AV2 – Língua Portuguesa (17/04)
+AUTOR: Miss Thayná
+CATEGORIA: avaliacao
+CONTEUDO: Produção de texto narrativo com cooperação/gentileza. Avaliado: planejamento com roteiro obrigatório, organização (introdução, desenvolvimento e desfecho), diálogos com travessão, verbos dicendi variados, fidelidade ao tema, gramática e capricho.
+---
+DATA: 09/04/2026
+TITULO: Notas da AV1 – Portal Sponte
+AUTOR: Coordenação Pedagógica
+CATEGORIA: aviso
+CONTEUDO: Resultados disponíveis em: portal.sponteeducacional.net.br/mbvilavalqueire — CPF do responsável como login e senha.
+---
+DATA: 07/04/2026
+TITULO: Cronograma TRIEduc (Year 4)
+AUTOR: Coordenação Pedagógica
+CATEGORIA: aviso
+CONTEUDO: 09/04 (Qui): Linguagens e Redação – 10h, duração 2h | 10/04 (Sex): Ciências da Natureza – 07h30, 1h20 | 13/04 (Seg): Matemática – 07h30, 1h20 | 14/04 (Ter): Ciências Humanas – 07h30, 1h20. Diagnóstica sem impacto na média.
+---
+DATA: 07/04/2026
+TITULO: Inscrição para Exame de Cambridge
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: Informações sobre inscrição para o exame de Cambridge disponíveis com a secretaria. Excelente oportunidade para desenvolver habilidades em inglês com reconhecimento internacional.
+---
+DATA: 07/04/2026
+TITULO: Livro Paradidático – "Era uma vez Dom Quixote"
+AUTOR: Misses Thayná e Patrícia
+CATEGORIA: tarefa
+CONTEUDO: Enviar o livro etiquetado com o nome do aluno até 14/04/26 para as atividades da Unidade 2 de PLA.
