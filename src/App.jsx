@@ -1018,50 +1018,6 @@ function FormatPanel({ mode }) {
   );
 }
 
-function Formatador() {
-  const [mode, setMode] = useState("aula");
-
-  return (
-    <div style={{display:"flex",flexDirection:"column",gap:0,paddingBottom:8}}>
-
-      {/* Header */}
-      <div style={{background:C.navy,borderRadius:12,padding:"12px 16px",marginBottom:12,display:"flex",alignItems:"center",gap:10}}>
-        <div style={{width:32,height:32,borderRadius:8,background:C.red,display:"flex",alignItems:"center",justifyContent:"center",fontSize:16,flexShrink:0}}>⚙️</div>
-        <div>
-          <div style={{fontWeight:800,fontSize:14,color:C.white}}>Formatador de Conteúdo</div>
-          <div style={{fontSize:11,color:"rgba(255,255,255,.45)"}}>Acesso exclusivo · Coordenação</div>
-        </div>
-      </div>
-
-      {/* Mode switcher */}
-      <div style={{display:"flex",background:C.white,borderRadius:10,padding:6,gap:4,marginBottom:12,boxShadow:sh}}>
-        {[["aula","📅 Aulas"],["comunicado","📢 Comunicados"]].map(([id,lbl]) => (
-          <button key={id} onClick={()=>setMode(id)}
-            style={{flex:1,padding:"9px 4px",borderRadius:8,border:"none",fontFamily:ff,fontSize:12,fontWeight:700,cursor:"pointer",
-              background:mode===id?C.navy:"transparent",color:mode===id?C.white:C.text2,transition:"all .2s"}}>
-            {lbl}
-          </button>
-        ))}
-      </div>
-
-      {/* Info tip */}
-      <div style={{background:mode==="aula"?C.navy2:"#f8f4fd",borderRadius:10,padding:"9px 12px",marginBottom:12,
-        fontSize:11,color:mode==="aula"?C.navy:"#5b21b6",lineHeight:1.5,borderLeft:`3px solid ${mode==="aula"?C.navy:"#7c3aed"}`}}>
-        {mode==="aula"
-          ? "Cole as mensagens das professoras exatamente como chegam do app da escola."
-          : "Cole os comunicados do portal — começando com \"Publicado por\". Detecta autor, data, categoria e conteúdo automaticamente."}
-      </div>
-
-      {/* Panel — key forces remount on mode change */}
-      <FormatPanel key={mode} mode={mode}/>
-
-    </div>
-  );
-}
-
-// ══════════════════════════════════════════════════════════════════════
-//  APP
-// ══════════════════════════════════════════════════════════════════════
 export default function App() {
   const [user,setUser]=useState(()=>{ try{return JSON.parse(sessionStorage.getItem("sb_u"))||null;}catch{return null;} });
   const [tab,setTab]=useState("home");
