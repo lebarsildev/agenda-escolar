@@ -1,4 +1,14 @@
 ---
+DATA: 2026-05-11
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: 🔢 Math | Na aula de hoje, realizamos a correção coletiva das páginas 32 e 33 do Student Workbook.
+MATERIA: ✏️ ELA | Na aula de hoje, iniciamos a unidade 3: The Novel Study: The Thing About Georgie. Os alunos receberam cartões com frases retiradas do livro e circularam pela sala conversando com os colegas para compartilhar as informações que haviam recebido. A partir dessas pistas, fizeram previsões sobre a história, os personagens e os possíveis acontecimentos do livro. Em seguida, o livro foi apresentado oficialmente à turma e realizamos a leitura compartilhada do primeiro capítulo.
+MATERIA: 🎨 Arts | Na aula de hoje, revisamos o conceito de contraste nas artes visuais, conversando sobre como cores claras e escuras podem criar diferentes efeitos em uma composição. Em seguida, os alunos dividiram a folha em quatro quadrados e desenharam a mesma figura em cada um deles. A proposta foi explorar diferentes combinações de cores e contrastes em cada espaço, observando como as escolhas de cores podem transformar a percepção e o destaque da imagem.
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA | Na aula de hoje, avançamos na escrita da narrativa sobre o herói autoral. O foco de hoje foi a estruturação da ideia central e dos fatos principais, servindo de base para a construção dos parágrafos do texto. Os alunos demonstraram muita criatividade ao organizar a trajetória de seus personagens! Após, concluímos a definição dos poderes e características marcantes de cada herói autoral. E finalizamos com a produção de uma surpresa especial para as mamães.
+MATERIA: 🌍 Aula de Geografia | Hoje, exploramos a rica diversidade cultural do Brasil, com foco especial nos territórios quilombolas. Estudamos a importância histórica e social dessas comunidades, suas características culturais e realizamos uma pesquisa sobre as comunidades remanescentes ainda existentes em nosso estado, valorizando a preservação dessa herança.
+---
 DATA: 2026-05-08
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
