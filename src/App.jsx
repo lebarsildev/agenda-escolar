@@ -1062,14 +1062,23 @@ export default function App() {
   // ── comunicados ──
   const shownAnn = annFilter==="all" ? ANNOUNCEMENTS : ANNOUNCEMENTS.filter(a=>a.category===annFilter);
 
-  // ── upcoming (from comunicados avaliacao + calendar, hardcoded as summary) ──
-  const upcoming=[
-    {date:"16/04",label:"Avaliação ELA – Poema Diamante",  sub:"7 versos · Ms. Mari",            hot:true },
-    {date:"17/04",label:"Math Challenge (AV2)",             sub:"Arredondamento e estimativas",   hot:true },
-    {date:"17/04",label:"AV2 Língua Portuguesa",            sub:"Texto narrativo · Miss Thayná",  hot:true },
-    {date:"17/04",label:"Two-Minute Talk",                  sub:"Mateus, Rafael e Alice",         hot:false},
-    {date:"20/04",label:"Sem aula",                         sub:"Feriado / dia livre",            hot:false},
-  ];
+  // ── upcoming: auto from announcements (avaliacao + calendario + tarefa) ──
+  const upcoming = (() => {
+    const today = todayISO();
+    const toISO = (d) => {
+      const p = d.match(/(\d{1,2})\/(\d{1,2})\/(\d{4})/);
+      if (p) return p[3]+"-"+p[2].padStart(2,"0")+"-"+p[1].padStart(2,"0");
+      return null;
+    };
+    const fmtD = (iso) => { const [,m,d]=iso.split("-"); return parseInt(d)+"/"+m; };
+    return ANNOUNCEMENTS
+      .filter(a=>a.category==="avaliacao"||a.category==="calendario"||a.category==="tarefa")
+      .map(a=>({...a,iso:toISO(a.date)}))
+      .filter(a=>a.iso&&a.iso>=today)
+      .sort((a,b)=>a.iso.localeCompare(b.iso))
+      .slice(0,6)
+      .map(a=>({date:fmtD(a.iso),label:a.title,sub:a.author,hot:a.category==="avaliacao"}));
+  })();
 
   const isAdmin = user.username === "admin";
 
@@ -1176,57 +1185,71 @@ export default function App() {
               </div>
             </div>
 
-            {/* what learned today */}
-            <div style={{background:`linear-gradient(135deg,${C.navy2},${C.white})`,border:`1px solid ${C.gray3}`,borderRadius:12,padding:"14px 16px"}}>
-              <div style={{fontSize:10,fontWeight:700,textTransform:"uppercase",letterSpacing:"0.08em",color:C.navy,marginBottom:10}}>📚 O que Mateus aprendeu hoje</div>
-              {[
-                {text:"Produziu a <strong>Revista América Indígena</strong> em grupo, desenvolvendo escrita científica para o público jovem.",tag:"História"},
-                {text:"Desenhou uma <strong>carranca</strong> explorando expressões faciais, sombras e profundidade com lápis de cor.",tag:"Arts"},
-                {text:"Realizou avaliação diagnóstica <strong>TRIEduc de Matemática</strong> (sem impacto na média).",tag:"Math"},
-                {text:"Aprofundou os estudos sobre a <strong>Jornada dos Heróis</strong> nos Centros de Aprendizagem.",tag:"PLA"},
-              ].map((item,i)=>(
-                <div key={i} style={{display:"flex",gap:8,marginBottom:7,alignItems:"flex-start"}}>
-                  <div style={{width:6,height:6,borderRadius:"50%",background:C.red,flexShrink:0,marginTop:5}}/>
-                  <div style={{fontSize:12,color:C.text,lineHeight:1.5}}>
-                    <span dangerouslySetInnerHTML={{__html:item.text}}/>
-                    {item.tag&&<span style={{display:"inline-block",fontSize:10,fontWeight:600,background:C.navy2,color:C.navy,padding:"1px 6px",borderRadius:99,marginLeft:4}}>{item.tag}</span>}
-                  </div>
+            {/* what learned today — auto from aulas.txt for today */}
+            {(()=>{
+              const today = todayISO();
+              const todayLessons = LESSONS.filter(l=>l.date===today);
+              const allSubjects = todayLessons.flatMap(l=>l.subjects);
+              if (allSubjects.length===0) return null;
+              return (
+                <div style={{background:`linear-gradient(135deg,${C.navy2},${C.white})`,border:`1px solid ${C.gray3}`,borderRadius:12,padding:"14px 16px"}}>
+                  <div style={{fontSize:10,fontWeight:700,textTransform:"uppercase",letterSpacing:"0.08em",color:C.navy,marginBottom:10}}>📚 O que Mateus aprendeu hoje</div>
+                  {allSubjects.map((s,i)=>(
+                    <div key={i} style={{display:"flex",gap:8,marginBottom:7,alignItems:"flex-start"}}>
+                      <div style={{width:6,height:6,borderRadius:"50%",background:C.red,flexShrink:0,marginTop:5}}/>
+                      <div style={{fontSize:12,color:C.text,lineHeight:1.5}}>
+                        <strong>{s.name}</strong>
+                        {s.detail && s.detail!==s.name && <span style={{color:C.text2}}> — {s.detail.slice(0,120)}{s.detail.length>120?"...":""}</span>}
+                      </div>
+                    </div>
+                  ))}
                 </div>
-              ))}
-            </div>
+              );
+            })()}
 
-            {/* study suggestions */}
-            <div style={{background:C.amber2,border:"1px solid #fde68a",borderRadius:12,padding:"12px 14px"}}>
-              <div style={{fontSize:11,fontWeight:700,color:C.amber,textTransform:"uppercase",letterSpacing:"0.06em",marginBottom:8}}>⚡ O que estudar hoje</div>
-              {[
-                {icon:"📝",text:"<strong>Poema Diamante:</strong> rever estrutura de 7 versos – substantivo, adjetivos, verbos, sinônimo."},
-                {icon:"🔢",text:"<strong>Math:</strong> arredondamento (dezena/centena/milhar) e adições com reagrupamento."},
-                {icon:"📖",text:"<strong>LP:</strong> rever uso do travessão e verbos dicendi para a produção textual."},
-              ].map((item,i)=>(
-                <div key={i} style={{display:"flex",gap:6,marginBottom:i<2?6:0,fontSize:12,color:"#78350f",lineHeight:1.45}}>
-                  <span>{item.icon}</span>
-                  <span dangerouslySetInnerHTML={{__html:item.text}}/>
+            {/* study today — urgent/overdue tasks */}
+            {(()=>{
+              const studyItems = enriched
+                .filter(t=>t.cs==="urgent"||t.cs==="overdue")
+                .slice(0,4);
+              if (studyItems.length===0) return null;
+              return (
+                <div style={{background:C.amber2,border:"1px solid #fde68a",borderRadius:12,padding:"12px 14px"}}>
+                  <div style={{fontSize:11,fontWeight:700,color:C.amber,textTransform:"uppercase",letterSpacing:"0.06em",marginBottom:8}}>⚡ O que estudar hoje</div>
+                  {studyItems.map((t,i)=>(
+                    <div key={i} style={{display:"flex",gap:6,marginBottom:i<studyItems.length-1?6:0,fontSize:12,color:"#78350f",lineHeight:1.45}}>
+                      <span>{CAT_META[t.category]?.icon||"📋"}</span>
+                      <span><strong>{t.title}</strong> — {t.desc.slice(0,80)}{t.desc.length>80?"...":""}</span>
+                    </div>
+                  ))}
                 </div>
-              ))}
-            </div>
+              );
+            })()}
 
-            {/* tomorrow */}
-            <div style={{background:C.white,borderRadius:12,padding:"13px 16px",boxShadow:sh}}>
-              <div style={{fontSize:12,fontWeight:700,color:C.navy,textTransform:"uppercase",letterSpacing:.5,marginBottom:10}}>🌅 O que vem amanhã (16/04)</div>
-              {[
-                {badge:"ELA",  label:"Avaliação do Poema Diamante",         sub:"Revisar estrutura antes de dormir!", hot:true },
-                {badge:"SCI",  label:"Science Quiz (AV2)",                  sub:"Habitat, cadeia alimentar, adaptações",hot:true},
-                {badge:"Talk", label:"Two-Minute Talk – Carlos, Clara e Matheus", sub:"Semana do Mateus é sexta!",  hot:false},
-              ].map((ev,i,arr)=>(
-                <div key={i} style={{display:"flex",alignItems:"center",gap:10,padding:"8px 0",borderBottom:i<arr.length-1?`1px solid ${C.gray2}`:"none"}}>
-                  <div style={{minWidth:44,background:ev.hot?C.red:C.navy2,color:ev.hot?C.white:C.navy,borderRadius:7,padding:"5px 6px",textAlign:"center",fontSize:10,fontWeight:700,flexShrink:0}}>{ev.badge}</div>
-                  <div>
-                    <div style={{fontSize:13,color:ev.hot?C.red:C.text,fontWeight:ev.hot?700:400}}>{ev.label}</div>
-                    <div style={{fontSize:11,color:C.text3}}>{ev.sub}</div>
+            {/* tomorrow — auto from aulas.txt */}
+            {(()=>{
+              const tomorrow = new Date(); tomorrow.setDate(tomorrow.getDate()+1);
+              const tISO = tomorrow.toISOString().split("T")[0];
+              const tmrLessons = LESSONS.filter(l=>l.date===tISO);
+              const tmrSubjects = tmrLessons.flatMap(l=>l.subjects);
+              if (tmrSubjects.length===0) return null;
+              const [,tm,td] = tISO.split("-");
+              return (
+                <div style={{background:C.white,borderRadius:12,padding:"13px 16px",boxShadow:sh}}>
+                  <div style={{fontSize:12,fontWeight:700,color:C.navy,textTransform:"uppercase",letterSpacing:.5,marginBottom:10}}>
+                    🌅 O que vem amanhã ({parseInt(td)}/{tm})
                   </div>
+                  {tmrSubjects.map((s,i,arr)=>(
+                    <div key={i} style={{display:"flex",alignItems:"center",gap:10,padding:"8px 0",borderBottom:i<arr.length-1?`1px solid ${C.gray2}`:"none"}}>
+                      <div style={{minWidth:36,textAlign:"center",fontSize:18,flexShrink:0}}>{s.icon}</div>
+                      <div>
+                        <div style={{fontSize:13,color:C.text,fontWeight:600}}>{s.name}</div>
+                      </div>
+                    </div>
+                  ))}
                 </div>
-              ))}
-            </div>
+              );
+            })()}
 
           </div>
         )}
