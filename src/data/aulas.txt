@@ -1,4 +1,19 @@
 ---
+DATA: 2026-05-12
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: 🔢 Math | Na aula de hoje, finalizamos a correção coletiva da página 33 do Student Workbook. Em seguida, os alunos participaram de uma dinâmica em duplas utilizando dados. A proposta era rolar o dado e criar operações de subtração, praticando estratégias de cálculo mental e resolução de problemas de forma lúdica e interativa.
+MATERIA: ✏️ ELA | Na aula de hoje, realizamos a leitura dos capítulos 2 e 3 do livro The Thing About Georgie. Durante a leitura, fizemos uma dinâmica proposta pela própria história: utilizando uma fita métrica, os alunos mediram a distância entre a maçaneta e o chão, o interruptor e o chão, o batente da janela e o chão, além da altura das mesas. Essa atividade teve como objetivo ajudar as crianças a compreenderem melhor como é a vida de Georgie, que mede 1,07 m de altura. Depois da leitura, trabalhamos com três centros de aprendizagem: • Centro 1 – Guided Reading: trabalhamos com narrativa pessoal, explorando os tempos verbais passado, presente e futuro. • Centro 2 – SLM Response Journal: “How Does It Measure Up?” os alunos utilizaram a fita métrica para medir os objetos propostos na atividade do SLM. • Centro 3 – Response Journal Questions for Chapters 1 and 2: os alunos responderam perguntas relacionadas aos capítulos lidos, refletindo sobre os acontecimentos da história e os personagens.
+---
+DATA: 2026-05-12
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA | Dedicamos a nossa aula de hoje a uma produção escrita muito especial. Os alunos estão preparando uma surpresa para o Dia das Mães e o clima na sala foi de total empolgação. Através da escrita, eles puderam expressar sentimentos e exercitar a criatividade para este momento que será especial.
+MATERIA: ⚽ Aula de Música com a Miss Michelle | Aula de Música com a Miss Michelle. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a aula de Educação Física.
+MATERIA: ⚽ Aula de Educação Física com o Mister Paulo | Aula de Educação Física com o Mister Paulo.
+---
+---
 DATA: 2026-05-11
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
