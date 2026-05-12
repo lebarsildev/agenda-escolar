@@ -1,3 +1,10 @@
+---
+DATA: 12/05/2026
+TITULO: Livro "The ting About Georgie"
+AUTOR: Ms. Mari
+CATEGORIA: atividade
+CONTEUDO: No dia de ontem, iniciamos a leitura do livro The Thing About Georgie. Pedi às crianças que escrevessem um bilhete na agenda sobre o envio do livro para a escola. Precisaremos utilizá-lo diariamente, portanto, o livro deverá permanecer sempre na mochila. Gostaria de pedir, por gentileza, que ele seja enviado, pois estaremos utilizando-o nos centros de aprendizagem e também nas atividades de leitura em dupla. Desde já, agradeço a parceria e o apoio de sempre!
+---
 DATA: 24/04/2026
 TITULO: Revisão
 AUTOR: Ms. Mari
