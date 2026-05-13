@@ -1,4 +1,10 @@
 ---
+DATA: 2026-05-13
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: ✏️ PLA | Na aula de hoje, iniciamos a exploração da obra "O maior herói do mundo". Analisamos a capa e a quarta capa, fazendo predições sobre se a história é real ou fictícia. Destacamos que, embora a narrativa seja ficção, ela se baseia em fatos reais: cientistas realmente desenvolvem experimentos para criar materiais como capas de invisibilidade e roupas superadesivas. Realizamos a leitura até a página 10. Em seguida, avançamos na narrativa sobre o herói autoral. Após as etapas de planejamento, os alunos iniciaram hoje a escrita do rascunho da história transformando as ideias dos organizadores gráficos em texto. ⛵ Aula de História: Na aula de hoje, avançamos no tema "Como eram as navegações?". Os alunos conheceram o interior das caravelas, os objetivos das expedições e os desafios enfrentados ao desbravar novos mundos.
+---
 DATA: 2026-05-12
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
