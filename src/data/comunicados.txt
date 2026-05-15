@@ -1,4 +1,16 @@
 ---
+DATA: 15/05/2026
+TITULO: Informações sobre agendamento PTI
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: Em breve, cada série receberá o link do aplicativo por meio do qual será realizado o agendamento dos horários de atendimento do PTI, que acontecerá no dia 23/05, a partir das 8h. Pedimos atenção aos prazos, pois o agendamento poderá ser realizado exclusivamente entre os dias 18 e 22 de maio. Cada atendimento terá duração de 20 minutos. Nesse momento, será possível acompanhar e analisar as avaliações dos alunos. Informamos ainda que cada aluno terá direito a apenas um horário de atendimento. Em caso de marcação de mais de um horário para o mesmo aluno, os horários adicionais serão cancelados, permanecendo válido apenas o primeiro agendamento realizado. Caso precise alterar o horário,deverá entrar em contato com a secretaria da escola para que possamos fazer a modificação no aplicativo mediante os horários que estarão disponíveis. Para que possamos organizar os atendimentos do PTI da melhor forma possível e garantir o respeito aos horários de todas as famílias já agendadas, pedimos a gentileza de observar os seguintes pontos: • Em caso de necessidade de cancelamento ou remarcação, solicitamos que o aviso seja feito com, no mínimo, 24 horas de antecedência; • Caso o responsável não compareça ao horário agendado , não haverá nova possibilidade de agendamento do PTI; • Neste dia, os alunos deverão permanecer em casa, pois o PTI é destinado exclusivamente à participação dos responsáveis; • Pedimos também atenção ao horário agendado, pois não haverá tolerância para atrasos, visando não comprometer os atendimentos seguintes. Contamos com a compreensão e colaboração de todos para que possamos atender cada família com a atenção e o cuidado que merecem. Informamos ainda que: A Collection Folder para o ensino fundamental será enviado hoje (no dia 15/05) O Report Card será disponibilizado até o dia 21/05, por meio da plataforma Toddle; Também será entregue o boletim do 1º trimestre, contendo a média obtida pelo aluno. Ressaltamos que a professora estará com a lista de presença, que deverá ser assinada pelos responsáveis no dia do atendimento. Na ocasião, também serão entregues os certificados Maple Bear referentes à conclusão do ano letivo de 2025. Contamos com a participação de todos.
+---
+DATA: 15/05/2026
+TITULO: Collection Folder
+AUTOR: Ms. Mari
+CATEGORIA: atividade
+CONTEUDO: Segue na mochila dos nossos Bears a Collection Folder com as atividades e produções realizadas ao longo deste primeiro trimestre. Esse material foi organizado com muito carinho para que vocês possam acompanhar e valorizar as vivências, descobertas e avanços das crianças durante esse período. A pasta é destinada às famílias e poderá permanecer em casa como registro desse percurso de aprendizagem, não sendo necessário devolvê-la à escola. Agradecemos pela parceria de sempre!
+---
 DATA: 12/05/2026
 TITULO: Livro "The ting About Georgie"
 AUTOR: Ms. Mari
