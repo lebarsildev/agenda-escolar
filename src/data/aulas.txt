@@ -1,4 +1,10 @@
 ---
+DATA: 2026-05-15
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: 🔢 Math | Na aula de hoje, trabalhamos com ângulos e com o uso do transferidor para realizar a medição dos ângulos. Os alunos desenvolveram atividades práticas e realizaram as páginas 36 e 37 do Student Workbook, ampliando a compreensão sobre esse conteúdo matemático.
+MATERIA: ✏️ ELA | Hoje tivemos aula de Cambridge. Os alunos realizaram atividades de leitura e escrita, trabalhando a interpretação de texto e a associação entre palavras e imagens. Como parte da proposta, fizeram um exercício de leitura seguido do preenchimento das informações de acordo com as figuras apresentadas.
+---
 DATA: 2026-05-14
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
