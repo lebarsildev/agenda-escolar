@@ -1,11 +1,13 @@
 import { useState } from "react";
 import aulasRaw       from "./data/aulas.txt?raw";
 import comunicadosRaw from "./data/comunicados.txt?raw";
-import { parseAulas, parseComunicados } from "./parseData";
+import calendarioRaw  from "./data/calendario.txt?raw";
+import { parseAulas, parseComunicados, parseCalendario } from "./parseData";
 import { DEFAULT_TASKS, TASKS_VERSION  } from "./tarefas";
 
 const LESSONS       = parseAulas(aulasRaw);
 const ANNOUNCEMENTS = parseComunicados(comunicadosRaw);
+const CALENDARIO    = parseCalendario(calendarioRaw);
 
 // ── tokens ──────────────────────────────────────────────────────────
 const C = {
@@ -1131,22 +1133,30 @@ export default function App() {
   // ── comunicados ──
   const shownAnn = annFilter==="all" ? ANNOUNCEMENTS : ANNOUNCEMENTS.filter(a=>a.category===annFilter);
 
-  // ── upcoming: auto from announcements (avaliacao + calendario + tarefa) ──
+  // ── upcoming: merge calendar + announcements (avaliacao + tarefa) ──
   const upcoming = (() => {
     const today = todayISO();
     const toISO = (d) => {
+      if (/^\d{4}-\d{2}-\d{2}$/.test(d)) return d;
       const p = d.match(/(\d{1,2})\/(\d{1,2})\/(\d{4})/);
       if (p) return p[3]+"-"+p[2].padStart(2,"0")+"-"+p[1].padStart(2,"0");
       return null;
     };
     const fmtD = (iso) => { const [,m,d]=iso.split("-"); return parseInt(d)+"/"+m; };
-    return ANNOUNCEMENTS
-      .filter(a=>a.category==="avaliacao"||a.category==="calendario"||a.category==="tarefa")
+    const dayN = (iso) => ["Dom","Seg","Ter","Qua","Qui","Sex","Sáb"][new Date(iso+"T12:00:00").getDay()];
+    const calEvents = CALENDARIO
+      .filter(e=>e.date>=today)
+      .map(e=>({iso:e.date,label:e.title,sub:dayN(e.date),hot:e.category==="evento"}));
+    const annEvents = ANNOUNCEMENTS
+      .filter(a=>a.category==="avaliacao"||a.category==="tarefa")
       .map(a=>({...a,iso:toISO(a.date)}))
       .filter(a=>a.iso&&a.iso>=today)
+      .map(a=>({iso:a.iso,label:a.title,sub:a.author,hot:a.category==="avaliacao"}));
+    return [...calEvents,...annEvents]
       .sort((a,b)=>a.iso.localeCompare(b.iso))
-      .slice(0,6)
-      .map(a=>({date:fmtD(a.iso),label:a.title,sub:a.author,hot:a.category==="avaliacao"}));
+      .filter((e,i,arr)=>i===0||e.iso!==arr[i-1].iso||e.label!==arr[i-1].label)
+      .slice(0,8)
+      .map(e=>({date:fmtD(e.iso),label:e.label,sub:e.sub,hot:e.hot}));
   })();
 
   const isAdmin = user.username === "admin";
