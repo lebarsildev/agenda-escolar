@@ -1,0 +1,177 @@
+---
+DATA: 2026-05-01
+TITULO: Dia do Trabalho
+CATEGORIA: feriado
+---
+DATA: 2026-05-15
+TITULO: 1º COC
+CATEGORIA: evento
+---
+DATA: 2026-05-23
+TITULO: 1º PTI (Atendimento aos Pais)
+CATEGORIA: evento
+---
+DATA: 2026-06-04
+TITULO: Corpus Christi
+CATEGORIA: feriado
+---
+DATA: 2026-06-11
+TITULO: Início da Copa do Mundo
+CATEGORIA: evento
+---
+DATA: 2026-06-20
+TITULO: Festa Country
+CATEGORIA: evento
+---
+DATA: 2026-07-01
+TITULO: Canadá Day
+CATEGORIA: feriado
+---
+DATA: 2026-07-13
+TITULO: Recesso Escolar
+CATEGORIA: recesso
+---
+DATA: 2026-07-14
+TITULO: Recesso Escolar
+CATEGORIA: recesso
+---
+DATA: 2026-07-15
+TITULO: Recesso Escolar
+CATEGORIA: recesso
+---
+DATA: 2026-07-16
+TITULO: Recesso Escolar
+CATEGORIA: recesso
+---
+DATA: 2026-07-17
+TITULO: Recesso Escolar
+CATEGORIA: recesso
+---
+DATA: 2026-07-18
+TITULO: Recesso Escolar
+CATEGORIA: recesso
+---
+DATA: 2026-07-19
+TITULO: Recesso Escolar
+CATEGORIA: recesso
+---
+DATA: 2026-07-20
+TITULO: Recesso Escolar
+CATEGORIA: recesso
+---
+DATA: 2026-07-21
+TITULO: Recesso Escolar
+CATEGORIA: recesso
+---
+DATA: 2026-07-22
+TITULO: Recesso Escolar
+CATEGORIA: recesso
+---
+DATA: 2026-07-23
+TITULO: Recesso Escolar
+CATEGORIA: recesso
+---
+DATA: 2026-07-24
+TITULO: Recesso Escolar
+CATEGORIA: recesso
+---
+DATA: 2026-08-22
+TITULO: Knowledge Fair
+CATEGORIA: evento
+---
+DATA: 2026-09-07
+TITULO: Independência do Brasil
+CATEGORIA: feriado
+---
+DATA: 2026-09-11
+TITULO: 2º COC
+CATEGORIA: evento
+---
+DATA: 2026-09-19
+TITULO: 2º PTI (Atendimento aos Pais)
+CATEGORIA: evento
+---
+DATA: 2026-10-12
+TITULO: Padroeira do Brasil
+CATEGORIA: feriado
+---
+DATA: 2026-10-13
+TITULO: Thanksgiving Canadense
+CATEGORIA: evento
+---
+DATA: 2026-10-15
+TITULO: Dia dos Professores
+CATEGORIA: evento
+---
+DATA: 2026-10-30
+TITULO: Halloween
+CATEGORIA: evento
+---
+DATA: 2026-11-02
+TITULO: Finados
+CATEGORIA: feriado
+---
+DATA: 2026-11-15
+TITULO: Proclamação da República
+CATEGORIA: feriado
+---
+DATA: 2026-11-20
+TITULO: Dia da Consciência Negra
+CATEGORIA: feriado
+---
+DATA: 2026-12-04
+TITULO: 3º COC
+CATEGORIA: evento
+---
+DATA: 2026-12-07
+TITULO: Spirit Week
+CATEGORIA: evento
+---
+DATA: 2026-12-08
+TITULO: Spirit Week
+CATEGORIA: evento
+---
+DATA: 2026-12-09
+TITULO: Spirit Week
+CATEGORIA: evento
+---
+DATA: 2026-12-10
+TITULO: Spirit Week
+CATEGORIA: evento
+---
+DATA: 2026-12-11
+TITULO: Spirit Week
+CATEGORIA: evento
+---
+DATA: 2026-12-07
+TITULO: Recuperação
+CATEGORIA: evento
+---
+DATA: 2026-12-08
+TITULO: Recuperação
+CATEGORIA: evento
+---
+DATA: 2026-12-09
+TITULO: Recuperação
+CATEGORIA: evento
+---
+DATA: 2026-12-10
+TITULO: Recuperação
+CATEGORIA: evento
+---
+DATA: 2026-12-11
+TITULO: Recuperação
+CATEGORIA: evento
+---
+DATA: 2026-12-12
+TITULO: Apresentação de Final de Ano
+CATEGORIA: evento
+---
+DATA: 2026-12-14
+TITULO: Entrega dos Boletins
+CATEGORIA: evento
+---
+DATA: 2026-12-15
+TITULO: End of the Year (Encerramento)
+CATEGORIA: evento
+---
