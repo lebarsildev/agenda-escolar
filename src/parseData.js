@@ -1,21 +1,18 @@
 // ─── parseAulas ──────────────────────────────────────────────────────────────
-// Reads aulas.txt and returns structured lesson objects.
-// To update lessons: edit src/data/aulas.txt only.
 export function parseAulas(raw) {
   const lessons = [];
-  // Normalize line endings, then split on --- (handles single or double --- gracefully)
   const normalized = raw.replace(/\r\n/g, "\n").replace(/\r/g, "\n");
   const blocks = normalized
-    .split(/^---+$/m)              // split on any line that is only dashes
+    .split(/^---+$/m)
     .map(b => b.trim())
-    .filter(b => b.length > 0);   // drop empty blocks (catches double ---)
+    .filter(b => b.length > 0);
 
   blocks.forEach((block, idx) => {
     const lines = block.split("\n").map(l => l.trim()).filter(Boolean);
     const obj = { id: idx + 1, subjects: [] };
 
     lines.forEach(line => {
-      if (line.startsWith("DATA:"))          obj.date    = line.slice(5).trim();
+      if (line.startsWith("DATA:"))           obj.date    = line.slice(5).trim();
       else if (line.startsWith("PROFESSOR:")) obj.teacher = line.slice(10).trim();
       else if (line.startsWith("PERIODO:"))   obj.period  = line.slice(8).trim();
       else if (line.startsWith("MATERIA:")) {
@@ -37,15 +34,13 @@ export function parseAulas(raw) {
 }
 
 // ─── parseComunicados ─────────────────────────────────────────────────────────
-// Reads comunicados.txt and returns structured announcement objects.
-// To update announcements: edit src/data/comunicados.txt only.
 export function parseComunicados(raw) {
   const list = [];
   const normalized = raw.replace(/\r\n/g, "\n").replace(/\r/g, "\n");
   const blocks = normalized
     .split(/^---+$/m)
     .map(b => b.trim())
-    .filter(b => b.length > 0);   // drop empty blocks between double ---
+    .filter(b => b.length > 0);
 
   blocks.forEach((block, idx) => {
     const lines = block.split("\n").map(l => l.trim()).filter(Boolean);
@@ -63,4 +58,36 @@ export function parseComunicados(raw) {
   });
 
   return list;
+}
+
+// ─── parseCalendario ─────────────────────────────────────────────────────────
+// Reads calendario.txt — school events, holidays, recesses.
+// Format per block:
+//   DATA: YYYY-MM-DD
+//   TITULO: Event name
+//   CATEGORIA: feriado | evento | recesso | avaliacao
+export function parseCalendario(raw) {
+  const list = [];
+  const normalized = raw.replace(/\r\n/g, "\n").replace(/\r/g, "\n");
+  const blocks = normalized
+    .split(/^---+$/m)
+    .map(b => b.trim())
+    .filter(b => b.length > 0);
+
+  blocks.forEach((block, idx) => {
+    const lines = block.split("\n").map(l => l.trim()).filter(Boolean);
+    const obj = { id: idx + 1 };
+
+    lines.forEach(line => {
+      if (line.startsWith("DATA:"))           obj.date     = line.slice(5).trim();
+      else if (line.startsWith("TITULO:"))    obj.title    = line.slice(7).trim();
+      else if (line.startsWith("CATEGORIA:")) obj.category = line.slice(10).trim();
+      else if (line.startsWith("DESCRICAO:")) obj.desc     = line.slice(9).trim();
+    });
+
+    if (obj.date && obj.title) list.push(obj);
+  });
+
+  // Sort by date ascending
+  return list.sort((a, b) => a.date.localeCompare(b.date));
 }
