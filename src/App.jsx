@@ -145,13 +145,14 @@ function Login({ onLogin }) {
 // ══════════════════════════════════════════════════════════════════════
 //  SUBJECT ROW
 // ══════════════════════════════════════════════════════════════════════
-function SubjectRow({s}) {
-  const [open,setOpen]=useState(true);
+function SubjectRow({s, highlight=""}) {
+  const [open,setOpen]=useState(false);
+  const hi = highlight && s.name.toLowerCase().includes(highlight.toLowerCase());
   return (
-    <div style={{borderBottom:`1px solid ${C.gray2}`,paddingBottom:10,marginBottom:10}}>
+    <div style={{borderBottom:`1px solid ${C.gray2}`,paddingBottom:10,marginBottom:10,background:hi?"#fff8e6":"transparent",borderRadius:hi?6:0,padding:hi?"6px 8px":undefined}}>
       <button onClick={()=>setOpen(!open)} style={{width:"100%",background:"none",border:"none",cursor:"pointer",textAlign:"left",padding:0,display:"flex",alignItems:"flex-start",gap:10,fontFamily:ff}}>
         <span style={{fontSize:17,lineHeight:"22px",flexShrink:0}}>{s.icon}</span>
-        <div style={{flex:1,fontSize:13,fontWeight:700,color:C.navy,lineHeight:1.35}}>{s.name}</div>
+        <div style={{flex:1,fontSize:13,fontWeight:700,color:hi?C.amber:C.navy,lineHeight:1.35}}>{s.name}</div>
         <span style={{fontSize:10,color:C.text3,marginTop:2,flexShrink:0,lineHeight:"22px",transition:"transform .2s",transform:open?"rotate(180deg)":"rotate(0deg)"}}>▼</span>
       </button>
       {open&&<div style={{marginTop:7,marginLeft:27,fontSize:13,color:C.text2,lineHeight:1.7,borderLeft:`3px solid ${C.red}`,paddingLeft:11}}>{s.detail}</div>}
@@ -167,6 +168,13 @@ function TaskCard({task,onToggle}) {
   const st  = STATUS_STYLE[cs];
   const cat = CAT_META[task.category]||CAT_META.tarefa;
   const pri = PRI_META[task.priority]||PRI_META.medium;
+
+  // Days countdown bar
+  const daysTotal = 7;
+  const daysLeft  = Math.max(0, Math.ceil((new Date(task.due)-new Date(todayISO()))/86400000));
+  const barPct    = cs==="done" ? 100 : Math.max(0, Math.min(100, ((daysTotal-daysLeft)/daysTotal)*100));
+  const barColor  = cs==="done" ? C.green : cs==="overdue" ? C.red : daysLeft<=2 ? "#e67e22" : C.navy;
+
   return (
     <div style={{background:st.bg,borderRadius:12,border:`1.5px solid ${st.border}`,padding:"13px 14px",marginBottom:9,opacity:cs==="done"?.65:1,transition:"opacity .2s"}}>
       <div style={{display:"flex",gap:11,alignItems:"flex-start"}}>
@@ -183,7 +191,14 @@ function TaskCard({task,onToggle}) {
             <span style={{fontSize:11,color:pri.color,fontWeight:700}}>{pri.dot} {pri.label}</span>
             <span style={{fontSize:11,color:cs==="overdue"?C.red:cs==="urgent"?"#e67e22":C.text2,fontWeight:cs==="overdue"||cs==="urgent"?700:400}}>📅 {fmtLong(task.due)} · {daysLabel(task.due)}</span>
           </div>
-          {cs!=="done"&&<div style={{fontSize:12,color:C.text2,lineHeight:1.6}}>{task.desc}</div>}
+          {cs!=="done"&&(
+            <>
+              <div style={{background:C.gray3,borderRadius:99,height:4,overflow:"hidden",marginBottom:6}}>
+                <div style={{width:`${barPct}%`,height:"100%",background:barColor,borderRadius:99,transition:"width .5s ease"}}/>
+              </div>
+              <div style={{fontSize:12,color:C.text2,lineHeight:1.6}}>{task.desc}</div>
+            </>
+          )}
         </div>
       </div>
     </div>
@@ -510,6 +525,41 @@ const CAT_COLORS = {
 const CAT_LABELS = {
   avaliacao:"Avaliação", tarefa:"Tarefa", aviso:"Aviso", calendario:"Calendário", atividade:"Atividade"
 };
+
+// ── ANN CARD with full-screen reader ────────────────────────────────
+function AnnCard({ann, c}) {
+  const [open, setOpen] = useState(false);
+  return (
+    <>
+      {open&&(
+        <div style={{position:"fixed",inset:0,background:"rgba(0,0,0,.55)",zIndex:200,display:"flex",alignItems:"flex-end"}} onClick={()=>setOpen(false)}>
+          <div style={{background:C.white,borderRadius:"16px 16px 0 0",padding:"20px 20px 40px",width:"100%",maxHeight:"80vh",overflowY:"auto",maxWidth:430,margin:"0 auto"}} onClick={e=>e.stopPropagation()}>
+            <div style={{display:"flex",justifyContent:"space-between",alignItems:"center",marginBottom:14}}>
+              <span style={{fontSize:10,fontWeight:700,padding:"3px 9px",borderRadius:20,background:c.bg,color:c.color,border:`1px solid ${c.color}22`}}>{c.label}</span>
+              <button onClick={()=>setOpen(false)} style={{background:C.gray2,border:"none",cursor:"pointer",fontSize:14,color:C.text2,padding:"4px 10px",borderRadius:99,fontFamily:ff,fontWeight:700}}>Fechar</button>
+            </div>
+            <div style={{fontSize:17,fontWeight:800,color:C.navy,lineHeight:1.3,marginBottom:8}}>{ann.title}</div>
+            <div style={{fontSize:12,color:C.text3,marginBottom:16}}>{ann.date} · {ann.author}</div>
+            <div style={{fontSize:14,color:C.text,lineHeight:1.85,borderTop:`1px solid ${C.gray2}`,paddingTop:16}}>{ann.content}</div>
+          </div>
+        </div>
+      )}
+      <div style={{background:C.white,borderRadius:12,marginBottom:12,overflow:"hidden",boxShadow:sh}}>
+        <div style={{borderLeft:`5px solid ${c.accent||c.color}`,padding:"14px 16px"}}>
+          <div style={{display:"flex",justifyContent:"space-between",alignItems:"flex-start",gap:8,marginBottom:5}}>
+            <div style={{fontSize:14,fontWeight:800,color:C.navy,lineHeight:1.3,flex:1}}>{ann.title}</div>
+            <div style={{fontSize:10,fontWeight:700,padding:"3px 9px",borderRadius:20,background:c.bg,color:c.color,whiteSpace:"nowrap",flexShrink:0,border:`1px solid ${c.color}22`}}>{c.label}</div>
+          </div>
+          <div style={{fontSize:11,color:C.text3,marginBottom:8}}>{ann.date} · {ann.author}</div>
+          <div style={{fontSize:13,color:C.text2,lineHeight:1.7,display:"-webkit-box",WebkitLineClamp:3,WebkitBoxOrient:"vertical",overflow:"hidden"}}>{ann.content}</div>
+          <button onClick={()=>setOpen(true)} style={{background:"none",border:"none",cursor:"pointer",fontSize:12,color:c.color,fontWeight:700,padding:"8px 0 0",fontFamily:ff}}>
+            Ler completo →
+          </button>
+        </div>
+      </div>
+    </>
+  );
+}
 
 // ── FORMATADOR ────────────────────────────────────────────────────────
 function Formatador() {
@@ -1028,6 +1078,8 @@ export default function App() {
   const [taskFilter,setTaskFilter]=useState("pending");
   const [annFilter,setAnnFilter]=useState("all");
   const [tasks,setTasks]=useState(()=>loadTasks());
+  const [search,setSearch]=useState("");
+  const [subjFilter,setSubjFilter]=useState("all");
 
   function login(u){sessionStorage.setItem("sb_u",JSON.stringify(u));setUser(u);}
   function logout(){sessionStorage.removeItem("sb_u");setUser(null);}
@@ -1058,6 +1110,23 @@ export default function App() {
 
   // ── agenda grouped ──
   const grouped = LESSONS.reduce((acc,l)=>{ (acc[l.date]=acc[l.date]||[]).push(l); return acc; },{});
+
+  // ── all unique subjects for filter ──
+  const allSubjects = [...new Set(LESSONS.flatMap(l=>l.subjects.map(s=>s.name.split("–")[0].split("-")[0].trim())))].sort();
+
+  // ── search results ──
+  const searchQ = search.trim().toLowerCase();
+  const searchResults = searchQ.length < 2 ? [] : [
+    ...LESSONS.flatMap(l=>l.subjects
+      .filter(s=>s.name.toLowerCase().includes(searchQ)||s.detail.toLowerCase().includes(searchQ))
+      .map(s=>({type:"aula",date:l.date,teacher:l.teacher,period:l.period,subject:s}))),
+    ...ANNOUNCEMENTS
+      .filter(a=>a.title?.toLowerCase().includes(searchQ)||a.content?.toLowerCase().includes(searchQ)||a.author?.toLowerCase().includes(searchQ))
+      .map(a=>({type:"comunicado",ann:a})),
+    ...enriched
+      .filter(t=>t.title.toLowerCase().includes(searchQ)||t.desc.toLowerCase().includes(searchQ))
+      .map(t=>({type:"tarefa",task:t})),
+  ];
 
   // ── comunicados ──
   const shownAnn = annFilter==="all" ? ANNOUNCEMENTS : ANNOUNCEMENTS.filter(a=>a.category===annFilter);
@@ -1256,31 +1325,99 @@ export default function App() {
 
         {/* ══════════════ AGENDA ══════════════ */}
         {tab==="agenda"&&(
-          <div style={{display:"flex",flexDirection:"column",gap:12}}>
-            <div style={{fontSize:12,fontWeight:800,color:C.navy,textTransform:"uppercase",letterSpacing:.5}}>📖 Rotina das Aulas</div>
-            {Object.entries(grouped).sort((a,b)=>b[0].localeCompare(a[0])).map(([date,lessons])=>(
-              <div key={date} style={{marginBottom:4}}>
-                <div style={{display:"flex",alignItems:"center",gap:10,marginBottom:10}}>
-                  <div style={{background:C.navy,color:C.white,borderRadius:8,padding:"5px 14px",fontSize:12,fontWeight:700,flexShrink:0}}>
-                    {dayName(date)}, {fmtShort(date)}
-                  </div>
-                  <div style={{flex:1,height:1,background:C.gray3}}/>
-                </div>
-                {lessons.map(lesson=>(
-                  <div key={lesson.id} style={{background:C.white,borderRadius:12,marginBottom:10,overflow:"hidden",boxShadow:sh}}>
-                    <div style={{background:lesson.period==="manhã"?"#fffbf0":"#f5f8ff",padding:"10px 16px",display:"flex",justifyContent:"space-between",alignItems:"center",borderBottom:`1px solid ${C.gray2}`}}>
-                      <div style={{fontSize:13,fontWeight:700,color:C.navy}}>{lesson.teacher}</div>
-                      <div style={{fontSize:11,fontWeight:700,padding:"3px 11px",borderRadius:20,background:lesson.period==="manhã"?"#fff3cd":C.navy3,color:lesson.period==="manhã"?"#a0720a":C.navy}}>
-                        {lesson.period==="manhã"?"☀️ Manhã":"🌤 Tarde"}
+          <div style={{display:"flex",flexDirection:"column",gap:10}}>
+
+            {/* ── SEARCH BAR ── */}
+            <div style={{position:"relative"}}>
+              <input
+                value={search} onChange={e=>setSearch(e.target.value)}
+                placeholder="🔍 Buscar aulas, comunicados, tarefas..."
+                style={{width:"100%",padding:"11px 36px 11px 14px",border:`1.5px solid ${search?C.red:C.gray3}`,borderRadius:10,fontSize:13,fontFamily:ff,outline:"none",background:C.white,color:C.text,boxShadow:sh}}
+              />
+              {search&&<button onClick={()=>setSearch("")} style={{position:"absolute",right:10,top:"50%",transform:"translateY(-50%)",background:"none",border:"none",cursor:"pointer",fontSize:16,color:C.text3,padding:0}}>✕</button>}
+            </div>
+
+            {/* ── SEARCH RESULTS ── */}
+            {searchQ.length>=2&&(
+              <div style={{display:"flex",flexDirection:"column",gap:8}}>
+                <div style={{fontSize:12,fontWeight:700,color:C.text2}}>{searchResults.length} resultado{searchResults.length!==1?"s":""} para "{search}"</div>
+                {searchResults.length===0
+                  ?<div style={{background:C.white,borderRadius:10,padding:"20px",textAlign:"center",color:C.text2,fontSize:13,boxShadow:sh}}>Nenhum resultado encontrado.</div>
+                  :searchResults.map((r,i)=>{
+                    if (r.type==="aula") return (
+                      <div key={i} style={{background:C.white,borderRadius:10,padding:"12px 14px",boxShadow:sh,borderLeft:`3px solid ${C.navy}`}}>
+                        <div style={{fontSize:11,color:C.text3,marginBottom:4}}>{dayName(r.date)}, {fmtShort(r.date)} · {r.teacher} · {r.period}</div>
+                        <div style={{fontSize:13,fontWeight:700,color:C.navy}}>{r.subject.icon} {r.subject.name}</div>
+                        <div style={{fontSize:12,color:C.text2,marginTop:3,lineHeight:1.5}}>{r.subject.detail.slice(0,120)}{r.subject.detail.length>120?"...":""}</div>
                       </div>
-                    </div>
-                    <div style={{padding:"14px 16px 4px"}}>
-                      {lesson.subjects.map((s,i)=><SubjectRow key={i} s={s}/>)}
-                    </div>
-                  </div>
+                    );
+                    if (r.type==="comunicado") { const c=ANN_CAT[r.ann.category]||ANN_CAT.aviso; return (
+                      <div key={i} style={{background:C.white,borderRadius:10,padding:"12px 14px",boxShadow:sh,borderLeft:`3px solid ${c.color}`}}>
+                        <div style={{fontSize:11,color:C.text3,marginBottom:4}}>{r.ann.date} · {r.ann.author}</div>
+                        <div style={{fontSize:13,fontWeight:700,color:C.navy}}>{r.ann.title}</div>
+                        <div style={{fontSize:12,color:C.text2,marginTop:3,lineHeight:1.5}}>{r.ann.content?.slice(0,100)}{r.ann.content?.length>100?"...":""}</div>
+                      </div>
+                    );}
+                    return (
+                      <div key={i} style={{background:C.white,borderRadius:10,padding:"12px 14px",boxShadow:sh,borderLeft:`3px solid ${C.amber}`}}>
+                        <div style={{fontSize:11,color:C.text3,marginBottom:4}}>Tarefa · {fmtLong(r.task.due)}</div>
+                        <div style={{fontSize:13,fontWeight:700,color:C.navy}}>{r.task.title}</div>
+                        <div style={{fontSize:12,color:C.text2,marginTop:3,lineHeight:1.5}}>{r.task.desc.slice(0,100)}{r.task.desc.length>100?"...":""}</div>
+                      </div>
+                    );
+                  })
+                }
+              </div>
+            )}
+
+            {/* ── SUBJECT FILTER ── */}
+            {!searchQ&&(
+              <div style={{display:"flex",gap:6,overflowX:"auto",paddingBottom:4}}>
+                <button onClick={()=>setSubjFilter("all")} style={{padding:"5px 12px",borderRadius:20,fontSize:11,fontWeight:700,border:"none",background:subjFilter==="all"?C.navy:C.gray2,color:subjFilter==="all"?C.white:C.text2,cursor:"pointer",fontFamily:ff,flexShrink:0}}>Todas</button>
+                {allSubjects.slice(0,8).map(s=>(
+                  <button key={s} onClick={()=>setSubjFilter(subjFilter===s?"all":s)} style={{padding:"5px 12px",borderRadius:20,fontSize:11,fontWeight:700,border:"none",background:subjFilter===s?C.navy:C.gray2,color:subjFilter===s?C.white:C.text2,cursor:"pointer",fontFamily:ff,flexShrink:0,whiteSpace:"nowrap"}}>{s}</button>
                 ))}
               </div>
-            ))}
+            )}
+
+            {/* ── LESSON DAYS ── */}
+            {!searchQ&&Object.entries(grouped).sort((a,b)=>b[0].localeCompare(a[0])).map(([date,lessons])=>{
+              const today = todayISO();
+              const isToday = date===today;
+              const filtered = lessons.map(l=>({
+                ...l,
+                subjects: subjFilter==="all" ? l.subjects : l.subjects.filter(s=>s.name.split("–")[0].split("-")[0].trim()===subjFilter)
+              })).filter(l=>l.subjects.length>0);
+              if (filtered.length===0) return null;
+              return (
+                <div key={date} style={{marginBottom:4}}>
+                  <div style={{display:"flex",alignItems:"center",gap:10,marginBottom:10}}>
+                    <div style={{background:isToday?C.red:C.navy,color:C.white,borderRadius:8,padding:"5px 14px",fontSize:12,fontWeight:700,flexShrink:0,display:"flex",alignItems:"center",gap:6}}>
+                      {isToday&&<span style={{fontSize:10}}>●</span>}
+                      {dayName(date)}, {fmtShort(date)}
+                      {isToday&&<span style={{fontSize:10,background:"rgba(255,255,255,.25)",padding:"1px 6px",borderRadius:99}}>Hoje</span>}
+                    </div>
+                    <div style={{flex:1,height:1,background:C.gray3}}/>
+                  </div>
+                  {filtered.map(lesson=>(
+                    <div key={lesson.id} style={{background:C.white,borderRadius:12,marginBottom:10,overflow:"hidden",boxShadow:sh,border:isToday?`1.5px solid ${C.red}`:"none"}}>
+                      <div style={{background:lesson.period==="manhã"?"#fffbf0":"#f5f8ff",padding:"10px 16px",display:"flex",justifyContent:"space-between",alignItems:"center",borderBottom:`1px solid ${C.gray2}`}}>
+                        <div style={{fontSize:13,fontWeight:700,color:C.navy}}>{lesson.teacher}</div>
+                        <div style={{display:"flex",alignItems:"center",gap:8}}>
+                          <div style={{fontSize:11,fontWeight:700,padding:"3px 11px",borderRadius:20,background:lesson.period==="manhã"?"#fff3cd":C.navy3,color:lesson.period==="manhã"?"#a0720a":C.navy}}>
+                            {lesson.period==="manhã"?"☀️ Manhã":"🌤 Tarde"}
+                          </div>
+                          <div style={{fontSize:10,color:C.text3}}>{lesson.subjects.length} mat.</div>
+                        </div>
+                      </div>
+                      <div style={{padding:"14px 16px 4px"}}>
+                        {lesson.subjects.map((s,i)=><SubjectRow key={i} s={s} highlight={subjFilter!=="all"?subjFilter:""}/>)}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              );
+            })}
           </div>
         )}
 
@@ -1341,27 +1478,26 @@ export default function App() {
         {/* ══════════════ COMUNICADOS ══════════════ */}
         {tab==="com"&&(
           <div style={{display:"flex",flexDirection:"column",gap:0}}>
-            <div style={{display:"flex",gap:6,flexWrap:"wrap",marginBottom:14}}>
-              {[["all","Todos"],...Object.entries(ANN_CAT).map(([id,c])=>[id,c.label])].map(([id,lbl])=>(
-                <button key={id} onClick={()=>setAnnFilter(id)} style={{padding:"5px 12px",borderRadius:20,fontSize:12,fontWeight:700,border:annFilter===id?`2px solid ${C.red}`:"1.5px solid "+C.gray3,background:annFilter===id?C.red:C.white,color:annFilter===id?C.white:C.text2,cursor:"pointer",fontFamily:ff,transition:"all .15s"}}>
-                  {lbl}
-                </button>
-              ))}
+            <div style={{position:"relative",marginBottom:12}}>
+              <input value={search} onChange={e=>setSearch(e.target.value)} placeholder="🔍 Buscar comunicados..."
+                style={{width:"100%",padding:"11px 36px 11px 14px",border:`1.5px solid ${search?C.red:C.gray3}`,borderRadius:10,fontSize:13,fontFamily:ff,outline:"none",background:C.white,color:C.text,boxShadow:sh}}/>
+              {search&&<button onClick={()=>setSearch("")} style={{position:"absolute",right:10,top:"50%",transform:"translateY(-50%)",background:"none",border:"none",cursor:"pointer",fontSize:16,color:C.text3,padding:0}}>✕</button>}
             </div>
-            {shownAnn.map(ann=>{
+            {!search&&(
+              <div style={{display:"flex",gap:6,flexWrap:"wrap",marginBottom:14}}>
+                {[["all","Todos"],...Object.entries(ANN_CAT).map(([id,c])=>[id,c.label])].map(([id,lbl])=>(
+                  <button key={id} onClick={()=>setAnnFilter(id)} style={{padding:"5px 12px",borderRadius:20,fontSize:12,fontWeight:700,border:annFilter===id?`2px solid ${C.red}`:"1.5px solid "+C.gray3,background:annFilter===id?C.red:C.white,color:annFilter===id?C.white:C.text2,cursor:"pointer",fontFamily:ff,transition:"all .15s"}}>
+                    {lbl}
+                  </button>
+                ))}
+              </div>
+            )}
+            {(search
+              ? ANNOUNCEMENTS.filter(a=>a.title?.toLowerCase().includes(search.toLowerCase())||a.content?.toLowerCase().includes(search.toLowerCase())||a.author?.toLowerCase().includes(search.toLowerCase()))
+              : shownAnn
+            ).map((ann,idx)=>{
               const c=ANN_CAT[ann.category]||ANN_CAT.aviso;
-              return(
-                <div key={ann.id} style={{background:C.white,borderRadius:12,marginBottom:12,overflow:"hidden",boxShadow:sh}}>
-                  <div style={{borderLeft:`5px solid ${c.accent}`,padding:"14px 16px"}}>
-                    <div style={{display:"flex",justifyContent:"space-between",alignItems:"flex-start",gap:8,marginBottom:5}}>
-                      <div style={{fontSize:15,fontWeight:800,color:C.navy,lineHeight:1.3,flex:1}}>{ann.title}</div>
-                      <div style={{fontSize:10,fontWeight:700,padding:"3px 9px",borderRadius:20,background:c.bg,color:c.color,whiteSpace:"nowrap",flexShrink:0,border:`1px solid ${c.color}22`}}>{c.label}</div>
-                    </div>
-                    <div style={{fontSize:11,color:C.text3,marginBottom:8}}>{ann.date} · {ann.author}</div>
-                    <div style={{fontSize:13,color:C.text2,lineHeight:1.75}}>{ann.content}</div>
-                  </div>
-                </div>
-              );
+              return (<AnnCard key={ann.id??idx} ann={ann} c={c}/>);
             })}
           </div>
         )}
