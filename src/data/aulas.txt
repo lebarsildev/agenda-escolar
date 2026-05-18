@@ -1,4 +1,11 @@
 ---
+DATA: 2026-05-18
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Na aula de hoje, corrigimos a AV3 de ELA. Em seguida, lemos o capítulo 6 do livro “The Thing About Georgie” e participamos de uma dinâmica proposta pela história: cada aluno escreveu algo sobre si em uma folha de papel, dobrou-a e a escondeu pela sala. Depois, finalizamos a leitura do capítulo e discutimos os principais acontecimentos da história.
+MATERIA: 🔢 Math | Na aula de hoje, continuamos trabalhando com ângulos e com o uso do transferidor para realizar a medição dos ângulos. Os alunos desenvolveram atividades práticas e realizaram as páginas 38 e 39 do Student Workbook, ampliando a compreensão sobre esse conteúdo matemático.
+MATERIA: 🎨 Arts | Na aula de hoje, continuamos trabalhando no desenho iniciado na aula passada, utilizando um dos princípios fundamentais das artes visuais e do design: o contraste. Os alunos exploraram diferentes cores, formas, tamanhos, luz e sombra em suas produções artísticas.
+---
 DATA: 2026-05-15
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
