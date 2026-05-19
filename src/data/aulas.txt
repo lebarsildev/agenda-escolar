@@ -1,5 +1,12 @@
 ---
 DATA: 2026-05-18
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA | Na aula de hoje, demos continuidade à leitura do livro "O maior herói do mundo" até a página 19. Durante a leitura, destacamos que as pessoas precisam de bons exemplos e refletimos sobre um trecho marcante da obra que mostra que um herói não precisa ter poderes mágicos, mas sim possuir grande coragem, determinação e lutar por um ideal coletivo. Em seguida, realizamos a leitura e o estudo do livro "Era uma vez Dom Quixote" até a página 35, registrando todas as nossas observações no caderno de descobertas. Finalizamos a aula explicando a pesquisa para casa que servirá como base para darmos início ao livro de Heróis da nossa turma.
+MATERIA: ✏️ Geografia | Na aula de hoje, estudamos sobre as terras indígenas. Realizamos uma leitura compartilhada do texto para apresentar a definição desses termos utilizando o glossário como apoio pedagógico. Em seguida, utilizamos os questionamentos indicados no material para promover uma roda de conversa reflexiva com os alunos.
+---
+DATA: 2026-05-18
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
 MATERIA: ✏️ ELA | Na aula de hoje, corrigimos a AV3 de ELA. Em seguida, lemos o capítulo 6 do livro “The Thing About Georgie” e participamos de uma dinâmica proposta pela história: cada aluno escreveu algo sobre si em uma folha de papel, dobrou-a e a escondeu pela sala. Depois, finalizamos a leitura do capítulo e discutimos os principais acontecimentos da história.
