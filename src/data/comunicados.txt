@@ -1,5 +1,11 @@
 ---
 DATA: 18/05/2026
+TITULO: Atividade para casa: Pesquisa sobre um herói
+AUTOR: Misses Thayná e Patrícia
+CATEGORIA: tarefa
+CONTEUDO: Gostaríamos de compartilhar o nosso próximo desafio para o dever de casa. Nossos alunos realizarão uma pesquisa com o objetivo de explorar a história e as curiosidades do herói que já selecionaram previamente em sala de aula. O aluno deverá realizar a pesquisa sobre o herói sorteado (todos os alunos já sabem qual é o seu herói). Material de Apoio: Deve ser utilizado o roteiro contido no material de apoio enviado na pasta, onde as informações e descobertas da pesquisa deverão ser devidamente registradas. 📅 Prazo de entrega: 21/05 (quinta-feira). Contamos com o apoio de vocês para este momento!
+---
+DATA: 18/05/2026
 TITULO: Inscrições abertas para o MATH CLUB.
 AUTOR: RODRIGO MORAIS SERRA DE SOUZA
 CATEGORIA: atividade
