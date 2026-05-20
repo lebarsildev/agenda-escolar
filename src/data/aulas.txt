@@ -1,5 +1,12 @@
 ---
 DATA: 2026-05-20
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA | Na aula de hoje, demos continuidade à leitura do livro "O maior herói do mundo". Em seguida, retomamos com os alunos a produção da narrativa sobre os heróis autorais, onde aprenderam maneiras de melhorar a produção do texto. Os alunos realizaram a leitura dos textos em duplas, lembrando-se das expectativas, e aplicaram o checklist para revisão. Após esse momento, realizamos uma oficina sobre as características do verbo, abordando qual é a sua função na frase e como identificá-lo, finalizando com a realização de um exercício para fixação.
+MATERIA: 📜 História | Na aula de hoje, os alunos realizaram uma pesquisa de palavras de origem tupi que são usadas em nosso cotidiano. Para isso, contamos com o apoio do livro de referência indicado "O Tupi que você fala". Em seguida, eles construíram uma nuvem de palavras com a lista que montamos de maneira coletiva e finalizaram com o preenchimento da autoavaliação no material.
+---
+DATA: 2026-05-20
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
 MATERIA: ✏️ ELA | Na aula de hoje, os alunos leram individualmente o capítulo 9 do livro “The Thing About Georgie”. Depois, realizaram a etapa 3 do SLM, na qual identificaram adjetivos presentes no livro e os escreveram na coluna correspondente.
