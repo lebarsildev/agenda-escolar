@@ -1,5 +1,5 @@
 ---
-DATA: 2026-05-19
+DATA: 2026-05-20
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
 MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
@@ -7,7 +7,7 @@ MATERIA: ✏️ PLA | Na aula de hoje, demos continuidade à nossa coletânea de
 MATERIA: ⚽ Aula de Música com a Miss Michelle | Aula de Música com a Miss Michelle. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a aula de Educação Física.
 MATERIA: ⚽ Aula de Educação Física com Mister Paulo | Aula de Educação Física com Mister Paulo.
 ---
-DATA: 2026-05-19
+DATA: 2026-05-20
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
 MATERIA: ✏️ ELA | Na aula de hoje, os alunos leram individualmente o capítulo 9 do livro “The Thing About Georgie”. Depois, realizaram a etapa 3 do SLM, na qual identificaram adjetivos presentes no livro e os escreveram na coluna correspondente.
