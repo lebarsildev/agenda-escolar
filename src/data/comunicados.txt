@@ -1,4 +1,16 @@
 ---
+DATA: 20/05/2026
+TITULO: Mensagem Nutricionista /Alimenttar
+AUTOR: Miss Jéssica
+CATEGORIA: atividade
+CONTEUDO: "Nos dias 19 e 20 de Maio, realizaremos as atividades do Projeto Ciclos sobre o milho com o objetivo de promover a educação nutricional de forma lúdica e interativa. Durante esses dias, serão desenvolvidas atividades em todas as turmas, como fazemos a cada ciclo. As atividades apresentarão o milho em suas diferentes formas de consumo, explorando suas possibilidades na alimentação do dia a dia. Além disso, abordaremos seus principais benefícios nutricionais e curiosidades, ampliando o conhecimento das crianças sobre esse alimento tão presente na nossa cultura alimentar. A proposta é incentivar escolhas mais saudáveis, despertar o interesse por novos alimentos e fortalecer a relação das crianças com a alimentação de forma leve e educativa. Nutricionista Millena."
+---
+DATA: 19/05/2026
+TITULO: Figurino Country Party
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: Gostaríamos de informar que a roupa para a nossa Country Party será a seguinte, tanto para meninas quanto para meninos: ✅Calça jeans ✅ Blusa quadriculada ✅Cinto ✅Bota ✅Chapéu country Para que todos os alunos fiquem padronizados, solicitamos que não utilizem outros tipos de roupas ou acessórios que não tenham sido solicitados pela escola. Contamos com a colaboração de todos para deixar nossa festa ainda mais bonita e organizada!
+---
 DATA: 18/05/2026
 TITULO: Atividade para casa: Pesquisa sobre um herói
 AUTOR: Misses Thayná e Patrícia
