@@ -1,4 +1,18 @@
 ---
+DATA: 2026-05-21
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA | Na aula de hoje, os alunos participaram de uma oficina gramatical dedicada ao estudo dos substantivos e suas diferentes classificações. Iniciamos com uma leitura coletiva do texto, desafiando a turma a identificar e classificar as palavras que estavam destacadas ao longo da leitura. Esse momento de troca permitiu que eles observassem a função das palavras em contexto de forma prática. Para consolidar o aprendizado, os alunos realizaram o registro de suas descobertas no caderno, fixando os conceitos explorados.
+MATERIA: 🌍 Geografia | Os alunos foram divididos em grupos, onde cada equipe representou uma das Regiões do Brasil. Eles realizaram uma leitura independente sobre as manifestações culturais locais e debateram sobre o tema e as imagens apresentadas. Em seguida, cada grupo escreveu duas frases para sintetizar as informações discutidas, registrando-as em cartões. Na sequência, fizemos uma dinâmica de troca de cartões entre os alunos : cada grupo leu a frase com as pistas e tentou descobrir a qual região do Brasil a mensagem se referia. Finalizamos chamando a atenção dos alunos para como a nossa rica diversidade cultural resulta da contribuição de vários povos. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a Educação Física.
+MATERIA: ⚽ Aula de Educação Física com o Mister Paulo | Aula de Educação Física com o Mister Paulo.
+---
+DATA: 2026-05-21
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Na aula de hoje, conversamos sobre o que lemos até agora do livro “The Thing About Georgie”. Em seguida, os alunos leram individualmente o capítulo 10 do livro. Levantamos hipóteses sobre o que pode acontecer no próximo capítulo e discutimos como essas ideias podem impactar o desfecho da história. Por fim, realizaram a etapa 4 do SLM, na qual identificaram substantivos presentes no livro e os escreveram na coluna correspondente.
+MATERIA: 🔢 Math | Na aula de hoje, corrigimos a AV3 de Math.
+---
 DATA: 2026-05-20
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
