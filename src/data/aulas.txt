@@ -1,4 +1,17 @@
 ---
+DATA: 2026-05-22
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Na aula de hoje, os alunos leram individualmente o capítulo 11 do livro “The Thing About Georgie”. Por fim, realizaram a etapa 5 do SLM, na qual identificaram sinônimos para os substantivos presentes na coluna 4.
+MATERIA: 🔢 Math | Na aula de hoje, realizamos uma atividade em duplas. Os alunos desenharam um quadrilátero enquanto o colega tentava adivinhar qual figura era, fazendo perguntas de “sim” e “não”. Além disso, realizamos a página 41 do Student Workbook.
+---
+DATA: 2026-05-22
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA | Na aula de hoje, dedicamos um momento importante para a devolutiva das avaliações e para a produção criativa das capas dos trabalhos. Em seguida, realizamos atividades dinâmicas para fixar os conteúdos explorados ontem sobre verbos e substantivos. Os alunos participaram de uma atividade interativa focada na classificação dos substantivos, na qual identificaram os termos e trouxeram seus próprios exemplos, além de realizarem um exercício prático para analisar melhor o que o verbo expressa dentro de cada contexto de frase.
+MATERIA: 📜 Letramento Emocional | Hoje promovemos um momento de reflexão e sensibilidade através da leitura e interpretação coletiva da história "A árvore generosa". Após a leitura, que foi realizada em centros, nos reunimos em uma roda de conversa acolhedora para debater as temáticas centrais do livro. Conversamos sobre quem foi prestativo na narrativa, como a atitude de ajuda transformou as situações apresentadas e incentivamos os alunos a pensarem de forma empática sobre como eles próprios teriam agido para ajudar.
+---
 DATA: 2026-05-21
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
