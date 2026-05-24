@@ -28,7 +28,7 @@ const COM_TASKS = (() => {
   return ANNOUNCEMENTS
     .filter(a => a.category === "tarefa")
     .map((a, i) => ({
-      id: `com_${a.id ?? i}`,
+      id: `com_${(a.title||"").toLowerCase().replace(/[^a-z0-9]/g,"_").slice(0,40)}`,
       title: a.title,
       desc: a.content?.slice(0, 200) || "",
       due: extractDue(a.content) || annDateToISO(a.date) || new Date().toISOString().split("T")[0],
@@ -1224,9 +1224,11 @@ export default function App() {
       setTasks(prev => {
         const exists = prev.find(t => t.id === id);
         if (exists) {
+          // Already promoted — just toggle status
           const next = prev.map(t => t.id===id ? {...t, status:t.status==="done"?"pending":"done"} : t);
           saveTasks(next); return next;
         }
+        // Not yet in manual tasks — promote it with done status
         const comTask = COM_TASKS.find(t => t.id === id);
         if (!comTask) return prev;
         const next = [...prev, {...comTask, status:"done"}];
@@ -1243,8 +1245,11 @@ export default function App() {
   if(!user) return <Login onLogin={login}/>;
 
   // ── merge: manual tasks + comunicado-derived tasks (deduped by title) ──
+  // If a com task was promoted (checked/unchecked), its status lives in `tasks`
+  const manualIds    = new Set(tasks.map(t => t.id));
   const manualTitles = new Set(tasks.map(t => t.title.toLowerCase().trim()));
-  const newComTasks  = COM_TASKS.filter(t => !manualTitles.has(t.title.toLowerCase().trim()));
+  const newComTasks  = COM_TASKS
+    .filter(t => !manualIds.has(t.id) && !manualTitles.has(t.title.toLowerCase().trim()));
   const allTasks     = [...tasks, ...newComTasks];
 
   // ── task derived ──
