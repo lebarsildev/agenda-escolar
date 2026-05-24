@@ -584,30 +584,95 @@ const CAT_LABELS = {
 // ── ANN CARD with full-screen reader ────────────────────────────────
 function AnnCard({ann, c}) {
   const [open, setOpen] = useState(false);
+
+  // Snapshot colors at render time to avoid stale C reference in portal
+  const bgCard   = C.card || C.white;
+  const bgPage   = C.bg;
+  const txtMain  = C.text;
+  const txtMuted = C.text2;
+  const txtLight = C.text3;
+  const border   = C.gray2;
+  const gray2    = C.gray2;
+
   return (
     <>
+      {/* ── MODAL ── */}
       {open&&(
-        <div style={{position:"fixed",inset:0,background:"rgba(0,0,0,.55)",zIndex:200,display:"flex",alignItems:"flex-end"}} onClick={()=>setOpen(false)}>
-          <div style={{background:C.white,borderRadius:"16px 16px 0 0",padding:"20px 20px 40px",width:"100%",maxHeight:"80vh",overflowY:"auto",maxWidth:430,margin:"0 auto"}} onClick={e=>e.stopPropagation()}>
-            <div style={{display:"flex",justifyContent:"space-between",alignItems:"center",marginBottom:14}}>
-              <span style={{fontSize:10,fontWeight:700,padding:"3px 9px",borderRadius:20,background:c.bg,color:c.color,border:`1px solid ${c.color}22`}}>{c.label}</span>
-              <button onClick={()=>setOpen(false)} style={{background:C.gray2,border:"none",cursor:"pointer",fontSize:14,color:C.text2,padding:"4px 10px",borderRadius:99,fontFamily:ff,fontWeight:700}}>Fechar</button>
+        <div
+          onClick={()=>setOpen(false)}
+          style={{position:"fixed",top:0,left:0,right:0,bottom:0,
+            background:"rgba(0,0,0,.6)",zIndex:9999,
+            display:"flex",flexDirection:"column",justifyContent:"flex-end"}}>
+          <div
+            onClick={e=>e.stopPropagation()}
+            style={{background:bgCard,borderRadius:"16px 16px 0 0",
+              padding:"20px 20px 48px",width:"100%",
+              maxHeight:"80vh",overflowY:"auto",boxSizing:"border-box"}}>
+            {/* header */}
+            <div style={{display:"flex",justifyContent:"space-between",
+              alignItems:"center",marginBottom:14}}>
+              <span style={{fontSize:10,fontWeight:700,padding:"3px 9px",
+                borderRadius:20,background:c.bg,color:c.color,
+                border:`1px solid ${c.color}33`}}>
+                {c.label}
+              </span>
+              <button
+                onClick={()=>setOpen(false)}
+                style={{background:gray2,border:"none",cursor:"pointer",
+                  fontSize:13,color:txtMuted,padding:"5px 12px",
+                  borderRadius:99,fontFamily:ff,fontWeight:700}}>
+                Fechar ✕
+              </button>
             </div>
-            <div style={{fontSize:17,fontWeight:800,color:C.navy,lineHeight:1.3,marginBottom:8}}>{ann.title}</div>
-            <div style={{fontSize:12,color:C.text3,marginBottom:16}}>{ann.date} · {ann.author}</div>
-            <div style={{fontSize:14,color:C.text,lineHeight:1.85,borderTop:`1px solid ${C.gray2}`,paddingTop:16}}>{ann.content}</div>
+            {/* title */}
+            <div style={{fontSize:17,fontWeight:800,color:c.color,
+              lineHeight:1.3,marginBottom:8}}>
+              {ann.title}
+            </div>
+            {/* meta */}
+            <div style={{fontSize:12,color:txtLight,marginBottom:16}}>
+              {ann.date} · {ann.author}
+            </div>
+            {/* content */}
+            <div style={{fontSize:14,color:txtMain,lineHeight:1.85,
+              borderTop:`1px solid ${border}`,paddingTop:16}}>
+              {ann.content}
+            </div>
           </div>
         </div>
       )}
-      <div style={{background:C.white,borderRadius:12,marginBottom:12,overflow:"hidden",boxShadow:sh}}>
-        <div style={{borderLeft:`5px solid ${c.accent||c.color}`,padding:"14px 16px"}}>
-          <div style={{display:"flex",justifyContent:"space-between",alignItems:"flex-start",gap:8,marginBottom:5}}>
-            <div style={{fontSize:14,fontWeight:800,color:C.navy,lineHeight:1.3,flex:1}}>{ann.title}</div>
-            <div style={{fontSize:10,fontWeight:700,padding:"3px 9px",borderRadius:20,background:c.bg,color:c.color,whiteSpace:"nowrap",flexShrink:0,border:`1px solid ${c.color}22`}}>{c.label}</div>
+
+      {/* ── CARD ── */}
+      <div style={{background:bgCard,borderRadius:12,marginBottom:12,
+        overflow:"hidden",boxShadow:sh}}>
+        <div style={{borderLeft:`5px solid ${c.accent||c.color}`,
+          padding:"14px 16px"}}>
+          <div style={{display:"flex",justifyContent:"space-between",
+            alignItems:"flex-start",gap:8,marginBottom:5}}>
+            <div style={{fontSize:14,fontWeight:800,color:C.navy,
+              lineHeight:1.3,flex:1}}>
+              {ann.title}
+            </div>
+            <div style={{fontSize:10,fontWeight:700,padding:"3px 9px",
+              borderRadius:20,background:c.bg,color:c.color,
+              whiteSpace:"nowrap",flexShrink:0,
+              border:`1px solid ${c.color}22`}}>
+              {c.label}
+            </div>
           </div>
-          <div style={{fontSize:11,color:C.text3,marginBottom:8}}>{ann.date} · {ann.author}</div>
-          <div style={{fontSize:13,color:C.text2,lineHeight:1.7,display:"-webkit-box",WebkitLineClamp:3,WebkitBoxOrient:"vertical",overflow:"hidden"}}>{ann.content}</div>
-          <button onClick={()=>setOpen(true)} style={{background:"none",border:"none",cursor:"pointer",fontSize:12,color:c.color,fontWeight:700,padding:"8px 0 0",fontFamily:ff}}>
+          <div style={{fontSize:11,color:txtLight,marginBottom:8}}>
+            {ann.date} · {ann.author}
+          </div>
+          <div style={{fontSize:13,color:txtMuted,lineHeight:1.7,
+            display:"-webkit-box",WebkitLineClamp:3,
+            WebkitBoxOrient:"vertical",overflow:"hidden"}}>
+            {ann.content}
+          </div>
+          <button
+            onClick={()=>setOpen(true)}
+            style={{background:"none",border:"none",cursor:"pointer",
+              fontSize:12,color:c.color,fontWeight:700,
+              padding:"8px 0 0",fontFamily:ff}}>
             Ler completo →
           </button>
         </div>
