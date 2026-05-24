@@ -135,7 +135,9 @@ function saveTasks(t) { try { localStorage.setItem(SK,JSON.stringify(t)); } catc
 
 // ── shared styles ────────────────────────────────────────────────────
 const ff = "'DM Sans', system-ui, sans-serif";
-// sh and shm are now defined inside App() based on dark mode
+// sh and shm have defaults here; App() overrides them based on dark mode
+let sh  = "0 1px 3px rgba(0,0,0,.08),0 4px 12px rgba(0,0,0,.04)";
+let shm = "0 2px 8px rgba(0,0,0,.10),0 8px 24px rgba(0,0,0,.06)";
 
 // ══════════════════════════════════════════════════════════════════════
 //  LOGIN
@@ -1204,8 +1206,8 @@ export default function App() {
 
   // ── apply theme ──
   C = dark ? DARK : LIGHT;
-  const sh  = dark ? "0 1px 3px rgba(0,0,0,.3),0 4px 12px rgba(0,0,0,.2)"  : "0 1px 3px rgba(0,0,0,.08),0 4px 12px rgba(0,0,0,.04)";
-  const shm = dark ? "0 2px 8px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.3)"  : "0 2px 8px rgba(0,0,0,.10),0 8px 24px rgba(0,0,0,.06)";
+  sh  = dark ? "0 1px 3px rgba(0,0,0,.3),0 4px 12px rgba(0,0,0,.2)"  : "0 1px 3px rgba(0,0,0,.08),0 4px 12px rgba(0,0,0,.04)";
+  shm = dark ? "0 2px 8px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.3)"  : "0 2px 8px rgba(0,0,0,.10),0 8px 24px rgba(0,0,0,.06)";
 
   function toggleDark() {
     setDark(d => {
