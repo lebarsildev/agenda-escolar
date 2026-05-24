@@ -9,8 +9,38 @@ const LESSONS       = parseAulas(aulasRaw);
 const ANNOUNCEMENTS = parseComunicados(comunicadosRaw);
 const CALENDARIO    = parseCalendario(calendarioRaw);
 
+// ── comunicado-derived tasks (computed once at module level) ──────────
+const COM_TASKS = (() => {
+  const toISO = (d) => {
+    const p = d?.match(/(\d{1,2})\/(\d{1,2})(?:\/(\d{4}))?/);
+    if (!p) return null;
+    const year = p[3] || new Date().getFullYear().toString();
+    return `${year}-${p[2].padStart(2,"0")}-${p[1].padStart(2,"0")}`;
+  };
+  const extractDue = (content="") => {
+    const m = content.match(/(?:prazo|até o dia|até|entrega)[^\d]*(\d{1,2}\/\d{1,2}(?:\/\d{4})?)/i);
+    return m ? toISO(m[1]) : null;
+  };
+  const annDateToISO = (d) => {
+    const p = d?.match(/(\d{1,2})\/(\d{1,2})\/(\d{4})/);
+    return p ? `${p[3]}-${p[2].padStart(2,"0")}-${p[1].padStart(2,"0")}` : null;
+  };
+  return ANNOUNCEMENTS
+    .filter(a => a.category === "tarefa")
+    .map((a, i) => ({
+      id: `com_${a.id ?? i}`,
+      title: a.title,
+      desc: a.content?.slice(0, 200) || "",
+      due: extractDue(a.content) || annDateToISO(a.date) || new Date().toISOString().split("T")[0],
+      priority: "medium",
+      category: "tarefa",
+      status: "pending",
+      fromComunicado: true,
+    }));
+})();
+
 // ── tokens ──────────────────────────────────────────────────────────
-const C = {
+const LIGHT = {
   red:"#c0392b", red2:"#fdf2f0", red3:"#fde8e8",
   navy:"#1a2e4a", navy2:"#f0f4fa", navy3:"#dce8f7",
   amber:"#d97706", amber2:"#fffbeb",
@@ -18,7 +48,30 @@ const C = {
   gray:"#f8f7f5", gray2:"#f0ede8", gray3:"#e2ded8",
   text:"#1a1a1a", text2:"#6b6b6b", text3:"#9ca3af",
   white:"#ffffff",
+  bg:"#f8f7f5",
+  card:"#ffffff",
+  border:"#e2ded8",
+  topbar:"#1a2e4a",
+  topbarText:"#ffffff",
 };
+
+const DARK = {
+  red:"#e05c4b", red2:"#2d1a18", red3:"#3d2220",
+  navy:"#4a90d9", navy2:"#1a2535", navy3:"#1e2e42",
+  amber:"#f59e0b", amber2:"#2d2010",
+  green:"#34d399", green2:"#0d2e1e",
+  gray:"#1a1a2e", gray2:"#252538", gray3:"#313148",
+  text:"#f0f0f0", text2:"#a0a0b8", text3:"#606080",
+  white:"#1e1e30",
+  bg:"#12121e",
+  card:"#1e1e30",
+  border:"#313148",
+  topbar:"#0d0d1a",
+  topbarText:"#f0f0f0",
+};
+
+// C is set dynamically — components use C which gets replaced per render
+let C = LIGHT;
 
 const USERS = [
   { username:"responsavel", password:"mateus2026", name:"Família Larocca" },
@@ -42,12 +95,12 @@ const ANN_CAT = {
   calendario: { label:"Calendário", color:"#6c3483",  bg:"#f8f4fd", accent:"#7c3aed"  },
   atividade:  { label:"Atividade",  color:C.green,    bg:C.green2,  accent:C.green    },
 };
-const STATUS_STYLE = {
+const getStatusStyle = () => ({
   done:    { bg:C.green2,   border:C.green,  badgeBg:C.green,  badge:"✓ Concluído" },
-  overdue: { bg:"#fff5f5",  border:C.red,    badgeBg:C.red,    badge:"⚠ Atrasado"  },
-  urgent:  { bg:"#fff8f0",  border:"#e67e22",badgeBg:"#e67e22",badge:"🔥 Urgente"   },
-  pending: { bg:C.white,    border:C.gray3,  badgeBg:C.navy,   badge:"● Pendente"  },
-};
+  overdue: { bg:C.red3,     border:C.red,    badgeBg:C.red,    badge:"⚠ Atrasado"  },
+  urgent:  { bg:"#2d1e0f",  border:"#e67e22",badgeBg:"#e67e22",badge:"🔥 Urgente"   },
+  pending: { bg:C.card,     border:C.border, badgeBg:C.navy,   badge:"● Pendente"  },
+});
 
 // ── helpers ──────────────────────────────────────────────────────────
 const todayISO = () => new Date().toISOString().split("T")[0];
@@ -82,8 +135,7 @@ function saveTasks(t) { try { localStorage.setItem(SK,JSON.stringify(t)); } catc
 
 // ── shared styles ────────────────────────────────────────────────────
 const ff = "'DM Sans', system-ui, sans-serif";
-const sh  = "0 1px 3px rgba(0,0,0,.08),0 4px 12px rgba(0,0,0,.04)";
-const shm = "0 2px 8px rgba(0,0,0,.10),0 8px 24px rgba(0,0,0,.06)";
+// sh and shm are now defined inside App() based on dark mode
 
 // ══════════════════════════════════════════════════════════════════════
 //  LOGIN
@@ -167,7 +219,7 @@ function SubjectRow({s, highlight=""}) {
 // ══════════════════════════════════════════════════════════════════════
 function TaskCard({task,onToggle}) {
   const cs  = cStatus(task);
-  const st  = STATUS_STYLE[cs];
+  const st  = getStatusStyle()[cs];
   const cat = CAT_META[task.category]||CAT_META.tarefa;
   const pri = PRI_META[task.priority]||PRI_META.medium;
 
@@ -192,6 +244,7 @@ function TaskCard({task,onToggle}) {
             <span style={{fontSize:11,background:C.gray2,color:C.text2,padding:"2px 7px",borderRadius:20}}>{cat.icon} {cat.label}</span>
             <span style={{fontSize:11,color:pri.color,fontWeight:700}}>{pri.dot} {pri.label}</span>
             <span style={{fontSize:11,color:cs==="overdue"?C.red:cs==="urgent"?"#e67e22":C.text2,fontWeight:cs==="overdue"||cs==="urgent"?700:400}}>📅 {fmtLong(task.due)} · {daysLabel(task.due)}</span>
+            {task.fromComunicado&&<span style={{fontSize:10,background:"#f0f4fa",color:C.navy,padding:"2px 7px",borderRadius:20,fontWeight:600}}>📢 Aviso</span>}
           </div>
           {cs!=="done"&&(
             <>
@@ -1082,24 +1135,57 @@ export default function App() {
   const [tasks,setTasks]=useState(()=>loadTasks());
   const [search,setSearch]=useState("");
   const [subjFilter,setSubjFilter]=useState("all");
+  const [dark,setDark]=useState(()=>{ try{return localStorage.getItem("mb_dark")==="1";}catch{return false;} });
+
+  // ── apply theme ──
+  C = dark ? DARK : LIGHT;
+  const sh  = dark ? "0 1px 3px rgba(0,0,0,.3),0 4px 12px rgba(0,0,0,.2)"  : "0 1px 3px rgba(0,0,0,.08),0 4px 12px rgba(0,0,0,.04)";
+  const shm = dark ? "0 2px 8px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.3)"  : "0 2px 8px rgba(0,0,0,.10),0 8px 24px rgba(0,0,0,.06)";
+
+  function toggleDark() {
+    setDark(d => {
+      const next = !d;
+      try { localStorage.setItem("mb_dark", next?"1":"0"); } catch {}
+      return next;
+    });
+  }
 
   function login(u){sessionStorage.setItem("sb_u",JSON.stringify(u));setUser(u);}
   function logout(){sessionStorage.removeItem("sb_u");setUser(null);}
   function toggleTask(id){
-    setTasks(prev=>{
-      const next=prev.map(t=>t.id===id?{...t,status:t.status==="done"?"pending":"done"}:t);
-      saveTasks(next); return next;
-    });
+    if (String(id).startsWith("com_")) {
+      setTasks(prev => {
+        const exists = prev.find(t => t.id === id);
+        if (exists) {
+          const next = prev.map(t => t.id===id ? {...t, status:t.status==="done"?"pending":"done"} : t);
+          saveTasks(next); return next;
+        }
+        const comTask = COM_TASKS.find(t => t.id === id);
+        if (!comTask) return prev;
+        const next = [...prev, {...comTask, status:"done"}];
+        saveTasks(next); return next;
+      });
+    } else {
+      setTasks(prev=>{
+        const next=prev.map(t=>t.id===id?{...t,status:t.status==="done"?"pending":"done"}:t);
+        saveTasks(next); return next;
+      });
+    }
   }
 
   if(!user) return <Login onLogin={login}/>;
 
+  // ── merge: manual tasks + comunicado-derived tasks (deduped by title) ──
+  const manualTitles = new Set(tasks.map(t => t.title.toLowerCase().trim()));
+  const newComTasks  = COM_TASKS.filter(t => !manualTitles.has(t.title.toLowerCase().trim()));
+  const allTasks     = [...tasks, ...newComTasks];
+
   // ── task derived ──
-  const enriched     = tasks.map(t=>({...t,cs:cStatus(t)}));
+  const enriched     = allTasks.map(t=>({...t,cs:cStatus(t)}));
   const pendingTasks = enriched.filter(t=>t.cs!=="done");
   const doneTasks    = enriched.filter(t=>t.cs==="done");
   const urgentTasks  = enriched.filter(t=>t.cs==="urgent"||t.cs==="overdue");
-  const total=tasks.length, doneCount=doneTasks.length;
+  const total=allTasks.length, doneCount=doneTasks.length;
   const pct=Math.round(doneCount/total*100);
 
   const shownTasks = taskFilter==="pending"
@@ -1176,22 +1262,27 @@ export default function App() {
     : `${pendingTasks.length} tarefa${pendingTasks.length>1?"s":""} pendente${pendingTasks.length>1?"s":""}`;
 
   return (
-    <div style={{fontFamily:ff,minHeight:"100vh",background:C.gray,paddingBottom:76}}>
+    <div style={{fontFamily:ff,minHeight:"100vh",background:C.bg,paddingBottom:76,transition:"background .3s"}}>
 
       {/* ── TOP BAR ── */}
-      <div style={{background:C.white,borderBottom:`4px solid ${C.red}`,position:"sticky",top:0,zIndex:100,boxShadow:"0 2px 8px rgba(0,0,0,.07)"}}>
+      <div style={{background:C.topbar,borderBottom:`3px solid ${C.red}`,position:"sticky",top:0,zIndex:100,boxShadow:"0 2px 8px rgba(0,0,0,.2)"}}>
         <div style={{maxWidth:430,margin:"0 auto",padding:"10px 14px",display:"flex",alignItems:"center",gap:10}}>
           <div style={{width:34,height:34,borderRadius:"50%",background:C.red,display:"flex",alignItems:"center",justifyContent:"center",fontSize:18,flexShrink:0}}>🐻</div>
           <div style={{flex:1}}>
-            <div style={{fontWeight:800,fontSize:14,color:C.navy,lineHeight:1.2}}>Maple Bear · Big Bears</div>
-            <div style={{fontSize:11,color:C.text3}}>Mateus Larocca · Year 4</div>
+            <div style={{fontWeight:800,fontSize:14,color:C.topbarText,lineHeight:1.2}}>Maple Bear · Big Bears</div>
+            <div style={{fontSize:11,color:"rgba(255,255,255,.45)"}}>Mateus Larocca · Year 4</div>
           </div>
           {pendingTasks.length>0&&(
-            <div style={{background:C.red,color:C.white,borderRadius:20,padding:"3px 10px",fontSize:12,fontWeight:700,flexShrink:0}}>
+            <div style={{background:C.red,color:"#fff",borderRadius:20,padding:"3px 10px",fontSize:12,fontWeight:700,flexShrink:0}}>
               {pendingTasks.length} pendente{pendingTasks.length>1?"s":""}
             </div>
           )}
-          <button onClick={logout} style={{background:"none",border:`1.5px solid ${C.gray3}`,color:C.text2,borderRadius:7,padding:"5px 10px",fontSize:11,cursor:"pointer",fontFamily:ff,fontWeight:600,flexShrink:0}}>Sair</button>
+          {/* dark mode toggle */}
+          <button onClick={toggleDark} title={dark?"Modo claro":"Modo escuro"}
+            style={{background:"rgba(255,255,255,.12)",border:"none",borderRadius:8,padding:"5px 8px",cursor:"pointer",fontSize:16,lineHeight:1,flexShrink:0,transition:"background .2s"}}>
+            {dark?"☀️":"🌙"}
+          </button>
+          <button onClick={logout} style={{background:"rgba(255,255,255,.1)",border:"1px solid rgba(255,255,255,.2)",color:"rgba(255,255,255,.8)",borderRadius:7,padding:"5px 10px",fontSize:11,cursor:"pointer",fontFamily:ff,fontWeight:600,flexShrink:0}}>Sair</button>
         </div>
       </div>
 
@@ -1518,7 +1609,7 @@ export default function App() {
       </div>
 
       {/* ══ BOTTOM NAV ══ */}
-      <div style={{position:"fixed",bottom:0,left:"50%",transform:"translateX(-50%)",width:"100%",maxWidth:430,background:C.white,borderTop:`1px solid ${C.gray3}`,display:"flex",zIndex:100,boxShadow:"0 -4px 16px rgba(0,0,0,.08)"}}>
+      <div style={{position:"fixed",bottom:0,left:"50%",transform:"translateX(-50%)",width:"100%",maxWidth:430,background:C.card,borderTop:`1px solid ${C.border}`,display:"flex",zIndex:100,boxShadow:dark?"0 -4px 16px rgba(0,0,0,.4)":"0 -4px 16px rgba(0,0,0,.08)"}}>
         {TABS.map(t=>(
           <button key={t.id} onClick={()=>setTab(t.id)} style={{flex:1,padding:"10px 4px 8px",border:"none",background:"transparent",cursor:"pointer",fontFamily:ff,display:"flex",flexDirection:"column",alignItems:"center",gap:3,position:"relative"}}>
             {/* active bar */}
