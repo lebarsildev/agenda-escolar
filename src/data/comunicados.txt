@@ -1,10 +1,4 @@
 ---
-DATA: 22/05/2026
-TITULO: Atividade para casa: Entrevista
-AUTOR: Misses Thayná e Patrícia
-CATEGORIA: tarefa
-CONTEUDO: Gostaríamos de compartilhar o nosso próximo desafio para o dever de casa, que fará parte da construção do nosso Livro dos Heróis. Desta vez, nossos alunos farão o papel de entrevistadores e irão perguntar aos seus pais ou responsáveis qual era o herói favorito de vocês quando eram crianças e o motivo de tanto o admirarem. Será um momento de partilha e memórias em família! Orientações: Material: Cada aluno recebeu a folha da Aula 43, Material 4. A atividade produzida em conjunto com os pais ou familiares será recortada e colada diretamente no nosso livro definitivo. Por isso, é fundamental que eles façam a tarefa com muita dedicação e capricho! 📅 Prazo de entrega: 26/05 (terça-feira). Contamos com o apoio e as histórias de vocês para enriquecer este momento!
----
 DATA: 20/05/2026
 TITULO: Mensagem Nutricionista /Alimenttar
 AUTOR: Miss Jéssica
