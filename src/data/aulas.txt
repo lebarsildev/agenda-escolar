@@ -1,4 +1,18 @@
 ---
+DATA: 2026-05-25
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Na aula de hoje, os alunos leram individualmente o capítulo 12 do livro “The Thing About Georgie”. Em seguida, conversamos sobre quais características um bom aluno deve possuir, e as crianças compartilharam suas ideias enquanto eu registrava as sugestões no quadro. Para finalizar, os alunos escreveram um parágrafo sobre seu melhor amigo.
+MATERIA: 🎨 Arts | Na aula de hoje, conversamos sobre a flor papoula, um símbolo importante para os canadenses durante o Remembrance Day (Dia da Lembrança), celebrado em 11 de novembro no Canadá. A data marca o fim da Primeira Guerra Mundial e homenageia militares e civis que perderam suas vidas. Os alunos fizeram um planejamento no caderno de artes sobre como irão desenhar a flor, organizar as cores, definir o tamanho do desenho e criar contrastes.
+MATERIA: 🔢 Math | Na aula de hoje, continuamos explorando os ângulos dos quadriláteros. Aprendemos que quadrados e retângulos possuem quatro ângulos iguais de 90°. Também estudamos que paralelogramos e losangos possuem ângulos opostos iguais, e que os deltoides possuem um par de ângulos iguais. Para finalizar, realizamos a página 42 do Student Workbook.
+---
+DATA: 2026-05-25
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA | Na aula de hoje, os alunos deram um passo importante em nosso projeto com a escrita de uma página do livro dos heróis da turma. A produção teve como base as pesquisas que eles realizaram em casa com o apoio e a colaboração das famílias. Em seguida, partimos para uma análise gramatical , realizando uma atividade focada na classificação dos substantivos diretamente no texto explicativo do material, consolidando o aprendizado dentro do contexto.
+MATERIA: 🌍 Geografia | Na aula de Geografia de hoje,demos continuidade ao nosso estudo sobre as características marcantes e as diversas manifestações culturais de cada região do Brasil. Utilizando o material da aula anterior como base, os alunos analisaram diferentes imagens e usaram a criatividade e o repertório adquirido para criar legendas informativas sobre as regiões, definindo com clareza as particularidades e os aspectos culturais que tornam cada local único.
+---
 DATA: 2026-05-22
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
