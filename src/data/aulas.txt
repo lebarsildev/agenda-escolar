@@ -2,401 +2,370 @@
 DATA: 2026-05-26
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
-MATERIA: 📚 PLA | Na aula de hoje, nossa rotina foi organizada em Centros de Aprendizagem, onde os alunos trabalharam com foco, autonomia e cooperação em diferentes estações de aprendizado. 🟡 Centro Amarelo (revisão e leitura): Os alunos revisaram individualmente as produções da Semana 8 e participaram de um momento especial de leitura guiada com o conto "Bahira em busca do fogo". 🟢 Centro Verde (pesquisa e tecnologia): Utilizando os tablets, os alunos assistiram vídeos sobre as lendas do Boto Cor-de-Rosa, do Boitatá e da Mula Sem Cabeça e, após debaterem o conteúdo, registraram suas respostas de compreensão na folha-atividade. 🔴 Centro Vermelho (projeto literário): Os alunos utilizaram o roteiro de planejamento para escrever e ilustrar uma nova página autoral para o nosso Livro dos Heróis da turma. 🟣 Centro Roxo (Foco na Narrativa): Os alunos exercitaram a escrita detalhada de cenários e diálogos, escolhendo apenas uma ou duas cenas marcantes do herói selecionado para aprofundar a escrita do texto. 🎶 Aula de Música: Informamos que, devido à ausência justificada da Miss Michelle hoje, a aula de Música foi substituída por um tempo adicional de Geografia, garantindo o pleno aproveitamento do tempo pedagógico dos alunos para avançarmos em nossas aulas.
-MATERIA: ✏️ Geografia | Demos continuidade ao nosso estudo sobre as regiões e os diferentes critérios de regionalização do Brasil. Na aula de hoje, os alunos realizaram a atividade prática do mapa de conclusão e participaram de uma rica reflexão coletiva sobre a formação da nossa identidade, compreendendo como a cultura e a sociedade do povo brasileiro foram profundamente influenciadas pela contribuição de diversos povos ao longo da história. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a aula de Educação Física.
-MATERIA: ⚽ Aula de Educação Física com o Mister Paulo | Aula de Educação Física com o Mister Paulo 🚀Saída Desejamos um ótimo dia a todos!
-MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
-MATERIA: 📚 PLA | Na aula de hoje, os alunos deram um passo importante em nosso projeto com a escrita de uma página do livro dos heróis da turma. A produção teve como base as pesquisas que eles realizaram em casa com o apoio e a colaboração das famílias. Em seguida, partimos para uma análise gramatical , realizando uma atividade focada na classificação dos substantivos diretamente no texto explicativo do material, consolidando o aprendizado dentro do contexto.
-MATERIA: 🌍 Geografia | Na aula de Geografia de hoje,demos continuidade ao nosso estudo sobre as características marcantes e as diversas manifestações culturais de cada região do Brasil. Utilizando o material da aula anterior como base, os alunos analisaram diferentes imagens e usaram a criatividade e o repertório adquirido para criar legendas informativas sobre as regiões, definindo com clareza as particularidades e os aspectos culturais que tornam cada local único. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a saída. 🚀 Saída Desejamos uma ótima semana a todos!
-MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
-MATERIA: 📚 PLA | Na aula de hoje, os alunos participaram de uma oficina gramatical dedicada ao estudo dos substantivos e suas diferentes classificações. Iniciamos com uma leitura coletiva do texto, desafiando a turma a identificar e classificar as palavras que estavam destacadas ao longo da leitura. Esse momento de troca permitiu que eles observassem a função das palavras em contexto de forma prática. Para consolidar o aprendizado, os alunos realizaram o registro de suas descobertas no caderno, fixando os conceitos explorados.
-MATERIA: 🌍 Geografia | Os alunos foram divididos em grupos, onde cada equipe representou uma das Regiões do Brasil. Eles realizaram uma leitura independente sobre as manifestações culturais locais e debateram sobre o tema e as imagens apresentadas. Em seguida, cada grupo escreveu duas frases para sintetizar as informações discutidas, registrando-as em cartões. Na sequência, fizemos uma dinâmica de troca de cartões entre os alunos : cada grupo leu a frase com as pistas e tentou descobrir a qual região do Brasil a mensagem se referia. Finalizamos chamando a atenção dos alunos para como a nossa rica diversidade cultural resulta da contribuição de vários povos. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a Educação Física.
-MATERIA: ⚽ Aula de Educação Física com o Mister Paulo | Aula de Educação Física com o Mister Paulo. 🚀 Saída Desejamos um ótimo dia a todos.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA – Centros de Aprendizagem | Centros: 🟡 Amarelo: revisão das produções da Semana 8 e leitura guiada do conto "Bahira em busca do fogo". 🟢 Verde: vídeos sobre lendas do Boto Cor-de-Rosa, Boitatá e Mula Sem Cabeça com registro de respostas. 🔴 Vermelho: escrita e ilustração de nova página do Livro dos Heróis. 🟣 Roxo: escrita detalhada de cenários e diálogos do herói selecionado. 🎶 Aula de Música substituída por Geografia adicional.
+MATERIA: 🌍 Geografia – Regiões do Brasil | Estudo sobre regiões e critérios de regionalização. Atividade prática do mapa de conclusão e reflexão coletiva sobre a formação da identidade brasileira.
+MATERIA: ⚽ Educação Física | Aula de Educação Física com o Mister Paulo.
 ---
 DATA: 2026-05-26
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
-MATERIA: ✏️ ELA | Na aula de hoje, trabalhamos com centros de aprendizagem: Centro 1: Guided Reading – Os alunos leram individualmente os capítulos 9 e 10 do livro “The Thing About Georgie”. Em seguida, conversamos sobre os acontecimentos entre Georgie e Andy e levantamos hipóteses sobre como a história poderá se desenvolver. Centro 2: BLM 7 – Response Journal: Second Character Analysis (Jeanie the Meanie) Centro 3: BLM 11 – The Thing About Georgie Word Sort Centro 4: BLM 13 – Listening Response Activity
-MATERIA: 🔢 Math | Na aula de hoje, continuamos explorando os ângulos dos quadriláteros. Realizamos a correção coletiva da página 42 do Student Workbook e, em seguida, fizemos a página 43. Com carinho,
-MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
-MATERIA: 📚 PLA | Na aula de hoje, dedicamos um momento importante para a devolutiva das avaliações e para a produção criativa das capas dos trabalhos. Em seguida, realizamos atividades dinâmicas para fixar os conteúdos explorados ontem sobre verbos e substantivos. Os alunos participaram de uma atividade interativa focada na classificação dos substantivos, na qual identificaram os termos e trouxeram seus próprios exemplos, além de realizarem um exercício prático para analisar melhor o que o verbo expressa dentro de cada contexto de frase.
-MATERIA: 📜 Letramento Emocional | Hoje promovemos um momento de reflexão e sensibilidade através da leitura e interpretação coletiva da história "A árvore generosa". Após a leitura, que foi realizada em centros, nos reunimos em uma roda de conversa acolhedora para debater as temáticas centrais do livro. Conversamos sobre quem foi prestativo na narrativa, como a atitude de ajuda transformou as situações apresentadas e incentivamos os alunos a pensarem de forma empática sobre como eles próprios teriam agido para ajudar. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a saída. 🚀 Saída Desejamos um ótimo fim de semana a todos!
-MATERIA: ✏️ ELA | Na aula de hoje, conversamos sobre o que lemos até agora do livro “The Thing About Georgie”. Em seguida, os alunos leram individualmente o capítulo 10 do livro. Levantamos hipóteses sobre o que pode acontecer no próximo capítulo e discutimos como essas ideias podem impactar o desfecho da história. Por fim, realizaram a etapa 4 do SLM, na qual identificaram substantivos presentes no livro e os escreveram na coluna correspondente.
-MATERIA: 🔢 Math | Na aula de hoje, corrigimos a AV3 de Math. Com carinho,
----
+MATERIA: ✏️ ELA – Centros de Aprendizagem | Centro 1: Guided Reading – capítulos 9 e 10 de "The Thing About Georgie". Centro 2: BLM 7 – Response Journal: Second Character Analysis (Jeanie the Meanie). Centro 3: BLM 11 – Word Sort. Centro 4: BLM 13 – Listening Response Activity.
+MATERIA: 🔢 Math – Ângulos de Quadriláteros | Correção coletiva da página 42 e realização da página 43 do Student Workbook.
+MATERIA: 📚 PLA – Verbos e Substantivos | Devolutiva das avaliações e produção criativa das capas. Atividade interativa de classificação dos substantivos e análise do que o verbo expressa em cada contexto.
+MATERIA: 🤝 Letramento Emocional – A Árvore Generosa | Leitura e interpretação coletiva da história "A árvore generosa". Roda de conversa sobre prestatividade, empatia e como ajudar o próximo.
 ---
 DATA: 2026-05-25
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: âï¸ ELA | Na aula de hoje, os alunos leram individualmente o capÃ­tulo 12 do livro âThe Thing About Georgieâ. Em seguida, conversamos sobre quais caracterÃ­sticas um bom aluno deve possuir, e as crianÃ§as compartilharam suas ideias enquanto eu registrava as sugestÃµes no quadro. Para finalizar, os alunos escreveram um parÃ¡grafo sobre seu melhor amigo.
-MATERIA: ð¨ Arts | Na aula de hoje, conversamos sobre a flor papoula, um sÃ­mbolo importante para os canadenses durante o Remembrance Day (Dia da LembranÃ§a), celebrado em 11 de novembro no CanadÃ¡. A data marca o fim da Primeira Guerra Mundial e homenageia militares e civis que perderam suas vidas. Os alunos fizeram um planejamento no caderno de artes sobre como irÃ£o desenhar a flor, organizar as cores, definir o tamanho do desenho e criar contrastes.
-MATERIA: ð¢ Math | Na aula de hoje, continuamos explorando os Ã¢ngulos dos quadrilÃ¡teros. Aprendemos que quadrados e retÃ¢ngulos possuem quatro Ã¢ngulos iguais de 90Â°. TambÃ©m estudamos que paralelogramos e losangos possuem Ã¢ngulos opostos iguais, e que os deltoides possuem um par de Ã¢ngulos iguais. Para finalizar, realizamos a pÃ¡gina 42 do Student Workbook.
+PERIODO: manhã
+MATERIA: ✏️ ELA – The Thing About Georgie | Leitura individual do capítulo 12. Conversa sobre características de um bom aluno. Escrita de um parágrafo sobre o melhor amigo.
+MATERIA: 🎨 Arts – Flor Papoula | Conversa sobre a flor papoula como símbolo do Remembrance Day canadense (11 de novembro). Planejamento no caderno de artes: cores, tamanho e contrastes do desenho.
+MATERIA: 🔢 Math – Ângulos de Quadriláteros | Quadrados e retângulos: quatro ângulos de 90°. Paralelogramos e losangos: ângulos opostos iguais. Deltoides: um par de ângulos iguais. Página 42 do Student Workbook.
 ---
 DATA: 2026-05-25
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula.
-MATERIA: ð PLA | Na aula de hoje, os alunos deram um passo importante em nosso projeto com a escrita de uma pÃ¡gina do livro dos herÃ³is da turma. A produÃ§Ã£o teve como base as pesquisas que eles realizaram em casa com o apoio e a colaboraÃ§Ã£o das famÃ­lias. Em seguida, partimos para uma anÃ¡lise gramatical , realizando uma atividade focada na classificaÃ§Ã£o dos substantivos diretamente no texto explicativo do material, consolidando o aprendizado dentro do contexto.
-MATERIA: ð Geografia | Na aula de Geografia de hoje,demos continuidade ao nosso estudo sobre as caracterÃ­sticas marcantes e as diversas manifestaÃ§Ãµes culturais de cada regiÃ£o do Brasil. Utilizando o material da aula anterior como base, os alunos analisaram diferentes imagens e usaram a criatividade e o repertÃ³rio adquirido para criar legendas informativas sobre as regiÃµes, definindo com clareza as particularidades e os aspectos culturais que tornam cada local Ãºnico.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: 📚 PLA – Livro dos Heróis | Escrita de uma página do livro dos heróis com base nas pesquisas realizadas em casa. Atividade de classificação dos substantivos no texto explicativo do material.
+MATERIA: 🌍 Geografia – Regiões do Brasil | Análise de imagens das regiões. Criação de legendas informativas sobre particularidades e aspectos culturais de cada região.
 ---
 DATA: 2026-05-22
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: âï¸ ELA | Na aula de hoje, os alunos leram individualmente o capÃ­tulo 11 do livro âThe Thing About Georgieâ. Por fim, realizaram a etapa 5 do SLM, na qual identificaram sinÃ´nimos para os substantivos presentes na coluna 4.
-MATERIA: ð¢ Math | Na aula de hoje, realizamos uma atividade em duplas. Os alunos desenharam um quadrilÃ¡tero enquanto o colega tentava adivinhar qual figura era, fazendo perguntas de âsimâ e ânÃ£oâ. AlÃ©m disso, realizamos a pÃ¡gina 41 do Student Workbook.
+PERIODO: manhã
+MATERIA: ✏️ ELA – The Thing About Georgie | Leitura individual do capítulo 11. Etapa 5 do SLM: identificação de sinônimos para os substantivos da coluna 4.
+MATERIA: 🔢 Math – Quadriláteros | Atividade em duplas: desenhar um quadrilátero enquanto o colega tenta adivinhar fazendo perguntas de "sim" e "não". Página 41 do Student Workbook.
 ---
 DATA: 2026-05-22
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula.
-MATERIA: ð PLA | Na aula de hoje, dedicamos um momento importante para a devolutiva das avaliaÃ§Ãµes e para a produÃ§Ã£o criativa das capas dos trabalhos. Em seguida, realizamos atividades dinÃ¢micas para fixar os conteÃºdos explorados ontem sobre verbos e substantivos. Os alunos participaram de uma atividade interativa focada na classificaÃ§Ã£o dos substantivos, na qual identificaram os termos e trouxeram seus prÃ³prios exemplos, alÃ©m de realizarem um exercÃ­cio prÃ¡tico para analisar melhor o que o verbo expressa dentro de cada contexto de frase.
-MATERIA: ð Letramento Emocional | Hoje promovemos um momento de reflexÃ£o e sensibilidade atravÃ©s da leitura e interpretaÃ§Ã£o coletiva da histÃ³ria "A Ã¡rvore generosa". ApÃ³s a leitura, que foi realizada em centros, nos reunimos em uma roda de conversa acolhedora para debater as temÃ¡ticas centrais do livro. Conversamos sobre quem foi prestativo na narrativa, como a atitude de ajuda transformou as situaÃ§Ãµes apresentadas e incentivamos os alunos a pensarem de forma empÃ¡tica sobre como eles prÃ³prios teriam agido para ajudar.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: 📚 PLA – Substantivos e Verbos | Devolutiva das avaliações e produção das capas dos trabalhos. Atividade de classificação dos substantivos e análise do verbo em contexto de frase.
+MATERIA: 🤝 Letramento Emocional – A Árvore Generosa | Leitura em centros e roda de conversa sobre prestatividade e empatia.
 ---
 DATA: 2026-05-21
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula.
-MATERIA: ð PLA | Na aula de hoje, os alunos participaram de uma oficina gramatical dedicada ao estudo dos substantivos e suas diferentes classificaÃ§Ãµes. Iniciamos com uma leitura coletiva do texto, desafiando a turma a identificar e classificar as palavras que estavam destacadas ao longo da leitura. Esse momento de troca permitiu que eles observassem a funÃ§Ã£o das palavras em contexto de forma prÃ¡tica. Para consolidar o aprendizado, os alunos realizaram o registro de suas descobertas no caderno, fixando os conceitos explorados.
-MATERIA: ð Geografia | Os alunos foram divididos em grupos, onde cada equipe representou uma das RegiÃµes do Brasil. Eles realizaram uma leitura independente sobre as manifestaÃ§Ãµes culturais locais e debateram sobre o tema e as imagens apresentadas. Em seguida, cada grupo escreveu duas frases para sintetizar as informaÃ§Ãµes discutidas, registrando-as em cartÃµes. Na sequÃªncia, fizemos uma dinÃ¢mica de troca de cartÃµes entre os alunos : cada grupo leu a frase com as pistas e tentou descobrir a qual regiÃ£o do Brasil a mensagem se referia. Finalizamos chamando a atenÃ§Ã£o dos alunos para como a nossa rica diversidade cultural resulta da contribuiÃ§Ã£o de vÃ¡rios povos. OrganizaÃ§Ã£o da sala: incentivamos os alunos a organizarem seus materiais e o espaÃ§o coletivo para a EducaÃ§Ã£o FÃ­sica.
-MATERIA: â½ Aula de EducaÃ§Ã£o FÃ­sica com o Mister Paulo | Aula de EducaÃ§Ã£o FÃ­sica com o Mister Paulo.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: 📚 PLA – Substantivos | Oficina gramatical sobre substantivos e suas classificações. Leitura coletiva com identificação e classificação das palavras destacadas. Registro no caderno.
+MATERIA: 🌍 Geografia – Regiões do Brasil | Alunos divididos em grupos representando regiões. Leitura sobre manifestações culturais e escrita de frases-resumo em cartões. Dinâmica de troca e identificação das regiões.
+MATERIA: ⚽ Educação Física | Aula de Educação Física com o Mister Paulo.
 ---
 DATA: 2026-05-21
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: âï¸ ELA | Na aula de hoje, conversamos sobre o que lemos atÃ© agora do livro âThe Thing About Georgieâ. Em seguida, os alunos leram individualmente o capÃ­tulo 10 do livro. Levantamos hipÃ³teses sobre o que pode acontecer no prÃ³ximo capÃ­tulo e discutimos como essas ideias podem impactar o desfecho da histÃ³ria. Por fim, realizaram a etapa 4 do SLM, na qual identificaram substantivos presentes no livro e os escreveram na coluna correspondente.
-MATERIA: ð¢ Math | Na aula de hoje, corrigimos a AV3 de Math.
+PERIODO: manhã
+MATERIA: ✏️ ELA – The Thing About Georgie | Retomada do livro. Leitura individual do capítulo 10. Levantamento de hipóteses sobre o próximo capítulo. Etapa 4 do SLM: identificação de substantivos.
+MATERIA: 🔢 Math | Correção da AV3 de Math.
 ---
 DATA: 2026-05-20
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula.
-MATERIA: ð PLA | Na aula de hoje, demos continuidade Ã  leitura do livro "O maior herÃ³i do mundo". Em seguida, retomamos com os alunos a produÃ§Ã£o da narrativa sobre os herÃ³is autorais, onde aprenderam maneiras de melhorar a produÃ§Ã£o do texto. Os alunos realizaram a leitura dos textos em duplas, lembrando-se das expectativas, e aplicaram o checklist para revisÃ£o. ApÃ³s esse momento, realizamos uma oficina sobre as caracterÃ­sticas do verbo, abordando qual Ã© a sua funÃ§Ã£o na frase e como identificÃ¡-lo, finalizando com a realizaÃ§Ã£o de um exercÃ­cio para fixaÃ§Ã£o.
-MATERIA: ð HistÃ³ria | Na aula de hoje, os alunos realizaram uma pesquisa de palavras de origem tupi que sÃ£o usadas em nosso cotidiano. Para isso, contamos com o apoio do livro de referÃªncia indicado "O Tupi que vocÃª fala". Em seguida, eles construÃ­ram uma nuvem de palavras com a lista que montamos de maneira coletiva e finalizaram com o preenchimento da autoavaliaÃ§Ã£o no material.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: 📚 PLA – Narrativa do Herói | Continuidade da leitura de "O maior herói do mundo". Retomada da produção da narrativa com checklist de revisão em duplas. Oficina sobre características do verbo: função na frase e como identificá-lo.
+MATERIA: 📜 História – Palavras de Origem Tupi | Pesquisa de palavras tupi usadas no cotidiano com apoio do livro "O Tupi que você fala". Construção de nuvem de palavras coletiva. Autoavaliação no material.
 ---
 DATA: 2026-05-20
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: âï¸ ELA | Na aula de hoje, os alunos leram individualmente o capÃ­tulo 9 do livro âThe Thing About Georgieâ. Depois, realizaram a etapa 3 do SLM, na qual identificaram adjetivos presentes no livro e os escreveram na coluna correspondente.
-MATERIA: âï¸ Science | Na aula de hoje, revisamos o que aprendemos sobre a luz. Conversamos sobre como a luz estÃ¡ ao nosso redor o tempo todo, que ela Ã© uma forma de energia e que se move mais rÃ¡pido do que qualquer outra coisa. Os alunos realizaram as atividades das pÃ¡ginas 50 e 51, nas quais analisaram a imagem de uma casa com vÃ¡rios cÃ´modos e identificaram as diferentes fontes de luz presentes em cada ambiente.
+PERIODO: manhã
+MATERIA: ✏️ ELA – The Thing About Georgie | Leitura individual do capítulo 9. Etapa 3 do SLM: identificação de adjetivos presentes no livro.
+MATERIA: 🔬 Science – Fontes de Luz | Revisão sobre a luz como forma de energia. Atividades das páginas 50 e 51: identificação de diferentes fontes de luz em cômodos de uma casa.
 ---
 DATA: 2026-05-19
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula.
-MATERIA: âï¸ PLA | Na aula de hoje, demos continuidade Ã  nossa coletÃ¢nea de narrativas sobre herÃ³is e conhecemos uma nova obra sobre o Peter Pan. Analisamos a capa, a quarta capa e realizamos a leitura do primeiro capÃ­tulo. Em seguida, os alunos participaram de uma atividade prÃ¡tica de modelagem da pÃ¡gina de um livro, utilizando os elementos e a histÃ³ria do Peter Pan como exemplo e inspiraÃ§Ã£o para essa estruturaÃ§Ã£o.
-MATERIA: â½ Aula de MÃºsica com a Miss Michelle | Aula de MÃºsica com a Miss Michelle. OrganizaÃ§Ã£o da sala: incentivamos os alunos a organizarem seus materiais e o espaÃ§o coletivo para a aula de EducaÃ§Ã£o FÃ­sica.
-MATERIA: â½ Aula de EducaÃ§Ã£o FÃ­sica com Mister Paulo | Aula de EducaÃ§Ã£o FÃ­sica com Mister Paulo.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: ✏️ PLA – Peter Pan | Continuidade da coletânea de narrativas sobre heróis com a obra Peter Pan. Análise de capa e quarta capa. Leitura do primeiro capítulo. Atividade de modelagem da página de um livro.
+MATERIA: 🎵 Música | Aula de Música com a Miss Michelle.
+MATERIA: ⚽ Educação Física | Aula de Educação Física com o Mister Paulo.
 ---
 DATA: 2026-05-19
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: âï¸ ELA | Na aula de hoje, os alunos leram individualmente os capÃ­tulos 7 e 8 do livro âThe Thing About Georgieâ. Depois, realizaram um SLM dividido em cinco etapas (dia 1 ao dia 5). Hoje, fizemos os dias 1 e 2. No dia 1, os alunos colocaram palavras em ordem alfabÃ©tica. No dia 2, pesquisaram verbos no livro e os escreveram na coluna correspondente.
-MATERIA: ð¢ Math | Na aula de hoje, os alunos aprenderam sobre quadrilÃ¡teros. Compreenderam que uma figura com quatro lados Ã© chamada de quadrilÃ¡tero. Estudamos o quadrado, o retÃ¢ngulo, o paralelogramo, o trapÃ©zio e o losango. AlÃ©m disso, realizaram a pÃ¡gina 40 do Student Workbook, ampliando a compreensÃ£o sobre esse conteÃºdo matemÃ¡tico.
+PERIODO: manhã
+MATERIA: ✏️ ELA – The Thing About Georgie | Leitura individual dos capítulos 7 e 8. SLM em cinco etapas: Dia 1 – palavras em ordem alfabética. Dia 2 – pesquisa de verbos no livro.
+MATERIA: 🔢 Math – Quadriláteros | Introdução: quadrado, retângulo, paralelogramo, trapézio e losango. Página 40 do Student Workbook.
 ---
 DATA: 2026-05-18
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula.
-MATERIA: ð PLA | Na aula de hoje, demos continuidade Ã  leitura do livro "O maior herÃ³i do mundo" atÃ© a pÃ¡gina 19. Durante a leitura, destacamos que as pessoas precisam de bons exemplos e refletimos sobre um trecho marcante da obra que mostra que um herÃ³i nÃ£o precisa ter poderes mÃ¡gicos, mas sim possuir grande coragem, determinaÃ§Ã£o e lutar por um ideal coletivo. Em seguida, realizamos a leitura e o estudo do livro "Era uma vez Dom Quixote" atÃ© a pÃ¡gina 35, registrando todas as nossas observaÃ§Ãµes no caderno de descobertas. Finalizamos a aula explicando a pesquisa para casa que servirÃ¡ como base para darmos inÃ­cio ao livro de HerÃ³is da nossa turma.
-MATERIA: âï¸ Geografia | Na aula de hoje, estudamos sobre as terras indÃ­genas. Realizamos uma leitura compartilhada do texto para apresentar a definiÃ§Ã£o desses termos utilizando o glossÃ¡rio como apoio pedagÃ³gico. Em seguida, utilizamos os questionamentos indicados no material para promover uma roda de conversa reflexiva com os alunos.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: 📚 PLA – Dom Quixote e Livro dos Heróis | Leitura de "O maior herói do mundo" até página 19. Leitura de "Era uma vez Dom Quixote" até página 35 com registro no caderno. Explicação da pesquisa para casa como base para o Livro dos Heróis.
+MATERIA: 🌍 Geografia – Terras Indígenas | Leitura compartilhada sobre definição de terras indígenas usando glossário. Roda de conversa reflexiva com os alunos.
 ---
 DATA: 2026-05-18
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: âï¸ ELA | Na aula de hoje, corrigimos a AV3 de ELA. Em seguida, lemos o capÃ­tulo 6 do livro âThe Thing About Georgieâ e participamos de uma dinÃ¢mica proposta pela histÃ³ria: cada aluno escreveu algo sobre si em uma folha de papel, dobrou-a e a escondeu pela sala. Depois, finalizamos a leitura do capÃ­tulo e discutimos os principais acontecimentos da histÃ³ria.
-MATERIA: ð¢ Math | Na aula de hoje, continuamos trabalhando com Ã¢ngulos e com o uso do transferidor para realizar a mediÃ§Ã£o dos Ã¢ngulos. Os alunos desenvolveram atividades prÃ¡ticas e realizaram as pÃ¡ginas 38 e 39 do Student Workbook, ampliando a compreensÃ£o sobre esse conteÃºdo matemÃ¡tico.
-MATERIA: ð¨ Arts | Na aula de hoje, continuamos trabalhando no desenho iniciado na aula passada, utilizando um dos princÃ­pios fundamentais das artes visuais e do design: o contraste. Os alunos exploraram diferentes cores, formas, tamanhos, luz e sombra em suas produÃ§Ãµes artÃ­sticas.
+PERIODO: manhã
+MATERIA: ✏️ ELA – The Thing About Georgie | Correção da AV3 de ELA. Leitura do capítulo 6. Dinâmica: cada aluno escreveu algo sobre si, escondeu pela sala, depois finalizaram o capítulo e discutiram os acontecimentos.
+MATERIA: 🔢 Math – Ângulos e Transferidor | Continuidade com uso do transferidor. Páginas 38 e 39 do Student Workbook.
+MATERIA: 🎨 Arts – Contraste | Continuidade do desenho explorando contraste: cores, formas, tamanhos, luz e sombra.
 ---
 DATA: 2026-05-15
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: ð¢ Math | Na aula de hoje, trabalhamos com Ã¢ngulos e com o uso do transferidor para realizar a mediÃ§Ã£o dos Ã¢ngulos. Os alunos desenvolveram atividades prÃ¡ticas e realizaram as pÃ¡ginas 36 e 37 do Student Workbook, ampliando a compreensÃ£o sobre esse conteÃºdo matemÃ¡tico.
-MATERIA: âï¸ ELA | Hoje tivemos aula de Cambridge. Os alunos realizaram atividades de leitura e escrita, trabalhando a interpretaÃ§Ã£o de texto e a associaÃ§Ã£o entre palavras e imagens. Como parte da proposta, fizeram um exercÃ­cio de leitura seguido do preenchimento das informaÃ§Ãµes de acordo com as figuras apresentadas.
+PERIODO: manhã
+MATERIA: 🔢 Math – Ângulos e Transferidor | Uso do transferidor para medir ângulos. Páginas 36 e 37 do Student Workbook.
+MATERIA: ✏️ ELA – Cambridge | Atividades de leitura e escrita: interpretação de texto e associação entre palavras e imagens.
 ---
 DATA: 2026-05-14
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: âï¸ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula. ð Open House: Iniciamos o dia com os Ãºltimos ajustes para o nosso encontro de amanhÃ£. Estamos todos muito animados para receber as mamÃ£es! SerÃ¡ um momento muito especial. âµ Aula de HistÃ³ria: Na aula de hoje demos continuidade ao estudo sobre as expediÃ§Ãµes marÃ­timas. Realizamos a leitura compartilhada do material "As Grandes NavegaÃ§Ãµes", aprofundando o conhecimento sobre o contexto histÃ³rico e os desafios dos navegadores. ApÃ³s, os alunos transformaram o conteÃºdo lido em uma narrativa visual (realizaram um enredo visual). Em grupos, eles criaram ilustraÃ§Ãµes e pequenos textos sobre as etapas e curiosidades das Grandes NavegaÃ§Ãµes, exercitando a sÃ­ntese sobre o material estudado. OrganizaÃ§Ã£o da sala: incentivamos os alunos a organizarem seus materiais e o espaÃ§o coletivo para a EducaÃ§Ã£o FÃ­sica.
-MATERIA: â½ Aula de EducaÃ§Ã£o FÃ­sica com Mister Paulo | Aula de EducaÃ§Ã£o FÃ­sica com Mister Paulo.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada. Últimos ajustes para o Open House do dia seguinte.
+MATERIA: 📜 História – Grandes Navegações | Leitura compartilhada de "As Grandes Navegações". Produção de narrativa visual em grupos: ilustrações e textos sobre as etapas e curiosidades das navegações.
+MATERIA: ⚽ Educação Física | Aula de Educação Física com o Mister Paulo.
 ---
 DATA: 2026-05-13
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula.
-MATERIA: âï¸ PLA | Na aula de hoje, iniciamos a exploraÃ§Ã£o da obra "O maior herÃ³i do mundo". Analisamos a capa e a quarta capa, fazendo prediÃ§Ãµes sobre se a histÃ³ria Ã© real ou fictÃ­cia. Destacamos que, embora a narrativa seja ficÃ§Ã£o, ela se baseia em fatos reais: cientistas realmente desenvolvem experimentos para criar materiais como capas de invisibilidade e roupas superadesivas. Realizamos a leitura atÃ© a pÃ¡gina 10. Em seguida, avanÃ§amos na narrativa sobre o herÃ³i autoral. ApÃ³s as etapas de planejamento, os alunos iniciaram hoje a escrita do rascunho da histÃ³ria transformando as ideias dos organizadores grÃ¡ficos em texto. âµ Aula de HistÃ³ria: Na aula de hoje, avanÃ§amos no tema "Como eram as navegaÃ§Ãµes?". Os alunos conheceram o interior das caravelas, os objetivos das expediÃ§Ãµes e os desafios enfrentados ao desbravar novos mundos.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: ✏️ PLA – O maior herói do mundo | Exploração da obra: análise de capa e quarta capa, predições sobre ficção x realidade. Leitura até página 10. Início da escrita do rascunho da história do herói autoral a partir dos organizadores gráficos.
+MATERIA: 📜 História – Como eram as navegações? | Conhecimento do interior das caravelas, objetivos das expedições e desafios dos navegadores.
 ---
 DATA: 2026-05-12
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: ð¢ Math | Na aula de hoje, finalizamos a correÃ§Ã£o coletiva da pÃ¡gina 33 do Student Workbook. Em seguida, os alunos participaram de uma dinÃ¢mica em duplas utilizando dados. A proposta era rolar o dado e criar operaÃ§Ãµes de subtraÃ§Ã£o, praticando estratÃ©gias de cÃ¡lculo mental e resoluÃ§Ã£o de problemas de forma lÃºdica e interativa.
-MATERIA: âï¸ ELA | Na aula de hoje, realizamos a leitura dos capÃ­tulos 2 e 3 do livro The Thing About Georgie. Durante a leitura, fizemos uma dinÃ¢mica proposta pela prÃ³pria histÃ³ria: utilizando uma fita mÃ©trica, os alunos mediram a distÃ¢ncia entre a maÃ§aneta e o chÃ£o, o interruptor e o chÃ£o, o batente da janela e o chÃ£o, alÃ©m da altura das mesas. Essa atividade teve como objetivo ajudar as crianÃ§as a compreenderem melhor como Ã© a vida de Georgie, que mede 1,07 m de altura. Depois da leitura, trabalhamos com trÃªs centros de aprendizagem: â¢ Centro 1 â Guided Reading: trabalhamos com narrativa pessoal, explorando os tempos verbais passado, presente e futuro. â¢ Centro 2 â SLM Response Journal: âHow Does It Measure Up?â os alunos utilizaram a fita mÃ©trica para medir os objetos propostos na atividade do SLM. â¢ Centro 3 â Response Journal Questions for Chapters 1 and 2: os alunos responderam perguntas relacionadas aos capÃ­tulos lidos, refletindo sobre os acontecimentos da histÃ³ria e os personagens.
+PERIODO: manhã
+MATERIA: 🔢 Math – Subtração com Dados | Finalização da correção da página 33 do Student Workbook. Dinâmica em duplas com dados: criar operações de subtração praticando cálculo mental.
+MATERIA: ✏️ ELA – The Thing About Georgie | Leitura dos capítulos 2 e 3. Dinâmica com fita métrica medindo alturas (igual ao personagem Georgie de 1,07m). Centros: Guided Reading (narrativa pessoal com tempos verbais), SLM "How Does It Measure Up?" e Response Journal Questions.
 ---
 DATA: 2026-05-12
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula.
-MATERIA: ð PLA | Dedicamos a nossa aula de hoje a uma produÃ§Ã£o escrita muito especial. Os alunos estÃ£o preparando uma surpresa para o Dia das MÃ£es e o clima na sala foi de total empolgaÃ§Ã£o. AtravÃ©s da escrita, eles puderam expressar sentimentos e exercitar a criatividade para este momento que serÃ¡ especial.
-MATERIA: â½ Aula de MÃºsica com a Miss Michelle | Aula de MÃºsica com a Miss Michelle. OrganizaÃ§Ã£o da sala: incentivamos os alunos a organizarem seus materiais e o espaÃ§o coletivo para a aula de EducaÃ§Ã£o FÃ­sica.
-MATERIA: â½ Aula de EducaÃ§Ã£o FÃ­sica com o Mister Paulo | Aula de EducaÃ§Ã£o FÃ­sica com o Mister Paulo.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: 📚 PLA – Surpresa Dia das Mães | Produção escrita especial como surpresa para o Dia das Mães, expressando sentimentos e criatividade.
+MATERIA: 🎵 Música | Aula de Música com a Miss Michelle.
+MATERIA: ⚽ Educação Física | Aula de Educação Física com o Mister Paulo.
 ---
 DATA: 2026-05-11
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: ð¢ Math | Na aula de hoje, realizamos a correÃ§Ã£o coletiva das pÃ¡ginas 32 e 33 do Student Workbook.
-MATERIA: âï¸ ELA | Na aula de hoje, iniciamos a unidade 3: The Novel Study: The Thing About Georgie. Os alunos receberam cartÃµes com frases retiradas do livro e circularam pela sala conversando com os colegas para compartilhar as informaÃ§Ãµes que haviam recebido. A partir dessas pistas, fizeram previsÃµes sobre a histÃ³ria, os personagens e os possÃ­veis acontecimentos do livro. Em seguida, o livro foi apresentado oficialmente Ã  turma e realizamos a leitura compartilhada do primeiro capÃ­tulo.
-MATERIA: ð¨ Arts | Na aula de hoje, revisamos o conceito de contraste nas artes visuais, conversando sobre como cores claras e escuras podem criar diferentes efeitos em uma composiÃ§Ã£o. Em seguida, os alunos dividiram a folha em quatro quadrados e desenharam a mesma figura em cada um deles. A proposta foi explorar diferentes combinaÃ§Ãµes de cores e contrastes em cada espaÃ§o, observando como as escolhas de cores podem transformar a percepÃ§Ã£o e o destaque da imagem.
-MATERIA: ð§ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula.
-MATERIA: ð PLA | Na aula de hoje, avanÃ§amos na escrita da narrativa sobre o herÃ³i autoral. O foco de hoje foi a estruturaÃ§Ã£o da ideia central e dos fatos principais, servindo de base para a construÃ§Ã£o dos parÃ¡grafos do texto. Os alunos demonstraram muita criatividade ao organizar a trajetÃ³ria de seus personagens! ApÃ³s, concluÃ­mos a definiÃ§Ã£o dos poderes e caracterÃ­sticas marcantes de cada herÃ³i autoral. E finalizamos com a produÃ§Ã£o de uma surpresa especial para as mamÃ£es.
-MATERIA: ð Aula de Geografia | Hoje, exploramos a rica diversidade cultural do Brasil, com foco especial nos territÃ³rios quilombolas. Estudamos a importÃ¢ncia histÃ³rica e social dessas comunidades, suas caracterÃ­sticas culturais e realizamos uma pesquisa sobre as comunidades remanescentes ainda existentes em nosso estado, valorizando a preservaÃ§Ã£o dessa heranÃ§a.
+PERIODO: manhã
+MATERIA: 🔢 Math – Correção Coletiva | Correção coletiva das páginas 32 e 33 do Student Workbook.
+MATERIA: ✏️ ELA – The Thing About Georgie | Início da Unidade 3. Dinâmica com frases do livro em cartões. Apresentação oficial e leitura compartilhada do primeiro capítulo.
+MATERIA: 🎨 Arts – Contraste | Revisão do conceito de contraste. Divisão da folha em quatro quadrados com a mesma figura em diferentes combinações de cores e contrastes.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada.
+MATERIA: 📚 PLA – Herói Autoral | Avanço na escrita da narrativa: estruturação da ideia central e fatos principais. Definição dos poderes e características do herói. Produção de surpresa para as mamães.
+MATERIA: 🌍 Geografia – Territórios Quilombolas | Diversidade cultural do Brasil com foco em territórios quilombolas. Importância histórica, características culturais e pesquisa sobre comunidades no estado.
 ---
 DATA: 2026-05-08
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula.
-MATERIA: âï¸ PLA | na aula de hoje, iniciamos a exploraÃ§Ã£o de uma nova obra: "ArmazÃ©m do Folclore". Analisamos os elementos da capa e realizamos uma leitura compartilhada da lenda do Saci-PererÃª e do conto Os trÃªs moÃ§os malvados. No caderno de descobertas, registramos as principais diferenÃ§as entre os gÃªneros lenda e conto.ApÃ³s, os alunos comeÃ§aram o planejamento de escrita sobre o herÃ³i autoral criado por eles. Para estruturar a narrativa, utilizamos um organizador grÃ¡fico focado na progressÃ£o da histÃ³ria (inÃ­cio, meio e fim), garantindo a coesÃ£o do texto.
-MATERIA: ð Letramento Emocional | realizamos uma dinÃ¢mica de confianÃ§a em duplas, onde um aluno guiava o colega (que estava de olhos fechados) pelo espaÃ§o. A atividade foi fundamental para trabalhar a empatia, a prestatividade e a responsabilidade, reforÃ§ando a importÃ¢ncia do apoio mÃºtuo e do cuidado com o prÃ³ximo dentro do ambiente escolar. Durante a aula, definimos o conceito de prestatividade: a disposiÃ§Ã£o em ajudar o prÃ³ximo de forma voluntÃ¡ria.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: ✏️ PLA – Armazém do Folclore | Exploração da obra "Armazém do Folclore": leitura do Saci-Pererê e "Os três moços malvados". Diferenças entre lenda e conto. Início do planejamento da narrativa do herói autoral com organizador gráfico (início, meio e fim).
+MATERIA: 🤝 Letramento Emocional – Prestatividade | Dinâmica de confiança em duplas: um aluno guia o colega de olhos fechados. Conceito de prestatividade: disposição em ajudar voluntariamente.
 ---
 DATA: 2026-05-08
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: ð¢ Math | realizamos a AV3 de Math.
-MATERIA: âï¸ ELA | os alunos realizaram um SLM de revisÃ£o de texto (proofreading). Eles leram um texto e fizeram correÃ§Ãµes gramaticais. Em seguida, realizamos a correÃ§Ã£o coletiva da atividade.
+PERIODO: manhã
+MATERIA: 🔢 Math | Realização da AV3 de Math.
+MATERIA: ✏️ ELA – Proofreading | SLM de revisão de texto (proofreading): leitura e correções gramaticais com correção coletiva.
 ---
 DATA: 2026-05-07
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: âï¸ ELA | os alunos realizaram um SLM de forma independente. Eles escreveram frases utilizando adjetivos, leram um poema sobre borboletas e responderam perguntas relacionadas ao texto. Em seguida, confeccionaram a lembrancinha de Dia das MÃ£es.
-MATERIA: ð¢ Math | realizamos a correÃ§Ã£o coletiva da pÃ¡gina 32 do Student Workbook.
+PERIODO: manhã
+MATERIA: ✏️ ELA – Adjetivos e Poema | SLM independente: frases com adjetivos, leitura de poema sobre borboletas e perguntas de interpretação. Confecção da lembrancinha de Dia das Mães.
+MATERIA: 🔢 Math | Correção coletiva da página 32 do Student Workbook.
 ---
 DATA: 2026-05-07
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula.
-MATERIA: ð Hoje nossos alunos realizaram a AV3 de LÃ­ngua Portuguesa | Hoje nossos alunos realizaram a AV3 de LÃ­ngua Portuguesa. A avaliaÃ§Ã£o abordou a anÃ¡lise de narrativas sobre amizade e histÃ³rias em quadrinhos, o uso de parÃ¡grafos e travessÃ£o em diÃ¡logos, alÃ©m de regras gramaticais sobre substantivos coletivos, verbos dicendi e o plural das palavras.
-MATERIA: â½ Aula de EducaÃ§Ã£o FÃ­sica com Mister Paulo | Aula de EducaÃ§Ã£o FÃ­sica com Mister Paulo.Os alunos tambÃ©m passaram por um momento de avaliaÃ§Ã£o, compartilhando o progresso desenvolvido nas Ãºltimas aulas.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: 📚 PLA | Realização da AV3 de Língua Portuguesa: narrativas sobre amizade, histórias em quadrinhos, parágrafos, travessão em diálogos, substantivos coletivos, verbos dicendi e plural.
+MATERIA: ⚽ Educação Física | Aula de Educação Física com o Mister Paulo. Momento de avaliação compartilhando o progresso das últimas aulas.
 ---
 DATA: 2026-05-06
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: âï¸ ELA | os alunos realizaram um SLM sobre onomatopeia. Eles leram frases-modelo e, a partir delas, criaram novas frases utilizando essa figura de linguagem.
-MATERIA: ð¬ Science | realizamos a AV3 de Science.
+PERIODO: manhã
+MATERIA: ✏️ ELA – Onomatopeia | SLM sobre onomatopeia: leitura de frases-modelo e criação de novas frases.
+MATERIA: 🔬 Science | Realização da AV3 de Science.
 ---
 DATA: 2026-05-06
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula.
-MATERIA: ð PLA | na aula de PLA de hoje, avanÃ§amos na Unidade 2 com a leitura do primeiro capÃ­tulo do livro "Os TrÃªs Mosqueteiros". Durante a atividade, analisamos as caracterÃ­sticas marcantes do personagem Dartanhan e realizamos uma dinÃ¢mica de pesquisa no dicionÃ¡rio para ampliar o vocabulÃ¡rio com as palavras desconhecidas encontradas no texto. Iniciamos tambÃ©m o lanÃ§amento do produto final da unidade 2, organizando a turma em grupos para a produÃ§Ã£o do "Livro dos HerÃ³is", uma obra autoral que serÃ¡ produzida por toda a classe. Este projeto serÃ¡ a culminÃ¢ncia de nossos estudos sobre narrativas heroicas, permitindo que os alunos apliquem sua criatividade e competÃªncias de escrita.
-MATERIA: ð Hoje nossos alunos realizaram a AV3 de Geografia | Hoje nossos alunos realizaram a AV3 de Geografia. A avaliaÃ§Ã£o explorou a organizaÃ§Ã£o do territÃ³rio brasileiro, as formas de relevo, a hidrografia e as interaÃ§Ãµes entre clima e vegetaÃ§Ã£o nas diferentes regiÃµes do paÃ­s.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: 📚 PLA – Os Três Mosqueteiros | Início da Unidade 2. Leitura do primeiro capítulo com análise de Dartanhan e pesquisa no dicionário. Lançamento do produto final: "Livro dos Heróis" em grupos.
+MATERIA: 🌍 Geografia | Realização da AV3 de Geografia: organização do território, formas de relevo, hidrografia e interações entre clima e vegetação.
 ---
 DATA: 2026-05-05
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: âï¸ ELA | aprendemos o que Ã© um concrete poem (poema concreto), um tipo de poema em que a forma visual das palavras representa o tema, ou seja, o texto Ã© organizado para criar uma imagem relacionada ao assunto. Trabalhamos com o tema âpizzaâ: os alunos sugeriram palavras, que registramos no quadro, e depois cada um produziu seu SLM criando um poema nesse formato.Em seguida, continuamos o trabalho com figuras de linguagem. Exploramos onomatopeia e sÃ­mile, e os alunos realizaram um SLM de classificaÃ§Ã£o de frases utilizando as figuras de linguagem estudadas: aliteraÃ§Ã£o, onomatopeia, metÃ¡fora, hipÃ©rbole, sÃ­mile, repetiÃ§Ã£o e personificaÃ§Ã£o.
-MATERIA: ð¢ Math | fizemos a correÃ§Ã£o coletiva das pÃ¡ginas 30 e 31 do Student Workbook.
+PERIODO: manhã
+MATERIA: ✏️ ELA – Figuras de Linguagem | Concrete poem (poema concreto) com tema pizza. Classificação de figuras de linguagem: aliteração, onomatopeia, metáfora, hipérbole, símile, repetição e personificação.
+MATERIA: 🔢 Math | Correção coletiva das páginas 30 e 31 do Student Workbook.
 ---
 DATA: 2026-05-05
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula.
-MATERIA: ð Hoje nossos alunos realizaram a AvaliaÃ§Ã£o (AV3) de HistÃ³ria | Hoje nossos alunos realizaram a AvaliaÃ§Ã£o (AV3) de HistÃ³ria. Foi um momento importante para demonstrarem os conhecimentos construÃ­dos ao longo da unidade sobre o contexto das Grandes NavegaÃ§Ãµes, o encontro de culturas e a formaÃ§Ã£o do territÃ³rio brasileiro.
-MATERIA: â½ Aula de MÃºsica com Miss MichelleOs alunos tambÃ©m passaram po | Aula de MÃºsica com Miss MichelleOs alunos tambÃ©m passaram por um momento de avaliaÃ§Ã£o, compartilhando o progresso desenvolvido nas Ãºltimas aulas. OrganizaÃ§Ã£o da sala: incentivamos os alunos a organizarem seus materiais e o espaÃ§o coletivo para a aula de EducaÃ§Ã£o FÃ­sica.
-MATERIA: â½ Aula de EducaÃ§Ã£o FÃ­sica com Mister Paulo | Aula de EducaÃ§Ã£o FÃ­sica com Mister Paulo.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: 📜 História | Realização da AV3 de História: contexto das Grandes Navegações, encontro de culturas e formação do território brasileiro.
+MATERIA: 🎵 Música | Aula de Música com Miss Michelle. Momento de avaliação compartilhando o progresso das últimas aulas.
+MATERIA: ⚽ Educação Física | Aula de Educação Física com o Mister Paulo.
 ---
 DATA: 2026-05-04
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula.
-MATERIA: ð PLA | demos continuidade Ã  Unidade 2 sobre o universo dos HerÃ³is, exploramos hoje a evoluÃ§Ã£o dessas figuras, analisando suas caracterÃ­sticas e a transiÃ§Ã£o das narrativas dos gibis para o cinema, relembrando os personagens mais famosos dessa trajetÃ³ria. AlÃ©m disso, tivemos o nosso primeiro contato com a obra "Os TrÃªs Mosqueteiros", de Pedro Bandeira. Para finalizar, os alunos realizaram um quiz chamado "Saiba mais sobre os herÃ³is", consolidando as curiosidades e fatos discutidos em sala.
-MATERIA: ð Aula de Geografia | Finalizamos a etapa de revisÃ£o para a avaliaÃ§Ã£o de Geografia e retiramos todas as dÃºvidas . Realizamos a atividade "Em qual regiÃ£o eu moro?", na qual os alunos registraram no caderno as definiÃ§Ãµes dos conceitos trabalhados (fronteira, limite, regiÃ£o e regionalizaÃ§Ã£o) e exercitaram a localizaÃ§Ã£o dos pontos cardeais e colaterais. Para consolidar o aprendizado de forma dinÃ¢mica, utilizamos um jogo interativo focado na orientaÃ§Ã£o espacial e na organizaÃ§Ã£o regional do Brasil.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: 📚 PLA – Heróis e Os Três Mosqueteiros | Continuidade da Unidade 2: evolução dos heróis dos gibis ao cinema. Primeiro contato com "Os Três Mosqueteiros" de Pedro Bandeira. Quiz "Saiba mais sobre os heróis".
+MATERIA: 🌍 Geografia – Regionalização do Brasil | Revisão para AV3. Atividade "Em qual região eu moro?" com definições de fronteira, limite, região e regionalização. Jogo interativo de orientação espacial.
 ---
 DATA: 2026-05-04
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: âï¸ Arts | realizamos a AV3 de Arts. Os alunos desenharam uma abÃ³bora esculpida, aplicando os conceitos de contraste e profundidade. TambÃ©m trabalhamos com expressÃµes faciais, permitindo que cada aluno escolhesse qual emoÃ§Ã£o gostaria de representar em sua abÃ³bora.ELA aula de hoje, realizamos a AV3 de ELA.
+PERIODO: manhã
+MATERIA: 🎨 Arts | Realização da AV3 de Arts: desenho de abóbora esculpida com contraste, profundidade e expressões faciais.
+MATERIA: ✏️ ELA | Realização da AV3 de ELA.
 ---
 DATA: 2026-04-30
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: ð Aula | ConteÃºdo a revisar.
+PERIODO: manhã
+MATERIA: 📌 Aula | Conteúdo a revisar.
 ---
 DATA: 2026-04-30
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula.
-MATERIA: ð Assembly | Hoje foi o dia da nossa apresentaÃ§Ã£o sobre a importÃ¢ncia dos povos indÃ­genas na formaÃ§Ã£o do nosso paÃ­s. Nossos Big Bears arrasaram e o Assembly foi um sucesso! Eles compartilharam com a escola todo o conhecimento construÃ­do sobre cultura, alimentaÃ§Ã£o e tradiÃ§Ãµes, demonstrando muita seguranÃ§a e protagonismo.
-MATERIA: ð Aula de Geografia | ApÃ³s o Assembly, dedicamos a aula de hoje Ã  revisÃ£o para a AV3 de Geografia. e realizamos a correÃ§Ã£o individual das atividades. OrganizaÃ§Ã£o da sala: incentivamos os alunos a organizarem seus materiais e o espaÃ§o coletivo para a aula de EducaÃ§Ã£o FÃ­sica.
-MATERIA: â½ Aula de EducaÃ§Ã£o FÃ­sica com Mister Paulo | Aula de EducaÃ§Ã£o FÃ­sica com Mister Paulo.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: 🎤 Assembly – Povos Indígenas | Apresentação sobre a importância dos povos indígenas na formação do Brasil. Os Big Bears compartilharam conhecimentos sobre cultura, alimentação e tradições.
+MATERIA: 🌍 Geografia | Revisão para a AV3 de Geografia e correção individual das atividades.
+MATERIA: ⚽ Educação Física | Aula de Educação Física com o Mister Paulo.
 ---
 DATA: 2026-04-29
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula.
-MATERIA: ð Aula de HistÃ³ria | dedicamos a aula de hoje Ã  revisÃ£o para a AV3 de HistÃ³ria. Realizamos a correÃ§Ã£o coletiva das atividades em sala, focando na retirada de dÃºvidas e no reforÃ§o dos conteÃºdos estudados, assegurando que os alunos estejam bem preparados para a avaliaÃ§Ã£o.
-MATERIA: ð Assembly | Nossos alunos entraram na etapa final de preparaÃ§Ã£o para a apresentaÃ§Ã£o sobre os povos indÃ­genas. Hoje, finalizamos a confecÃ§Ã£o dos cartazes e realizamos um ensaio com os alunos voluntÃ¡rios para as falas. AlÃ©m disso, a turma teve a oportunidade de manusear e conhecer objetos e itens autÃªnticos da cultura indÃ­gena, enriquecendo o repertÃ³rio visual e sensorial sobre o tema.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: 📜 História | Revisão para a AV3 de História. Correção coletiva das atividades e reforço dos conteúdos.
+MATERIA: 🎤 Assembly – Preparação | Finalização dos cartazes sobre povos indígenas. Ensaio com alunos voluntários. Manuseio de objetos autênticos da cultura indígena.
 ---
 DATA: 2026-04-29
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: âï¸ ELA | Ã§amos o dia com o Buddy Reading. Em seguida, os alunos compartilharam os poemas lidos e suas reflexÃµes, desenvolvendo a oralidade e a compreensÃ£o textual.Na aula de hoje, estudamos o Haiku poem, explorando sua estrutura: um poema curto de trÃªs versos, com padrÃ£o de sÃ­labas 5-7-5. Realizamos um brainstorming sobre polar bears e, depois, os alunos criaram seus prÃ³prios haicais com esse tema.A revisÃ£o de ELA foi enviada para casa como forma de reforÃ§ar os conteÃºdos trabalhados.
-MATERIA: ð¬ Science | realizamos a revisÃ£o dos conteÃºdos de Science para a AV3 em sala de aula, reforÃ§ando a importÃ¢ncia da revisÃ£o para a consolidaÃ§Ã£o da aprendizagem.
+PERIODO: manhã
+MATERIA: ✏️ ELA – Haiku e Buddy Reading | Buddy Reading com compartilhamento de poemas. Estudo do Haiku poem (estrutura 5-7-5 sílabas). Brainstorming sobre polar bears e criação de haicais. Revisão de ELA enviada para casa.
+MATERIA: 🔬 Science | Revisão dos conteúdos de Science para a AV3.
 ---
 DATA: 2026-04-28
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula.
-MATERIA: ð PLA | dedicamos a aula de hoje Ã  revisÃ£o para a AV3 de LÃ­ngua Portuguesa. Realizamos a correÃ§Ã£o coletiva das atividades em sala, momento em que pudemos sanar dÃºvidas individuais e reforÃ§ar os conteÃºdos trabalhados ao longo da unidade, garantindo que todos se sintam seguros para a avaliaÃ§Ã£o.
-MATERIA: â½ Aula de MÃºsica com Miss Michelle | Aula de MÃºsica com Miss Michelle. OrganizaÃ§Ã£o da sala: incentivamos os alunos a organizarem seus materiais e o espaÃ§o coletivo para a aula de EducaÃ§Ã£o FÃ­sica.
-MATERIA: â½ Aula de EducaÃ§Ã£o FÃ­sica com Mister Paulo | Aula de EducaÃ§Ã£o FÃ­sica com Mister Paulo.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: 📚 PLA | Revisão para AV3 de Língua Portuguesa. Correção coletiva e reforço dos conteúdos da unidade.
+MATERIA: 🎵 Música | Aula de Música com Miss Michelle.
+MATERIA: ⚽ Educação Física | Aula de Educação Física com o Mister Paulo.
 ---
 DATA: 2026-04-28
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: âï¸ ELA | Ã§amos o dia com o buddy reading. Em seguida, os alunos compartilharam os poemas lidos e suas reflexÃµes sobre as leituras, desenvolvendo a oralidade e a compreensÃ£o textual.Na aula de hoje, realizamos a correÃ§Ã£o coletiva da revisÃ£o. Os alunos tiraram suas dÃºvidas e revisaram conteÃºdos importantes, fortalecendo a compreensÃ£o e se preparando com mais seguranÃ§a para a avaliaÃ§Ã£o. TambÃ©m conhecemos o cinquain poem, explorando sua estrutura de cinco versos, com organizaÃ§Ã£o especÃ­fica de palavras e sÃ­labas. Trabalhamos a ideia de construÃ§Ã£o do poema a partir de um tema, considerando a quantidade de sÃ­labas em cada linha e a funÃ§Ã£o de cada verso (substantivo, adjetivos, verbos, expressÃ£o e palavra final). Os alunos realizaram um SLM, no qual escolheram um tema e criaram seus prÃ³prios poemas, desenvolvendo a criatividade, a consciÃªncia fonolÃ³gica e a organizaÃ§Ã£o das ideias.
-MATERIA: ð¢ Math | realizamos a revisÃ£o de matemÃ¡tica para a AV3, retomando conteÃºdos trabalhados e reforÃ§ando estratÃ©gias de resoluÃ§Ã£o, a fim de garantir maior seguranÃ§a e autonomia dos alunos na avaliaÃ§Ã£o.
+PERIODO: manhã
+MATERIA: ✏️ ELA – Cinquain Poem e Buddy Reading | Buddy Reading com compartilhamento de poemas e reflexões. Estudo do cinquain poem (5 versos: substantivo, adjetivos, verbos, expressão, palavra final). SLM criando poema próprio.
+MATERIA: 🔢 Math | Revisão de matemática para a AV3. Retomada de conteúdos e estratégias de resolução.
 ---
 DATA: 2026-04-27
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula.
-MATERIA: âï¸ Aula de Geografia | na aula de hoje, exploramos as diferentes formas de regionalizaÃ§Ã£o do territÃ³rio brasileiro, comparando os mapas do IBGE e a divisÃ£o geoeconÃ´mica. AtravÃ©s de uma leitura compartilhada, analisamos as caracterÃ­sticas de cada modelo e discutimos como essas divisÃµes impactam a organizaÃ§Ã£o social e administrativa. Em grupos, os alunos realizaram uma atividade prÃ¡tica (Aula 14, Material 2) utilizando a Rosa dos Ventos, relacionando a nomenclatura das regiÃµes brasileiras aos pontos cardeais e colaterais.
-MATERIA: âï¸ PLA | Na aula de PLA, demos continuidade Ã  leitura compartilhada da obra "Era uma vez Dom Quixote", avanÃ§ando pelo segundo capÃ­tulo. Os alunos exploraram as motivaÃ§Ãµes do personagem Alonso para se tornar um cavaleiro andante e as transformaÃ§Ãµes que realizou para assumir sua nova identidade: a escolha do traje, a mudanÃ§a de seu nome, a nomeaÃ§Ã£o de seu cavalo e a idealizaÃ§Ã£o de Dulcineia.
-MATERIA: âï¸ Assembly | Nossos alunos estÃ£o se preparando para uma apresentaÃ§Ã£o sobre os povos indÃ­genas. Hoje, iniciamos a confecÃ§Ã£o dos cartazes. Os temas explorados pela turma serÃ£o: alimentaÃ§Ã£o e a sua relaÃ§Ã£o com a natureza, vocabulÃ¡rio e indicaÃ§Ã£o de livros, grafismo e seus significados, brinquedos e brincadeiras tradicionais.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: 🌍 Geografia – Regionalização | Diferentes formas de regionalização do território brasileiro: IBGE vs. geoecônomica. Atividade com Rosa dos Ventos relacionando regiões a pontos cardeais.
+MATERIA: 📚 PLA – Dom Quixote | Leitura compartilhada do segundo capítulo: motivações de Alonso, escolha do traje, nome, cavalo e Dulcineia.
+MATERIA: 🎤 Assembly – Povos Indígenas | Início da confecção de cartazes sobre: alimentação, vocabulário, grafismo e brinquedos tradicionais.
 ---
 DATA: 2026-04-27
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: âï¸ ELA | Ã§amos o dia com o buddy reading. Em seguida, os alunos compartilharam os poemas lidos e suas reflexÃµes sobre as leituras, desenvolvendo a oralidade e a compreensÃ£o textual.Na aula de hoje, os alunos realizaram a revisÃ£o que foi enviada para casa na sexta-feira. Esse momento Ã© muito importante para consolidar as aprendizagens, identificar possÃ­veis dÃºvidas e fortalecer a autonomia nos estudos. Na prÃ³xima aula serÃ¡ feita a correÃ§Ã£o coletiva.
-MATERIA: ð¢ Math | continuamos trabalhando com subtraÃ§Ã£o envolvendo nÃºmeros de 3 dÃ­gitos, reforÃ§ando estratÃ©gias de cÃ¡lculo. Realizamos a pÃ¡gina 31 do Student Workbook.
+PERIODO: manhã
+MATERIA: ✏️ ELA – Buddy Reading e Revisão | Buddy Reading com compartilhamento. Realização da revisão de ELA enviada na sexta-feira. Correção coletiva na próxima aula.
+MATERIA: 🔢 Math – Subtração 3 Dígitos | Continuidade de subtração com 3 dígitos. Página 31 do Student Workbook.
 ---
 DATA: 2026-04-24
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: âï¸ ELA | Ã§amos o dia com o buddy reading. Em seguida, os alunos compartilharam os poemas lidos e suas reflexÃµes sobre as leituras, desenvolvendo a oralidade e a compreensÃ£o textual.Na aula de hoje, iniciamos a revisÃ£o de ELA, com foco em verbos, adjetivos e substantivos, retomando conceitos importantes para a consolidaÃ§Ã£o da aprendizagem.
-MATERIA: ð¢ Math | trabalhamos com subtraÃ§Ã£o envolvendo nÃºmeros de 3 dÃ­gitos, reforÃ§ando estratÃ©gias de cÃ¡lculo. Realizamos a pÃ¡gina 30 do Student Workbook.
+PERIODO: manhã
+MATERIA: ✏️ ELA – Revisão | Buddy Reading com compartilhamento. Início da revisão de ELA: verbos, adjetivos e substantivos.
+MATERIA: 🔢 Math – Subtração 3 Dígitos | Subtração com 3 dígitos reforçando estratégias de cálculo. Página 30 do Student Workbook.
 ---
 DATA: 2026-04-24
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula.
-MATERIA: âï¸ PLA | na aula de PLA de hoje, realizamos uma oficina com foco em substantivos. Para fixar o conceito de forma lÃºdica e dinÃ¢mica, os alunos participaram do jogo Stop (Aula 39, material 3), onde exercitaram a classificaÃ§Ã£o e o repertÃ³rio vocabular atravÃ©s de desafios com tarjetas.ApÃ³s a oficina, demos continuidade Ã s nossas estaÃ§Ãµes de trabalho nos centros de aprendizagem e realizamos a apresentaÃ§Ã£o seguida de uma leitura compartilhada da obra "Era uma vez Dom Quixote". Durante a atividade, analisamos os elementos da capa, quarta capa e os crÃ©ditos do autor (Miguel de Cervantes). Exploramos a biografia de Cervantes, destacando como ele revolucionou a literatura com o uso de ironia e humor. Debatemos as caracterÃ­sticas das histÃ³rias de cavalaria, aprofundando a discussÃ£o com a leitura das pÃ¡ginas 10 a 14. Nossos alunos realizaram antecipaÃ§Ãµes sobre o enredo e confirmaram suas hipÃ³teses atravÃ©s do texto de apresentaÃ§Ã£o. ð­ Letramento emocional: na aula de hoje, realizamos uma atividade prÃ¡tica em grupo com o tema "Se eu fosse vocÃª". AtravÃ©s de encenaÃ§Ãµes focadas em empatia e no combate ao bullying, os alunos foram desafiados a vivenciar diferentes perspectivas, exercitando a capacidade de se colocar no lugar do outro e buscar soluÃ§Ãµes respeitosas para conflitos cotidianos.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: ✏️ PLA – Substantivos e Dom Quixote | Oficina com jogo Stop (Aula 39, material 3) para classificação de substantivos. Leitura compartilhada de "Era uma vez Dom Quixote": análise da capa, biografia de Cervantes e leitura das páginas 10 a 14.
+MATERIA: 🤝 Letramento Emocional – Empatia | Atividade prática em grupo "Se eu fosse você": encenações sobre empatia e combate ao bullying.
 ---
 DATA: 2026-04-22
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula.
-MATERIA: âï¸ PLA | Dando continuidade Ã  temÃ¡tica dos herÃ³is, exploramos a obra "HerÃ³is e suas jornadas", de Rosana Rios. Iniciamos com a anÃ¡lise tÃ©cnica da capa e trabalhamos a definiÃ§Ã£o de mito e suas caracterÃ­sticas fundamentais. Realizamos a leitura compartilhada do conto "Os Argonautas", seguida de uma atividade de interpretaÃ§Ã£o de texto, onde os alunos puderam identificar os elementos da jornada do herÃ³i e a estrutura narrativa do mito. âµ HistÃ³ria: Iniciamos uma reflexÃ£o sobre os fatores que motivaram as Grandes NavegaÃ§Ãµes europeias. AtravÃ©s de explicaÃ§Ãµes e suporte visual, os alunos compreenderam o contexto que levou portugueses e espanhÃ³is a se lanÃ§arem ao Oceano AtlÃ¢ntico, abandonando as rotas tradicionais do Mar MediterrÃ¢neo. Localizamos no mapa, os desafios impostos pela navegaÃ§Ã£o e a busca por novas rotas para contornar o continente africano em direÃ§Ã£o Ã s Ãndias e Ã  China.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: ✏️ PLA – Heróis e suas Jornadas | Exploração de "Heróis e suas jornadas" de Rosana Rios. Definição de mito e características. Leitura compartilhada de "Os Argonautas" com interpretação e identificação da jornada do herói.
+MATERIA: 📜 História – Grandes Navegações | Motivações das grandes navegações europeias. Contexto histórico, rotas tradicionais do Mediterrâneo e busca por novas rotas contornando a África.
 ---
 DATA: 2026-04-22
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: âï¸ ELA | Ã§amos o dia com o buddy reading. Em seguida, os alunos compartilharam os poemas lidos e suas reflexÃµes sobre as leituras.Na aula de hoje, aprendemos sobre metÃ¡fora e hipÃ©rbole, que sÃ£o figuras de linguagem importantes na construÃ§Ã£o de textos e muito presentes nos poemas. A metÃ¡fora ocorre quando comparamos duas coisas de forma implÃ­cita, atribuindo caracterÃ­sticas de uma Ã  outra (por exemplo: âo cÃ©u Ã© um mar de estrelasâ). JÃ¡ a hipÃ©rbole Ã© o uso de exagero para dar mais Ãªnfase a uma ideia (por exemplo: âestou morrendo de fomeâ).Para praticar, os alunos realizaram uma atividade escrita na qual criaram frases utilizando metÃ¡foras.
-MATERIA: âï¸ Science | revisamos o que acontece com animais e plantas quando seus habitats sofrem alteraÃ§Ãµes ou sÃ£o destruÃ­dos. Discutimos como essas mudanÃ§as impactam a sobrevivÃªncia dos seres vivos, dificultando o acesso a alimento, abrigo e seguranÃ§a.Falamos tambÃ©m sobre as burrowing owls (corujas-buraqueiras). Em seguida, os alunos iniciaram a criaÃ§Ã£o de uma newsletter sobre esse animal, elaborando um tÃ­tulo e escrevendo informaÃ§Ãµes sobre seu habitat, alimentaÃ§Ã£o e como a destruiÃ§Ã£o do ambiente natural pode afetÃ¡-las.
+PERIODO: manhã
+MATERIA: ✏️ ELA – Metáfora e Hipérbole | Buddy Reading com compartilhamento. Estudo de metáfora (comparação implícita) e hipérbole (exagero para ênfase). Frases com metáforas.
+MATERIA: 🔬 Science – Habitats | Revisão sobre impacto da destruição de habitats na sobrevivência de animais e plantas. Criação de newsletter sobre burrowing owls (corujas-buraqueiras).
 ---
 DATA: 2026-04-17
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð¤ Assembly | A turma do Year 3 realizou uma apresentaÃ§Ã£o sobre o combate ao Bullying, promovendo reflexÃµes importantes sobre respeito e convivÃªncia.
-MATERIA: ð PLA | na aula de hoje, os alunos realizaram a Atividade Avaliativa (AV2) de LÃ­ngua Portuguesa. O desafio proposto foi a produÃ§Ã£o de um texto narrativo estruturado (comeÃ§o, meio e fim), focado em cooperaÃ§Ã£o e gentileza. Nossos Big Bears praticaram a escrita criativa utilizando valores como amizade e respeito para a resoluÃ§Ã£o de conflitos.ApÃ³s a avaliaÃ§Ã£o, os alunos deram vida Ã  imaginaÃ§Ã£o criando seus prÃ³prios herÃ³is. Eles definiram valores, poderes, caracterÃ­sticas fÃ­sicas e processos de transformaÃ§Ã£o, consolidando de forma lÃºdica os conceitos de heroÃ­smo trabalhados em sala de aula.
+MATERIA: 🎤 Assembly – Combate ao Bullying | Apresentação do Year 3 sobre combate ao bullying: respeito e convivência.
+MATERIA: 📚 PLA | Realização da AV2 de Língua Portuguesa: produção de texto narrativo (cooperação e gentileza). Criação do herói autoral: valores, poderes e características físicas.
 ---
 DATA: 2026-04-17
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: âï¸ ELA | tivemos a apresentaÃ§Ã£o do âTwo-minute Talkâ. TrÃªs alunos compartilharam seus poemas e suas impressÃµes sobre eles, de acordo com o que escreveram na folha do SLM.Em seguida, os alunos foram Ã  turma do Y2 para participar de uma apresentaÃ§Ã£o de PLA sobre narrativas pessoais (diÃ¡rio e blog, reais ou de ficÃ§Ã£o). A turma do Y2 compartilhou seus desafios e conquistas durante o desenvolvimento desse trabalho. Os alunos assistiram Ã  apresentaÃ§Ã£o com muito interesse e envolvimento. Foi um momento bastante enriquecedor, favorecendo a escuta, a troca de experiÃªncias e o contato com diferentes gÃªneros textuais.
-MATERIA: ð¢ Math | realizamos a AV2 de MatemÃ¡tica por meio de um âDesafio de MatemÃ¡ticaâ, organizado em quatro estaÃ§ÃµesÃ§Ã£o 1: Resgate do ArredondamentoEstaÃ§Ã£o 2: Corrida do maior ou menor queEstaÃ§Ã£o 3: Estime PrimeiroEstaÃ§Ã£o 4: Construindo adiÃ§ÃµesCada aluno recebeu um cartÃ£o com atividades e registrou suas respostas em uma folha especÃ­fica. Em seguida, os grupos realizaram o rodÃ­zio entre as estaÃ§Ãµes, garantindo que todos participassem de todas as propostas. Essa dinÃ¢mica favoreceu o engajamento, o raciocÃ­nio lÃ³gico e a aplicaÃ§Ã£o das estratÃ©gias trabalhadas em sala.
+PERIODO: manhã
+MATERIA: ✏️ ELA – Two-Minute Talk | Apresentação dos poemas por três alunos. Visita à turma do Y2 para assistir apresentação de PLA sobre narrativas pessoais (diário e blog).
+MATERIA: 🔢 Math | Realização da AV2 de Matemática: quatro estações (Arredondamento, Maior ou menor, Estime Primeiro, Construindo adições).
 ---
 DATA: 2026-04-16
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula.
-MATERIA: ð Aula de Geografia | nossos Big Bears realizaram a Atividade Avaliativa (AV2) "MissÃ£o Brasil: Descobrindo climas e biomas". O objetivo desta etapa foi consolidar o conhecimento sobre as paisagens naturais do nosso paÃ­s, desafiando os alunos a identificarem a localizaÃ§Ã£o e as caracterÃ­sticas principais de cada clima e bioma brasileiro.
-MATERIA: ð PLA | na aula de PLA de hoje, nossos alunos realizaram uma leitura interativa de um capÃ­tulo da obra "O Guia dos Curiosinhos". O foco da aula foi a descoberta de herÃ³is brasileiros, o que gerou grande entusiasmo da turma ao conectarem o tema "herÃ³i" com a nossa prÃ³pria cultura e histÃ³ria. OrganizaÃ§Ã£o da sala: incentivamos os alunos a organizarem seus materiais e o espaÃ§o coletivo para a aula de EducaÃ§Ã£o FÃ­sica.
-MATERIA: â½ Aula de EducaÃ§Ã£o FÃ­sica com Mister Paulo | Aula de EducaÃ§Ã£o FÃ­sica com Mister Paulo.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: 🌍 Geografia | Realização da AV2 "Missão Brasil: Descobrindo climas e biomas".
+MATERIA: 📚 PLA – Heróis Brasileiros | Leitura interativa de capítulo de "O Guia dos Curiosinhos" sobre heróis brasileiros.
+MATERIA: ⚽ Educação Física | Aula de Educação Física com o Mister Paulo.
 ---
 DATA: 2026-04-16
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: âï¸ ELA | tivemos a apresentaÃ§Ã£o do âTwo-minute Talkâ. Dois alunos compartilharam seus poemas e suas impressÃµes sobre eles, de acordo com o que escreveram na folha do SLM.Em seguida, realizamos a AV2 de ELA.
-MATERIA: ð¢ Math | realizamos uma revisÃ£o dos conteÃºdos trabalhados, com foco na preparaÃ§Ã£o para a AV2 de MatemÃ¡tica.
+PERIODO: manhã
+MATERIA: ✏️ ELA – Two-Minute Talk e AV2 | Apresentação dos poemas por dois alunos. Realização da AV2 de ELA.
+MATERIA: 🔢 Math | Revisão dos conteúdos para a AV2 de Matemática.
 ---
 DATA: 2026-04-15
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula.
-MATERIA: âï¸ Aula de HistÃ³ria | nossos Big Bears realizaram o trabalho avaliativo (AV2) iniciando a produÃ§Ã£o da revista âAmÃ©rica IndÃ­gena" . O objetivo da atividade Ã© desenvolver competÃªncias de produÃ§Ã£o textual e comunicaÃ§Ã£o cientÃ­fica voltada ao pÃºblico infanto-juvenil. Em grupos, os alunos trabalharam com pesquisa e criatividade para elaborar as seÃ§Ãµes da revista, exercitando a clareza na transmissÃ£o de conhecimentos sobre as culturas indÃ­genas de forma lÃºdica.
-MATERIA: ð PLA | na aula de hoje, demos continuidade Ã s atividades dos Centros de Aprendizagem. Os grupos aprofundaram os estudos sobre a jornada dos herÃ³is.
----
-DATA: 2026-04-15
-PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: âï¸ ELA | tivemos a apresentaÃ§Ã£o do âTwo-minute Talkâ. As crianÃ§as compartilharam seus poemas e suas impressÃµes sobre eles, de acordo com o que escreveram na folha do SLM.Em seguida, discutimos o tÃ­tulo de um dos livros de poemas que estamos lendo, âA Light in the Atticâ. A partir dessa proposta, os alunos foram convidados a compartilhar experiÃªncias pessoais relacionadas a situaÃ§Ãµes inusitadas ou engraÃ§adas vividas em casa. Esse momento favoreceu o desenvolvimento da oralidade, estimulando a organizaÃ§Ã£o de ideias, a escuta ativa e a ampliaÃ§Ã£o do vocabulÃ¡rio em lÃ­ngua inglesa, em um contexto significativo e participativo.
-MATERIA: âï¸ Science | realizamos a atividade avaliativa de Science, que consistiu em um quiz com 10 perguntas.Depois, conversamos sobre o que acontece quando animais e plantas perdem seus habitats. Discutimos que essas mudanÃ§as podem ocorrer por causas naturais ou pela aÃ§Ã£o humana e que, quando isso acontece, os seres vivos podem ter dificuldade para sobreviver, encontrar alimento e abrigo.TambÃ©m falamos sobre o risco de extinÃ§Ã£o (endangered), entendendo que alguns animais podem desaparecer quando nÃ£o conseguem se adaptar Ã s mudanÃ§as no ambiente.
----
-DATA: 2026-04-14
-PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: âï¸ ELA | os alunos realizaram uma revisÃ£o sobre adjetivos, pronomes e verbos. Em seguida, construÃ­mos coletivamente um poema diamante com o tema âschoolâ.Dividimos a turma em quatro grupos: um grupo ficou responsÃ¡vel pelos adjetivos, outro pelos verbos, outro pelos pronomes e o Ãºltimo tambÃ©m pelos adjetivos. Cada grupo contribuiu com palavras de acordo com sua categoria para a construÃ§Ã£o do poema.Depois, organizamos juntos essas palavras para formar o poema diamante sobre o tema proposto. Por fim, os alunos escolheram seus prÃ³prios temas e criaram, de forma individual, seus poemas diamante.
-MATERIA: ð¢ Math | continuamos trabalhando com subtraÃ§Ãµes utilizando estratÃ©gias de matemÃ¡tica mental. Realizamos a correÃ§Ã£o coletiva da pÃ¡gina 28 do Student Workbook.
----
-DATA: 2026-04-14
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
-PERIODO: tarde
-MATERIA: ð§ ApÃ³s o lanche, realizamos um momento de volta Ã  calma para i | ApÃ³s o lanche, realizamos um momento de volta Ã  calma para iniciarmos a aula.
-MATERIA: ð AvaliaÃ§Ã£o TRIEduc | conforme avisado previamente, na aula de hoje nossos alunos realizaram a avaliaÃ§Ã£o de CiÃªncias Humanas. ReforÃ§amos que este processo Ã© uma ferramenta valiosa para mapearmos o desenvolvimento das competÃªncias de nossa turma.
-MATERIA: â½ Aula de MÃºsica com Miss Michelle | Aula de MÃºsica com Miss Michelle. OrganizaÃ§Ã£o da sala: incentivamos os alunos a organizarem seus materiais e o espaÃ§o coletivo para a aula de EducaÃ§Ã£o FÃ­sica.
-MATERIA: â½ Aula de EducaÃ§Ã£o FÃ­sica com Mister Paulo | Aula de EducaÃ§Ã£o FÃ­sica com Mister Paulo.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: 📜 História – AV2: Revista América Indígena | Produção da revista "América Indígena" em grupos: pesquisa e escrita criativa sobre culturas indígenas para público infanto-juvenil.
+MATERIA: 📚 PLA – Centros de Aprendizagem | Continuidade dos Centros com aprofundamento da jornada dos heróis.
+MATERIA: ⚽ Educação Física | Aula de Educação Física com o Mister Paulo.
 ---
 DATA: 2026-04-15
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: âï¸ ELA â TRIEduc de MatemÃ¡tica | AvaliaÃ§Ã£o diagnÃ³stica TRIEduc de MatemÃ¡tica. Ferramenta para mapear o desenvolvimento das competÃªncias da turma, sem impacto na mÃ©dia escolar.
-MATERIA: ð¨ Arts â Carranca: ExpressÃµes Faciais | Atividade avaliativa de Artes. Os alunos desenharam uma carranca explorando expressÃµes faciais (sobrancelhas, olhos, boca), uso de sombras para criar profundidade com lÃ¡pis de cor e contraste entre Ã¡reas claras e escuras.
----
-DATA: 2026-04-15
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
-PERIODO: tarde
-MATERIA: ð§ Momento de Volta Ã  Calma | ApÃ³s o lanche, momento de retomada com foco e tranquilidade para iniciar as atividades da tarde.
-MATERIA: ð HistÃ³ria â AV2: Revista AmÃ©rica IndÃ­gena | Nossos Big Bears iniciaram a produÃ§Ã£o da revista "AmÃ©rica IndÃ­gena". Em grupos, trabalharam com pesquisa e criatividade para elaborar seÃ§Ãµes da revista, desenvolvendo competÃªncias de produÃ§Ã£o textual e comunicaÃ§Ã£o cientÃ­fica voltada ao pÃºblico infanto-juvenil.
-MATERIA: ð PLA â Centros de Aprendizagem | Continuidade dos Centros de Aprendizagem com aprofundamento dos estudos sobre a jornada dos herÃ³is.
+PERIODO: manhã
+MATERIA: ✏️ ELA – Two-Minute Talk e A Light in the Attic | Apresentações dos poemas pelos alunos. Discussão sobre o título "A Light in the Attic" com compartilhamento de experiências pessoais.
+MATERIA: 🔬 Science – Habitats e Extinção | Realização do quiz de Science (10 perguntas). Discussão sobre perda de habitats por causas naturais e ação humana. Conceito de extinção (endangered).
 ---
 DATA: 2026-04-14
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: âï¸ ELA â Poema Diamante | RevisÃ£o de adjetivos, pronomes e verbos. ConstruÃ§Ã£o coletiva do poema diamante com tema "school" em grupos por categoria gramatical. CriaÃ§Ã£o individual com tema prÃ³prio.
-MATERIA: ð¢ Math â SubtraÃ§Ãµes com MatemÃ¡tica Mental | Continuidade das subtraÃ§Ãµes com estratÃ©gias de matemÃ¡tica mental. CorreÃ§Ã£o coletiva da pÃ¡gina 28 do Student Workbook.
+PERIODO: manhã
+MATERIA: ✏️ ELA – Poema Diamante | Revisão de adjetivos, pronomes e verbos. Construção coletiva do poema diamante com tema "school". Criação individual com tema próprio.
+MATERIA: 🔢 Math – Subtração Mental | Continuidade de subtrações com estratégias de matemática mental. Correção da página 28 do Student Workbook.
 ---
 DATA: 2026-04-14
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ Momento de Volta Ã  Calma | ApÃ³s o lanche, momento de retomada com foco e tranquilidade.
-MATERIA: ð TRIEduc â CiÃªncias Humanas | AvaliaÃ§Ã£o diagnÃ³stica de CiÃªncias Humanas para mapear o desenvolvimento das competÃªncias da turma, permitindo intervenÃ§Ãµes pedagÃ³gicas mais assertivas.
-MATERIA: ðµ MÃºsica | Aula de MÃºsica com Miss Michelle.
-MATERIA: â½ EducaÃ§Ã£o FÃ­sica | Aula de EducaÃ§Ã£o FÃ­sica com Mister Paulo. OrganizaÃ§Ã£o dos materiais e do espaÃ§o coletivo.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: 📝 TRIEduc – Ciências Humanas | Avaliação diagnóstica de Ciências Humanas para mapear o desenvolvimento das competências da turma.
+MATERIA: 🎵 Música | Aula de Música com Miss Michelle.
+MATERIA: ⚽ Educação Física | Aula de Educação Física com o Mister Paulo.
 ---
 DATA: 2026-04-13
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: âï¸ ELA â TRIEduc de MatemÃ¡tica | AvaliaÃ§Ã£o diagnÃ³stica TRIEduc de MatemÃ¡tica. InÃ­cio Ã s 07h30, duraÃ§Ã£o estimada de 1h20.
-MATERIA: ð¨ Arts â Carranca: Sombras e Profundidade | Os alunos exploraram expressÃµes faciais transmitindo emoÃ§Ãµes. Trabalharam com sombras para criar profundidade utilizando tons mais escuros e mais claros com lÃ¡pis de cor.
+PERIODO: manhã
+MATERIA: 📝 TRIEduc – Matemática | Avaliação diagnóstica TRIEduc de Matemática. Início às 07h30, duração estimada de 1h20.
+MATERIA: 🎨 Arts – Carranca | Exploração de expressões faciais. Sombras para criar profundidade com lápis de cor.
 ---
 DATA: 2026-04-13
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ Momento de Volta Ã  Calma | ApÃ³s o lanche, momento de retomada com foco e tranquilidade.
-MATERIA: ð PLA â Robin Hood e Centros de Aprendizagem | Apresentamos "Robin Hood: A lenda da liberdade" (Pedro Bandeira). Centros: ð¡ Amarelo â AV da Unidade 1 | ð¢ Verde â "O Guia dos Curiosinhos" com quiz | ðµ Azul â HerÃ³is e suas jornadas, Os Argonautas | ð´ Vermelho â organizador grÃ¡fico dos herÃ³is favoritos.
-MATERIA: ð Geografia â Fronteiras e Limites do Brasil | Exploramos as fronteiras e limites do territÃ³rio brasileiro com o Google Earth, aplicando o "efeito zoom" para visualizar a organizaÃ§Ã£o polÃ­tica do espaÃ§o em diferentes escalas.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: 📚 PLA – Robin Hood e Centros | Apresentação de "Robin Hood: A lenda da liberdade" (Pedro Bandeira). Centros: Amarelo – AV da Unidade 1 | Verde – "O Guia dos Curiosinhos" | Azul – "Heróis e suas jornadas" | Vermelho – organizador gráfico dos heróis favoritos.
+MATERIA: 🌍 Geografia – Fronteiras do Brasil | Exploração das fronteiras e limites do território brasileiro com Google Earth usando o "efeito zoom".
 ---
 DATA: 2026-04-10
 PROFESSOR: Ms. Mari e Mr. Igor
-PERIODO: manhÃ£
-MATERIA: ð TRIEduc â CiÃªncias da Natureza | AvaliaÃ§Ã£o diagnÃ³stica de CiÃªncias da Natureza. InÃ­cio Ã s 07h30, duraÃ§Ã£o estimada de 1h20.
-MATERIA: ð¢ Math â Estimativa de DiferenÃ§as | Estimativa de diferenÃ§as entre nÃºmeros de 3 dÃ­gitos: arredondar para centena (ex: 317â215â100) ou dezena quando um tem 2 dÃ­gitos (ex: 487â58â430). PÃ¡gina 26 do Student Workbook.
-MATERIA: ð¨ Arts â FinalizaÃ§Ã£o do Autorretrato | Finalizamos o autorretrato. Os alunos escolheram uma palavra que os representa, escreveram suas letras e as colaram no desenho, explorando texturas, camadas e sobreposiÃ§Ãµes.
+PERIODO: manhã
+MATERIA: 📝 TRIEduc – Ciências da Natureza | Avaliação diagnóstica de Ciências da Natureza. Início às 07h30, duração estimada de 1h20.
+MATERIA: 🔢 Math – Estimativa de Diferenças | Estimativa de diferenças entre números de 3 dígitos. Arredondar para centena ou dezena. Página 26 do Student Workbook.
+MATERIA: 🎨 Arts – Autorretrato | Finalização do autorretrato. Escolha de uma palavra representativa e colagem das letras no desenho explorando texturas e sobreposições.
 ---
 DATA: 2026-04-10
-PROFESSOR: Misses ThaynÃ¡ e PatrÃ­cia
+PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
-MATERIA: ð§ Momento de Volta Ã  Calma | ApÃ³s o lanche, momento de retomada com foco e tranquilidade.
-MATERIA: ð± Projeto Ciclos â ExploraÃ§Ã£o do Inhame | Iniciamos o novo projeto nutricional! Os Big Bears exploraram o inhame, conhecendo suas propriedades e experimentando o alimento. Objetivo: estimular alimentaÃ§Ã£o saudÃ¡vel e consciente. Muito engajamento!
-MATERIA: ð Geografia â Diversidade ClimÃ¡tica do Brasil | Diversidade dos climas do Brasil. Atividade investigativa em grupo: cada equipe descreveu vestimenta adequada, passeios e caracterÃ­sticas do bioma de uma localidade diferente.
-MATERIA: â½ EducaÃ§Ã£o FÃ­sica | Aula de EducaÃ§Ã£o FÃ­sica com Mister Paulo.
+MATERIA: 🧘 Momento de Volta à Calma | Após o lanche, momento de retomada com foco e tranquilidade.
+MATERIA: 🌱 Projeto Ciclos – Inhame | Exploração do inhame: propriedades e experimentação. Objetivo de estimular alimentação saudável e consciente.
+MATERIA: 🌍 Geografia – Diversidade Climática | Diversidade dos climas do Brasil. Atividade investigativa em grupo: vestimenta, passeios e características do bioma de diferentes localidades.
+MATERIA: ⚽ Educação Física | Aula de Educação Física com o Mister Paulo.
+---
