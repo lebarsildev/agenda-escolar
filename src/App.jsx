@@ -56,9 +56,9 @@ const LIGHT = {
 };
 
 const DARK = {
-  red:"#e05c4b", red2:"#2d1a18", red3:"#3d2220",
+  red:"#e05c4b", red2:"#2d1a18", red3:"#2a1510",
   navy:"#4a90d9", navy2:"#1a2535", navy3:"#1e2e42",
-  amber:"#f59e0b", amber2:"#2d2010",
+  amber:"#f59e0b", amber2:"#2a1e08",
   green:"#34d399", green2:"#0d2e1e",
   gray:"#1a1a2e", gray2:"#252538", gray3:"#313148",
   text:"#f0f0f0", text2:"#a0a0b8", text3:"#606080",
@@ -98,7 +98,7 @@ const ANN_CAT = {
 const getStatusStyle = () => ({
   done:    { bg:C.green2,      border:C.green,   badgeBg:C.green,   badge:"✓ Concluído" },
   overdue: { bg:C.red3,        border:C.red,     badgeBg:C.red,     badge:"⚠ Atrasado"  },
-  urgent:  { bg:"#fff8f0",     border:"#e67e22", badgeBg:"#e67e22", badge:"🔥 Urgente"   },
+  urgent:  { bg:C.amber2,      border:"#e67e22", badgeBg:"#e67e22", badge:"🔥 Urgente"   },
   pending: { bg:C.card,        border:C.border,  badgeBg:C.navy,    badge:"● Pendente"  },
 });
 
@@ -1619,10 +1619,10 @@ export default function App() {
 
             {/* urgent box */}
             {urgentTasks.length>0&&(
-              <div style={{background:"#fff5f5",border:`2px solid ${C.red}`,borderRadius:12,padding:"11px 14px"}}>
+              <div style={{background:C.red3,border:`2px solid ${C.red}`,borderRadius:12,padding:"11px 14px"}}>
                 <div style={{fontSize:13,fontWeight:800,color:C.red,marginBottom:7}}>🚨 Atenção necessária</div>
                 {urgentTasks.map(t=>(
-                  <div key={t.id} style={{display:"flex",justifyContent:"space-between",alignItems:"center",padding:"4px 0",borderBottom:`1px solid ${C.red3}`}}>
+                  <div key={t.id} style={{display:"flex",justifyContent:"space-between",alignItems:"center",padding:"4px 0",borderBottom:`1px solid ${C.border}`}}>
                     <div style={{fontSize:13,color:C.text,fontWeight:600,flex:1,paddingRight:8}}>{t.title}</div>
                     <div style={{fontSize:11,fontWeight:700,color:t.cs==="overdue"?C.red:"#e67e22",flexShrink:0}}>{daysLabel(t.due)}</div>
                   </div>
