@@ -1,188 +1,195 @@
 ---
 DATA: 27/05/2026
-TITULO: Atividade para casa: Heróis da vida real
+TITULO: 📢Atualização do WhatsApp 📢
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: 📢 Atenção, famílias! Nosso número da recepção continua o mesmo, porém ele se tornou um número oficial do WhatsApp 💬, uma mudança realizada para melhor atendê-los e tornar nossa comunicação ainda mais prática e eficiente. 😊 Por isso, quem ainda possui o contato antigo salvo pode ter dificuldades para enviar mensagens. Pedimos, por gentileza, que excluam o contato antigo e cadastrem novamente o mesmo número em seus celulares: 📞 (21) 2148-3518 Assim, a comunicação continuará funcionando normalmente. 💙 Agradecemos a compreensão e seguimos à disposição! Equipe Maple Bear Valqueire
+---
+---
+DATA: 27/05/2026
+TITULO: Atividade para casa: HerÃ³is da vida real
 AUTOR: Escola
 CATEGORIA: tarefa
-CONTEUDO: Gostaríamos de compartilhar o próximo passo do nosso do Livro dos Heróis para o dever de casa! Desta vez, vamos trazer o tema para o nosso dia a dia. Nossos alunos irão refletir e escrever sobre um herói da vida real: pessoas que eles conhecem, admiram e consideram verdadeiros heróis por algum motivo especial. Orientações: Para essa atividade, os alunos utilizarão a folha-atividade da Aula 47, Material 1; Como este texto vai direto para as páginas do nosso Livro dos Heróis, pedimos que incentivem as crianças a escreverem com bastante calma e capricho. 📅 Prazo de entrega: 1º/06 (segunda-feira). Contamos com o apoio de vocês para inspirar e incentivar nossos pequenos escritores! 📚 Atenciosamente, Misses Thayná e Patrícia. Aula 47 Material 1 PDF (301.6 KB)
+CONTEUDO: GostarÃ­amos de compartilhar o prÃ³ximo passo do nosso do Livro dos HerÃ³is para o dever de casa! Desta vez, vamos trazer o tema para o nosso dia a dia. Nossos alunos irÃ£o refletir e escrever sobre um herÃ³i da vida real: pessoas que eles conhecem, admiram e consideram verdadeiros herÃ³is por algum motivo especial. OrientaÃ§Ãµes: Para essa atividade, os alunos utilizarÃ£o a folha-atividade da Aula 47, Material 1; Como este texto vai direto para as pÃ¡ginas do nosso Livro dos HerÃ³is, pedimos que incentivem as crianÃ§as a escreverem com bastante calma e capricho. ð Prazo de entrega: 1Âº/06 (segunda-feira). Contamos com o apoio de vocÃªs para inspirar e incentivar nossos pequenos escritores! ð Atenciosamente, Misses ThaynÃ¡ e PatrÃ­cia. Aula 47 Material 1 PDF (301.6 KB)
 ---
 ---
 DATA: 26/05/2026
 TITULO: Foto Escolar -Les
-AUTOR: Miss JÃ©ssica
+AUTOR: Miss JÃÂ©ssica
 CATEGORIA: aviso
-CONTEUDO: Informamos que hoje seguirÃ¡ na mochila dos alunos um envelope contendo as fotos realizadas pela Les Fotografia Escolar. Dentro do envelope, vocÃªs encontrarÃ£o todas as informaÃ§Ãµes e o passo a passo para realizaÃ§Ã£o do pagamento, caso desejem adquirir as fotos. Pedimos que as famÃ­lias que optarem por nÃ£o realizar a compra devolvam o envelope com as fotos para a escola. Junto ao material, tambÃ©m estarÃ¡ seguindo uma tag com a foto do aluno como mimo especial da Maple Bear Valqueire.
+CONTEUDO: Informamos que hoje seguirÃÂ¡ na mochila dos alunos um envelope contendo as fotos realizadas pela Les Fotografia Escolar. Dentro do envelope, vocÃÂªs encontrarÃÂ£o todas as informaÃÂ§ÃÂµes e o passo a passo para realizaÃÂ§ÃÂ£o do pagamento, caso desejem adquirir as fotos. Pedimos que as famÃÂ­lias que optarem por nÃÂ£o realizar a compra devolvam o envelope com as fotos para a escola. Junto ao material, tambÃÂ©m estarÃÂ¡ seguindo uma tag com a foto do aluno como mimo especial da Maple Bear Valqueire.
 ---
 DATA: 25/05/2026
-TITULO: Atividade para casa: Leitura â Era uma vez Dom Quixote
-AUTOR: Misses ThaynÃ¡ e PatrÃ­cia
+TITULO: Atividade para casa: Leitura Ã¢ÂÂ Era uma vez Dom Quixote
+AUTOR: Misses ThaynÃÂ¡ e PatrÃÂ­cia
 CATEGORIA: tarefa
-CONTEUDO: Solicitamos que os alunos realizem a leitura das pÃ¡ginas 36 a 51 da obra Era uma vez Dom Quixote. Essa leitura prÃ©via serÃ¡ fundamental para as atividades que desenvolveremos em sala. O livro deverÃ¡ retornar Ã  escola na prÃ³xima sexta-feira (dia 29/05).
+CONTEUDO: Solicitamos que os alunos realizem a leitura das pÃÂ¡ginas 36 a 51 da obra Era uma vez Dom Quixote. Essa leitura prÃÂ©via serÃÂ¡ fundamental para as atividades que desenvolveremos em sala. O livro deverÃÂ¡ retornar ÃÂ  escola na prÃÂ³xima sexta-feira (dia 29/05).
 ---
 DATA: 25/05/2026
 TITULO: Atividade para casa: Pesquisando sobre o meu estado
-AUTOR: Misses ThaynÃ¡ e PatrÃ­cia
+AUTOR: Misses ThaynÃÂ¡ e PatrÃÂ­cia
 CATEGORIA: tarefa
-CONTEUDO: Realizar uma pequena pesquisa em famÃ­lia sobre os povos que contribuÃ­ram para a formaÃ§Ã£o do estado do Rio de Janeiro, registrando no caderno exemplos dessas contribuiÃ§Ãµes culturais presentes atÃ© os dias de hoje. Data de entrega: 28/05 (quinta-feira).
+CONTEUDO: Realizar uma pequena pesquisa em famÃÂ­lia sobre os povos que contribuÃÂ­ram para a formaÃÂ§ÃÂ£o do estado do Rio de Janeiro, registrando no caderno exemplos dessas contribuiÃÂ§ÃÂµes culturais presentes atÃÂ© os dias de hoje. Data de entrega: 28/05 (quinta-feira).
 ---
 DATA: 25/05/2026
-TITULO: Novos horÃ¡rios do Math Club
+TITULO: Novos horÃÂ¡rios do Math Club
 AUTOR: Escola
 CATEGORIA: aviso
-CONTEUDO: A partir de 25/05 â Year 4: Segunda-feira, Morning 12h30 Ã s 13h30. Year 3: Quinta-feira, Afternoon 11h30 Ã s 12h30 e Morning 12h30 Ã s 13h30. Year 2: Sexta-feira, Afternoon 11h30 Ã s 12h30 e Morning 12h30 Ã s 13h30. Para garantir a vaga, os responsÃ¡veis devem solicitar a matrÃ­cula junto Ã  secretaria pelo WhatsApp.
+CONTEUDO: A partir de 25/05 Ã¢ÂÂ Year 4: Segunda-feira, Morning 12h30 ÃÂ s 13h30. Year 3: Quinta-feira, Afternoon 11h30 ÃÂ s 12h30 e Morning 12h30 ÃÂ s 13h30. Year 2: Sexta-feira, Afternoon 11h30 ÃÂ s 12h30 e Morning 12h30 ÃÂ s 13h30. Para garantir a vaga, os responsÃÂ¡veis devem solicitar a matrÃÂ­cula junto ÃÂ  secretaria pelo WhatsApp.
 ---
 DATA: 22/05/2026
 TITULO: Atividade para casa: Entrevista
-AUTOR: Misses ThaynÃ¡ e PatrÃ­cia
+AUTOR: Misses ThaynÃÂ¡ e PatrÃÂ­cia
 CATEGORIA: tarefa
-CONTEUDO: GostarÃ­amos de compartilhar o nosso prÃ³ximo desafio para o dever de casa, que farÃ¡ parte da construÃ§Ã£o do nosso Livro dos HerÃ³is. Nossos alunos farÃ£o o papel de entrevistadores e irÃ£o perguntar aos seus pais ou responsÃ¡veis qual era o herÃ³i favorito de vocÃªs quando eram crianÃ§as. Material: Aula 43, Material 4. Prazo de entrega: 26/05 (terÃ§a-feira).
+CONTEUDO: GostarÃÂ­amos de compartilhar o nosso prÃÂ³ximo desafio para o dever de casa, que farÃÂ¡ parte da construÃÂ§ÃÂ£o do nosso Livro dos HerÃÂ³is. Nossos alunos farÃÂ£o o papel de entrevistadores e irÃÂ£o perguntar aos seus pais ou responsÃÂ¡veis qual era o herÃÂ³i favorito de vocÃÂªs quando eram crianÃÂ§as. Material: Aula 43, Material 4. Prazo de entrega: 26/05 (terÃÂ§a-feira).
 ---
 DATA: 20/05/2026
 TITULO: Mensagem Nutricionista /Alimenttar
-AUTOR: Miss JÃ©ssica
+AUTOR: Miss JÃÂ©ssica
 CATEGORIA: atividade
-CONTEUDO: Nos dias 19 e 20 de Maio, realizamos as atividades do Projeto Ciclos sobre o milho com o objetivo de promover a educaÃ§Ã£o nutricional de forma lÃºdica e interativa. As atividades apresentaram o milho em suas diferentes formas de consumo, explorando suas possibilidades na alimentaÃ§Ã£o do dia a dia.
+CONTEUDO: Nos dias 19 e 20 de Maio, realizamos as atividades do Projeto Ciclos sobre o milho com o objetivo de promover a educaÃÂ§ÃÂ£o nutricional de forma lÃÂºdica e interativa. As atividades apresentaram o milho em suas diferentes formas de consumo, explorando suas possibilidades na alimentaÃÂ§ÃÂ£o do dia a dia.
 ---
 DATA: 19/05/2026
 TITULO: Figurino Country Party
-AUTOR: Miss JÃ©ssica
+AUTOR: Miss JÃÂ©ssica
 CATEGORIA: aviso
-CONTEUDO: A roupa para a nossa Country Party serÃ¡: CalÃ§a jeans, Blusa quadriculada, Cinto, Bota e ChapÃ©u country. Para que todos os alunos fiquem padronizados, solicitamos que nÃ£o utilizem outros tipos de roupas ou acessÃ³rios que nÃ£o tenham sido solicitados pela escola.
+CONTEUDO: A roupa para a nossa Country Party serÃÂ¡: CalÃÂ§a jeans, Blusa quadriculada, Cinto, Bota e ChapÃÂ©u country. Para que todos os alunos fiquem padronizados, solicitamos que nÃÂ£o utilizem outros tipos de roupas ou acessÃÂ³rios que nÃÂ£o tenham sido solicitados pela escola.
 ---
 DATA: 18/05/2026
-TITULO: Atividade para casa: Pesquisa sobre um herÃ³i
-AUTOR: Misses ThaynÃ¡ e PatrÃ­cia
+TITULO: Atividade para casa: Pesquisa sobre um herÃÂ³i
+AUTOR: Misses ThaynÃÂ¡ e PatrÃÂ­cia
 CATEGORIA: tarefa
-CONTEUDO: Nossos alunos realizarÃ£o uma pesquisa sobre o herÃ³i que jÃ¡ selecionaram previamente em sala de aula. Deve ser utilizado o roteiro contido no material de apoio enviado na pasta. Prazo de entrega: 21/05 (quinta-feira).
+CONTEUDO: Nossos alunos realizarÃÂ£o uma pesquisa sobre o herÃÂ³i que jÃÂ¡ selecionaram previamente em sala de aula. Deve ser utilizado o roteiro contido no material de apoio enviado na pasta. Prazo de entrega: 21/05 (quinta-feira).
 ---
 DATA: 18/05/2026
-TITULO: InscriÃ§Ãµes abertas para o Math Club
-AUTOR: CoordenaÃ§Ã£o PedagÃ³gica
+TITULO: InscriÃÂ§ÃÂµes abertas para o Math Club
+AUTOR: CoordenaÃÂ§ÃÂ£o PedagÃÂ³gica
 CATEGORIA: atividade
-CONTEUDO: O Math Club estÃ¡ de volta para os alunos do Year 2, Year 3 e Year 4 com a metodologia de Singapura e material DIMENSIONS MATH. Aula experimental gratuita na prÃ³xima semana. Para garantir a vaga, os responsÃ¡veis devem solicitar a matrÃ­cula junto Ã  secretaria pelo WhatsApp.
+CONTEUDO: O Math Club estÃÂ¡ de volta para os alunos do Year 2, Year 3 e Year 4 com a metodologia de Singapura e material DIMENSIONS MATH. Aula experimental gratuita na prÃÂ³xima semana. Para garantir a vaga, os responsÃÂ¡veis devem solicitar a matrÃÂ­cula junto ÃÂ  secretaria pelo WhatsApp.
 ---
 DATA: 18/05/2026
 TITULO: Link PTI
-AUTOR: Miss JÃ©ssica
+AUTOR: Miss JÃÂ©ssica
 CATEGORIA: aviso
-CONTEUDO: Os links para marcaÃ§Ã£o do PTI jÃ¡ estÃ£o disponÃ­veis. Year 4: https://xoyondo.com/dp/scck8f44d5m63o0
+CONTEUDO: Os links para marcaÃÂ§ÃÂ£o do PTI jÃÂ¡ estÃÂ£o disponÃÂ­veis. Year 4: https://xoyondo.com/dp/scck8f44d5m63o0
 ---
 DATA: 15/05/2026
-TITULO: InformaÃ§Ãµes sobre agendamento PTI
-AUTOR: Miss JÃ©ssica
+TITULO: InformaÃÂ§ÃÂµes sobre agendamento PTI
+AUTOR: Miss JÃÂ©ssica
 CATEGORIA: aviso
-CONTEUDO: Em breve, cada sÃ©rie receberÃ¡ o link para agendamento do PTI, que acontecerÃ¡ no dia 23/05 a partir das 8h. O agendamento poderÃ¡ ser realizado exclusivamente entre os dias 18 e 22 de maio. Cada atendimento terÃ¡ duraÃ§Ã£o de 20 minutos. Os alunos deverÃ£o permanecer em casa no dia do PTI.
+CONTEUDO: Em breve, cada sÃÂ©rie receberÃÂ¡ o link para agendamento do PTI, que acontecerÃÂ¡ no dia 23/05 a partir das 8h. O agendamento poderÃÂ¡ ser realizado exclusivamente entre os dias 18 e 22 de maio. Cada atendimento terÃÂ¡ duraÃÂ§ÃÂ£o de 20 minutos. Os alunos deverÃÂ£o permanecer em casa no dia do PTI.
 ---
 DATA: 15/05/2026
 TITULO: Collection Folder
 AUTOR: Ms. Mari
 CATEGORIA: atividade
-CONTEUDO: Segue na mochila dos nossos Bears a Collection Folder com as atividades e produÃ§Ãµes realizadas ao longo deste primeiro trimestre. A pasta Ã© destinada Ã s famÃ­lias e poderÃ¡ permanecer em casa como registro desse percurso de aprendizagem.
+CONTEUDO: Segue na mochila dos nossos Bears a Collection Folder com as atividades e produÃÂ§ÃÂµes realizadas ao longo deste primeiro trimestre. A pasta ÃÂ© destinada ÃÂ s famÃÂ­lias e poderÃÂ¡ permanecer em casa como registro desse percurso de aprendizagem.
 ---
 DATA: 12/05/2026
 TITULO: Livro "The Thing About Georgie"
 AUTOR: Ms. Mari
 CATEGORIA: aviso
-CONTEUDO: Iniciamos a leitura do livro The Thing About Georgie. O livro deverÃ¡ permanecer sempre na mochila pois serÃ¡ utilizado diariamente nos centros de aprendizagem e nas atividades de leitura em dupla.
+CONTEUDO: Iniciamos a leitura do livro The Thing About Georgie. O livro deverÃÂ¡ permanecer sempre na mochila pois serÃÂ¡ utilizado diariamente nos centros de aprendizagem e nas atividades de leitura em dupla.
 ---
 DATA: 24/04/2026
-TITULO: RevisÃ£o
+TITULO: RevisÃÂ£o
 AUTOR: Ms. Mari
 CATEGORIA: aviso
-CONTEUDO: Segue, em anexo, as revisÃµes de MatemÃ¡tica, CiÃªncias e ELA, juntamente com os conteÃºdos a serem estudados.
+CONTEUDO: Segue, em anexo, as revisÃÂµes de MatemÃÂ¡tica, CiÃÂªncias e ELA, juntamente com os conteÃÂºdos a serem estudados.
 ---
 DATA: 22/04/2026
-TITULO: Cronograma AV3 â 1Âº Trimestre 2026
-AUTOR: CoordenaÃ§Ã£o PedagÃ³gica
+TITULO: Cronograma AV3 Ã¢ÂÂ 1ÃÂº Trimestre 2026
+AUTOR: CoordenaÃÂ§ÃÂ£o PedagÃÂ³gica
 CATEGORIA: avaliacao
-CONTEUDO: Year 4 â 04/05 (Seg): ELA/Arts | 05/05 (Ter): PLA/Music | 06/05 (Qua): Science/Geografia | 07/05 (Qui): Physical Education/HistÃ³ria | 08/05 (Sex): Math.
+CONTEUDO: Year 4 Ã¢ÂÂ 04/05 (Seg): ELA/Arts | 05/05 (Ter): PLA/Music | 06/05 (Qua): Science/Geografia | 07/05 (Qui): Physical Education/HistÃÂ³ria | 08/05 (Sex): Math.
 ---
 DATA: 22/04/2026
-TITULO: Atividade para casa: HistÃ³ria
-AUTOR: Misses ThaynÃ¡ e PatrÃ­cia
+TITULO: Atividade para casa: HistÃÂ³ria
+AUTOR: Misses ThaynÃÂ¡ e PatrÃÂ­cia
 CATEGORIA: tarefa
-CONTEUDO: O aluno deve escolher alguÃ©m que cozinhe em sua famÃ­lia para realizar uma entrevista. Deve ser utilizado o roteiro contido na Aula 9, Material 2. Prazo de entrega: 27/04 (segunda-feira).
+CONTEUDO: O aluno deve escolher alguÃÂ©m que cozinhe em sua famÃÂ­lia para realizar uma entrevista. Deve ser utilizado o roteiro contido na Aula 9, Material 2. Prazo de entrega: 27/04 (segunda-feira).
 ---
 DATA: 22/04/2026
 TITULO: Mother's Day Open House
-AUTOR: CoordenaÃ§Ã£o PedagÃ³gica
+AUTOR: CoordenaÃÂ§ÃÂ£o PedagÃÂ³gica
 CATEGORIA: atividade
-CONTEUDO: Convidamos as mÃ£es (ou um responsÃ¡vel) para o nosso Mother's Day Open House, um encontro especial para vivenciarem a rotina escolar ao lado de seus filhos. Favor conferir o cronograma anexo com os horÃ¡rios especÃ­ficos de cada sÃ©rie.
+CONTEUDO: Convidamos as mÃÂ£es (ou um responsÃÂ¡vel) para o nosso Mother's Day Open House, um encontro especial para vivenciarem a rotina escolar ao lado de seus filhos. Favor conferir o cronograma anexo com os horÃÂ¡rios especÃÂ­ficos de cada sÃÂ©rie.
 ---
 DATA: 17/04/2026
-TITULO: IndicaÃ§Ã£o de Leitura â Ãrvore
-AUTOR: Miss ThaynÃ¡
+TITULO: IndicaÃÂ§ÃÂ£o de Leitura Ã¢ÂÂ ÃÂrvore
+AUTOR: Miss ThaynÃÂ¡
 CATEGORIA: tarefa
-CONTEUDO: JÃ¡ estÃ¡ disponÃ­vel na plataforma Ãrvore a nova indicaÃ§Ã£o de leitura para os alunos. O prazo para finalizar a leitura Ã© atÃ© o dia 27/04.
+CONTEUDO: JÃÂ¡ estÃÂ¡ disponÃÂ­vel na plataforma ÃÂrvore a nova indicaÃÂ§ÃÂ£o de leitura para os alunos. O prazo para finalizar a leitura ÃÂ© atÃÂ© o dia 27/04.
 ---
 DATA: 16/04/2026
-TITULO: Livro de matemÃ¡tica
+TITULO: Livro de matemÃÂ¡tica
 AUTOR: Ms. Mari
 CATEGORIA: aviso
-CONTEUDO: Gostaria de reforÃ§ar a importÃ¢ncia de que o livro de MatemÃ¡tica esteja diariamente na mochila dos alunos, pois ele Ã© utilizado com frequÃªncia em sala de aula.
+CONTEUDO: Gostaria de reforÃÂ§ar a importÃÂ¢ncia de que o livro de MatemÃÂ¡tica esteja diariamente na mochila dos alunos, pois ele ÃÂ© utilizado com frequÃÂªncia em sala de aula.
 ---
 DATA: 13/04/2026
-TITULO: Atividade Avaliativa ELA â Poema Diamante (16/04)
+TITULO: Atividade Avaliativa ELA Ã¢ÂÂ Poema Diamante (16/04)
 AUTOR: Ms. Mari
 CATEGORIA: avaliacao
-CONTEUDO: No dia 16 de abril os alunos realizarÃ£o a avaliaÃ§Ã£o do poema diamante. Estrutura de 7 versos sem rima: Verso 1 â substantivo-tema | Verso 2 â dois adjetivos | Verso 3 â trÃªs verbos | Verso 4 â quatro substantivos | Verso 5 â trÃªs verbos | Verso 6 â dois adjetivos | Verso 7 â sinÃ´nimo.
+CONTEUDO: No dia 16 de abril os alunos realizarÃÂ£o a avaliaÃÂ§ÃÂ£o do poema diamante. Estrutura de 7 versos sem rima: Verso 1 Ã¢ÂÂ substantivo-tema | Verso 2 Ã¢ÂÂ dois adjetivos | Verso 3 Ã¢ÂÂ trÃÂªs verbos | Verso 4 Ã¢ÂÂ quatro substantivos | Verso 5 Ã¢ÂÂ trÃÂªs verbos | Verso 6 Ã¢ÂÂ dois adjetivos | Verso 7 Ã¢ÂÂ sinÃÂ´nimo.
 ---
 DATA: 13/04/2026
-TITULO: CalendÃ¡rio Escolar de Abril
-AUTOR: Miss JÃ©ssica
+TITULO: CalendÃÂ¡rio Escolar de Abril
+AUTOR: Miss JÃÂ©ssica
 CATEGORIA: calendario
-CONTEUDO: No dia 20 de abril nÃ£o haverÃ¡ aula. Nos dias 22 e 24 de abril, as aulas ocorrerÃ£o normalmente. "Dia livre para o aluno" no calendÃ¡rio significa sem aula.
+CONTEUDO: No dia 20 de abril nÃÂ£o haverÃÂ¡ aula. Nos dias 22 e 24 de abril, as aulas ocorrerÃÂ£o normalmente. "Dia livre para o aluno" no calendÃÂ¡rio significa sem aula.
 ---
 DATA: 13/04/2026
 TITULO: Retorno Les Fotografia Escola
-AUTOR: Miss JÃ©ssica
+AUTOR: Miss JÃÂ©ssica
 CATEGORIA: aviso
-CONTEUDO: A empresa Les Fotografia Escolar estarÃ¡ na escola para registrar alunos ausentes na data anterior. ResponsÃ¡veis que nÃ£o autorizarem devem comunicar previamente Ã  secretaria.
+CONTEUDO: A empresa Les Fotografia Escolar estarÃÂ¡ na escola para registrar alunos ausentes na data anterior. ResponsÃÂ¡veis que nÃÂ£o autorizarem devem comunicar previamente ÃÂ  secretaria.
 ---
 DATA: 10/04/2026
-TITULO: CalendÃ¡rio AV2
+TITULO: CalendÃÂ¡rio AV2
 AUTOR: Ms. Mari
 CATEGORIA: avaliacao
-CONTEUDO: 13/04 (Segunda): Artes | 15/04 (Quarta): Science Quiz | 16/04 (Quinta): ELA â Poema Diamante | 17/04 (Sexta): Math Challenge
+CONTEUDO: 13/04 (Segunda): Artes | 15/04 (Quarta): Science Quiz | 16/04 (Quinta): ELA Ã¢ÂÂ Poema Diamante | 17/04 (Sexta): Math Challenge
 ---
 DATA: 10/04/2026
-TITULO: Two-Minute Talk â Cronograma de ApresentaÃ§Ãµes
+TITULO: Two-Minute Talk Ã¢ÂÂ Cronograma de ApresentaÃÂ§ÃÂµes
 AUTOR: Ms. Mari
 CATEGORIA: atividade
 CONTEUDO: 13/04: Yasmin e Davi | 14/04: Bernardo, Vicente e Luisa | 15/04: Louise, Dom e Leticia | 16/04: Carlos, Clara e Matheus Correa | 17/04: Mateus Larocca, Rafael e Alice.
 ---
 DATA: 10/04/2026
-TITULO: Leitura no Aplicativo Ãrvore
+TITULO: Leitura no Aplicativo ÃÂrvore
 AUTOR: Ms. Mari
 CATEGORIA: tarefa
-CONTEUDO: Livros enviados no aplicativo Ãrvore para leitura. Prazo: atÃ© 17 de abril.
+CONTEUDO: Livros enviados no aplicativo ÃÂrvore para leitura. Prazo: atÃÂ© 17 de abril.
 ---
 DATA: 10/04/2026
-TITULO: AV2 â LÃ­ngua Portuguesa (17/04)
-AUTOR: Miss ThaynÃ¡
+TITULO: AV2 Ã¢ÂÂ LÃÂ­ngua Portuguesa (17/04)
+AUTOR: Miss ThaynÃÂ¡
 CATEGORIA: avaliacao
-CONTEUDO: ProduÃ§Ã£o de texto narrativo com cooperaÃ§Ã£o/gentileza. Avaliado: planejamento com roteiro obrigatÃ³rio, organizaÃ§Ã£o (introduÃ§Ã£o, desenvolvimento e desfecho), diÃ¡logos com travessÃ£o, verbos dicendi variados, fidelidade ao tema, gramÃ¡tica e capricho.
+CONTEUDO: ProduÃÂ§ÃÂ£o de texto narrativo com cooperaÃÂ§ÃÂ£o/gentileza. Avaliado: planejamento com roteiro obrigatÃÂ³rio, organizaÃÂ§ÃÂ£o (introduÃÂ§ÃÂ£o, desenvolvimento e desfecho), diÃÂ¡logos com travessÃÂ£o, verbos dicendi variados, fidelidade ao tema, gramÃÂ¡tica e capricho.
 ---
 DATA: 09/04/2026
-TITULO: Notas da AV1 â Portal Sponte
-AUTOR: CoordenaÃ§Ã£o PedagÃ³gica
+TITULO: Notas da AV1 Ã¢ÂÂ Portal Sponte
+AUTOR: CoordenaÃÂ§ÃÂ£o PedagÃÂ³gica
 CATEGORIA: aviso
-CONTEUDO: Resultados disponÃ­veis em: portal.sponteeducacional.net.br/mbvilavalqueire â CPF do responsÃ¡vel como login e senha.
+CONTEUDO: Resultados disponÃÂ­veis em: portal.sponteeducacional.net.br/mbvilavalqueire Ã¢ÂÂ CPF do responsÃÂ¡vel como login e senha.
 ---
 DATA: 07/04/2026
 TITULO: Cronograma TRIEduc (Year 4)
-AUTOR: CoordenaÃ§Ã£o PedagÃ³gica
+AUTOR: CoordenaÃÂ§ÃÂ£o PedagÃÂ³gica
 CATEGORIA: aviso
-CONTEUDO: 09/04 (Qui): Linguagens e RedaÃ§Ã£o â 10h, duraÃ§Ã£o 2h | 10/04 (Sex): CiÃªncias da Natureza â 07h30, 1h20 | 13/04 (Seg): MatemÃ¡tica â 07h30, 1h20 | 14/04 (Ter): CiÃªncias Humanas â 07h30, 1h20. DiagnÃ³stica sem impacto na mÃ©dia.
+CONTEUDO: 09/04 (Qui): Linguagens e RedaÃÂ§ÃÂ£o Ã¢ÂÂ 10h, duraÃÂ§ÃÂ£o 2h | 10/04 (Sex): CiÃÂªncias da Natureza Ã¢ÂÂ 07h30, 1h20 | 13/04 (Seg): MatemÃÂ¡tica Ã¢ÂÂ 07h30, 1h20 | 14/04 (Ter): CiÃÂªncias Humanas Ã¢ÂÂ 07h30, 1h20. DiagnÃÂ³stica sem impacto na mÃÂ©dia.
 ---
 DATA: 07/04/2026
-TITULO: InscriÃ§Ã£o para Exame de Cambridge
-AUTOR: Miss JÃ©ssica
+TITULO: InscriÃÂ§ÃÂ£o para Exame de Cambridge
+AUTOR: Miss JÃÂ©ssica
 CATEGORIA: aviso
-CONTEUDO: InformaÃ§Ãµes sobre inscriÃ§Ã£o para o exame de Cambridge disponÃ­veis com a secretaria. Excelente oportunidade para desenvolver habilidades em inglÃªs com reconhecimento internacional.
+CONTEUDO: InformaÃÂ§ÃÂµes sobre inscriÃÂ§ÃÂ£o para o exame de Cambridge disponÃÂ­veis com a secretaria. Excelente oportunidade para desenvolver habilidades em inglÃÂªs com reconhecimento internacional.
 ---
 DATA: 07/04/2026
-TITULO: Livro ParadidÃ¡tico â "Era uma vez Dom Quixote"
-AUTOR: Misses ThaynÃ¡ e PatrÃ­cia
+TITULO: Livro ParadidÃÂ¡tico Ã¢ÂÂ "Era uma vez Dom Quixote"
+AUTOR: Misses ThaynÃÂ¡ e PatrÃÂ­cia
 CATEGORIA: tarefa
-CONTEUDO: Enviar o livro etiquetado com o nome do aluno atÃ© 14/04/26 para as atividades da Unidade 2 de PLA.
+CONTEUDO: Enviar o livro etiquetado com o nome do aluno atÃÂ© 14/04/26 para as atividades da Unidade 2 de PLA.
 ---
