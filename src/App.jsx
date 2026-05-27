@@ -96,10 +96,10 @@ const ANN_CAT = {
   atividade:  { label:"Atividade",  color:C.green,    bg:C.green2,  accent:C.green    },
 };
 const getStatusStyle = () => ({
-  done:    { bg:C.green2,   border:C.green,  badgeBg:C.green,  badge:"✓ Concluído" },
-  overdue: { bg:C.red3,     border:C.red,    badgeBg:C.red,    badge:"⚠ Atrasado"  },
-  urgent:  { bg:"#2d1e0f",  border:"#e67e22",badgeBg:"#e67e22",badge:"🔥 Urgente"   },
-  pending: { bg:C.card,     border:C.border, badgeBg:C.navy,   badge:"● Pendente"  },
+  done:    { bg:C.green2,      border:C.green,   badgeBg:C.green,   badge:"✓ Concluído" },
+  overdue: { bg:C.red3,        border:C.red,     badgeBg:C.red,     badge:"⚠ Atrasado"  },
+  urgent:  { bg:"#fff8f0",     border:"#e67e22", badgeBg:"#e67e22", badge:"🔥 Urgente"   },
+  pending: { bg:C.card,        border:C.border,  badgeBg:C.navy,    badge:"● Pendente"  },
 });
 
 // ── helpers ──────────────────────────────────────────────────────────
