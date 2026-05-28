@@ -1,4 +1,11 @@
 ---
+DATA: 28/05/2026
+TITULO: Passeio Escolar
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: Estamos muito felizes em compartilhar com vocês que em breve teremos um passeio escolar com nossos alunos! Será um momento de muitas descobertas e aprendizado fora da sala de aula, preparado com muito carinho pela nossa equipe. Para que tudo ocorra da melhor forma, todas as informações importantes sobre o passeio estão no comunicado em anexo, como data, horários e orientações gerais. Pedimos, por gentileza, que confiram com atenção. Ressaltamos que o pagamento será via Pix e que o passeio ocorrerá somente se tivermos 90% de adesão. CNPJ: 52.976.128/0001-99 Nome: RJ CONSULTORIA E ASSESSORIA EDUCACIONAL Chave Pix: 52976128000199 Em caso de dúvidas, estamos à disposição. Com carinho, Miss Jéssica ❤️ Year 4 primeiro semestre.docx (1) PDF (75 KB)
+---
+---
 DATA: 27/05/2026
 TITULO: Pesquisa de Satisfação 🐻🍁
 AUTOR: Escola
