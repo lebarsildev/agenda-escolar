@@ -1,5 +1,12 @@
 ---
 DATA: 28/05/2026
+TITULO: 📢Atualização do whatsapp 📢
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: 📢 Atenção, famílias! Nosso número da recepção continua o mesmo, porém ele se tornou um número oficial do WhatsApp 💬, uma mudança realizada para melhor atendê-los e tornar nossa comunicação ainda mais prática e eficiente. 😊 Por isso, quem ainda possui o contato antigo salvo pode ter dificuldades para enviar mensagens. Pedimos, por gentileza, que excluam o contato antigo e cadastrem novamente o mesmo número em seus celulares: 📞 (21) 2148-3518 Assim, a comunicação continuará funcionando normalmente. 💙 Agradecemos a compreensão e seguimos à disposição! Equipe Maple Bear Valqueire
+---
+---
+DATA: 28/05/2026
 TITULO: Passeio Escolar
 AUTOR: Miss Jéssica
 CATEGORIA: aviso
