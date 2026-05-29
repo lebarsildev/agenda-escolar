@@ -1,4 +1,16 @@
 ---
+DATA: 2026-05-29
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Hoje tivemos aula de Cambridge. Trabalhamos a habilidade de compreensão auditiva (listening) por meio de uma dinâmica em que os alunos precisavam identificar os nomes ouvidos como femininos ou masculinos, levantando a mão direita para nomes femininos e a esquerda para nomes masculinos. Em seguida, realizaram a parte 1 e a parte 2 da prova modelo, nas quais precisaram ouvir os áudios atentamente para completar as atividades.
+MATERIA: 🔢 Math | Na aula de hoje, revisamos as características dos quadriláteros. Além disso, realizamos as páginas 44 e 45 do Student Workbook. Com carinho,
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA | Na aula de hoje, estudamos e refletimos juntos sobre pessoas reais do nosso cotidiano que servem de inspiração e exemplo. Conversando sobre os motivos dessa admiração e destacando como, muitas vezes, os verdadeiros heróis estão em nossa convivência próxima, como amigos e familiares. .Na sequência, demos continuidade as nossas atividades dos centros de aprendizagem.
+MATERIA: 📜 História | Dedicamos a nossa aula de hoje ao estudo das Grandes Navegações e seus profundos impactos sob duas perspectivas fundamentais: a dos povos europeus e a dos povos indígenas. Conversamos sobre as consequências desse encontro para os portugueses e para os indígenas e refletimos sobre importante troca cultural que ocorreu na época, incluindo a introdução de novos alimentos e hábitos no cotidiano de ambas as culturas. Para consolidar as aprendizagens, os alunos finalizaram a aula realizando a atividade do mapa de conclusão do conteúdo. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a saída. 🚀 Saída Desejamos um ótimo dia a todos!
+MATERIA: ✏️ ELA | Na aula de hoje, trabalhamos com centros de aprendizagem: Centro 1: Guided Reading – Os alunos leram individualmente os capítulos 9 e 10 do livro “The Thing About Georgie”. Em seguida, conversamos sobre os acontecimentos entre Georgie e Andy e levantamos hipóteses sobre como a história poderá se desenvolver. Centro 2: BLM 7 – Response Journal: Second Character Analysis (Jeanie the Meanie) Centro 3: BLM 11 – The Thing About Georgie Word Sort Centro 4: BLM 13 – Listening Response Activity
+MATERIA: 🔢 Math | Na aula de hoje, continuamos explorando os ângulos dos quadriláteros. Realizamos a correção coletiva da página 42 do Student Workbook e, em seguida, fizemos a página 43. Com carinho,
+---
+---
 DATA: 2026-05-28
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
