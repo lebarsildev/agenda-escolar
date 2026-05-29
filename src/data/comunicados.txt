@@ -1,4 +1,11 @@
 ---
+DATA: 29/05/2026
+TITULO: ELA - Árvore de Livros
+AUTOR: Ms. Mari
+CATEGORIA: tarefa
+CONTEUDO: Seguem as leituras da semana para serem realizadas no aplicativo da Árvore de Livros: • “Super Silly School Poems” • “Pete Has Fast Feet” Esse é um momento importante para que os alunos pratiquem a leitura, ampliem o vocabulário e desenvolvam o hábito da leitura, tão importante para a formação e o aprendizado. O prazo para a realização das leituras é até o dia 5 de junho. Atenciosamente, Ms. Mariana
+---
+---
 DATA: 28/05/2026
 TITULO: 📢Atualização do whatsapp 📢
 AUTOR: Escola
