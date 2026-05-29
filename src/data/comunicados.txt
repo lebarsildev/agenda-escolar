@@ -1,5 +1,12 @@
 ---
 DATA: 29/05/2026
+TITULO: 📚 Regras da Biblioteca Escolar
+AUTOR: Escola
+CATEGORIA: atividade
+CONTEUDO: A leitura é uma ferramenta fundamental para o desenvolvimento das crianças. Além de estimular a criatividade e a imaginação, os livros ampliam o vocabulário, fortalecem a aprendizagem e despertam o prazer pelo conhecimento. 💛 Para que todos possam aproveitar esse momento da melhor forma, seguem as regras da nossa biblioteca: 📖 Regras para empréstimo de livros Cada aluno poderá alugar apenas 1 livro por vez; O prazo de empréstimo é de 1 semana; Em caso de atraso na devolução, será cobrada uma multa de R$ 10,00 por dia; Em caso de perda ou dano ao livro, será cobrado o valor correspondente a um exemplar novo; A devolução deverá ser feita sempre na recepção da escola, para que seja realizada a baixa do empréstimo. Contamos com a colaboração das famílias para incentivarmos juntos o cuidado com os livros e o hábito da leitura! Equipe Maple Bear Valqueire 🐻📚
+---
+---
+DATA: 29/05/2026
 TITULO: ELA - Árvore de Livros
 AUTOR: Ms. Mari
 CATEGORIA: tarefa
