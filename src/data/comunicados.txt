@@ -1,4 +1,3 @@
-
 ---
 DATA: 29/05/2026
 TITULO: 📚 Regras da Biblioteca Escolar
