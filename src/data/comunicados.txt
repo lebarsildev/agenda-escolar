@@ -1,4 +1,11 @@
 ---
+DATA: 03/06/2026
+TITULO: Lembrete de Feriado
+AUTOR: Miss Jéssica
+CATEGORIA: calendario
+CONTEUDO: Passando para relembrar que amanhã, dia 04/06, não haverá aula devido ao feriado. Informamos também que na sexta-feira, dia 05/06, não teremos atividades escolares. As aulas retornarão normalmente na próxima semana. Desejamos a todos um ótimo feriado, com momentos de descanso e diversão em família! Com carinho,Miss Jéssica ♥️
+---
+---
 DATA: 01/06/2026
 TITULO: 📢Atualização whatsapp📢
 AUTOR: Escola
