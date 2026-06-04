@@ -1,5 +1,12 @@
 ---
 DATA: 03/06/2026
+TITULO: Country Party
+AUTOR: Miss Jéssica
+CATEGORIA: atividade
+CONTEUDO: A nossa tão esperada Country Party está chegando, e os preparativos estão a todo vapor! Nossos alunos estão ensaiando com muito entusiasmo para fazerem lindas apresentações e proporcionar um momento inesquecível para todos. Para uma melhor organização do evento, pedimos a gentileza de comunicar à miss da turma caso o(a) aluno(a) não participe da festa. E um aviso importante: os ingressos do segundo lote estão quase esgotados! Lembrando que não haverá vendas no local. Esperamos vocês! Com carinho,Miss Jéssica❤️
+---
+---
+DATA: 03/06/2026
 TITULO: Lembrete de Feriado
 AUTOR: Miss Jéssica
 CATEGORIA: calendario
