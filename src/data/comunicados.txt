@@ -1,5 +1,12 @@
 ---
 DATA: 08/06/2026
+TITULO: Fun Friday -Clima de Copa!!⚽🇧🇷
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: No dia 12 de junho, daremos início às comemorações da Copa do Mundo em nossa escola! Para entrar no clima dessa grande festa, neste dia,os alunos que desejarem poderão vir usando roupas, acessórios ou adereços que remetam ao Brasil, como roupas nas cores verde, amarelo, azul e branco, tiaras, laços, pulseiras, chapéu e outros itens temáticos. Não será permitido o uso de vuvuzelas, cornetas ou outros acessórios que produzam sons altos, pois, durante o dia, as turmas estarão em aula e precisamos manter um ambiente adequado para o aprendizado e o bem-estar de todos. Contamos com a participação de todos para deixar esse dia ainda mais colorido e divertido! Com carinho,Miss Jéssica 💚💛
+---
+---
+DATA: 08/06/2026
 TITULO: Atividade para casa- Leitura na árvore
 AUTOR: Escola
 CATEGORIA: tarefa
