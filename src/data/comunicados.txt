@@ -1,5 +1,12 @@
 ---
 DATA: 08/06/2026
+TITULO: Atividade para casa: Ser fantástico
+AUTOR: Escola
+CATEGORIA: tarefa
+CONTEUDO: Gostaríamos de compartilhar o próximo passo da construção do nosso Livro dos Heróis para o dever de casa! Desta vez, os alunos irão usar a criatividade para inventar um animal fantástico ou um ser fantástico, que fará parte das páginas do nosso livro. Eles poderão criar personagens únicos, imaginando suas características, habilidades e aparência. Orientações: • Para essa atividade, os alunos utilizarão a folha-atividade da Aula 53, Material 2; • Incentive seu filho(a) a usar a imaginação para criar um personagem original e criativo; • Como esta produção irá compor as páginas do nosso Livro dos Heróis, pedimos que as crianças realizem a atividade com bastante calma, atenção e capricho. 📅 Prazo de entrega: 11/06 (quinta-feira). Contamos com o apoio de vocês para inspirar e incentivar nossos pequenos autores! 📚 Atenciosamente, Misses Thayná e Patrícia. Aula 53 Material 2 PDF (67.7 KB)
+---
+---
+DATA: 08/06/2026
 TITULO: Aviso importante-Setor Escolar
 AUTOR: Miss Jéssica
 CATEGORIA: atividade
