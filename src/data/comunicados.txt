@@ -1,38 +1,4 @@
----
-DATA: 08/06/2026
-TITULO: Fun Friday -Clima de Copa!!⚽🇧🇷
-AUTOR: Miss Jéssica
-CATEGORIA: aviso
-CONTEUDO: No dia 12 de junho, daremos início às comemorações da Copa do Mundo em nossa escola! Para entrar no clima dessa grande festa, neste dia,os alunos que desejarem poderão vir usando roupas, acessórios ou adereços que remetam ao Brasil, como roupas nas cores verde, amarelo, azul e branco, tiaras, laços, pulseiras, chapéu e outros itens temáticos. Não será permitido o uso de vuvuzelas, cornetas ou outros acessórios que produzam sons altos, pois, durante o dia, as turmas estarão em aula e precisamos manter um ambiente adequado para o aprendizado e o bem-estar de todos. Contamos com a participação de todos para deixar esse dia ainda mais colorido e divertido! Com carinho,Miss Jéssica 💚💛
----
----
-DATA: 08/06/2026
-TITULO: Atividade para casa- Leitura na árvore
-AUTOR: Escola
-CATEGORIA: tarefa
-CONTEUDO: Informamos que já está disponível na plataforma Árvore a nova indicação de leitura para os alunos. 📚 Livro: Seis razões para preservar a Amazônia (Árvore de Livros) Orientação da atividade: • Incentive seu filho(a) a realizar a leitura da obra para que possa participar das discussões e atividades que serão desenvolvidas em sala de aula. • Durante a leitura, oriente-o(a) a observar e compreender a importância da preservação da Amazônia para o Brasil e para toda a humanidade. ⏰ Prazo para conclusão da leitura: até o dia 15/06 ( segunda-feira). Conto com o apoio de vocês para incentivar esse momento tão importante de leitura em casa, contribuindo para o desenvolvimento do hábito leitor e para a ampliação dos conhecimentos dos nossos alunos. Em caso de dúvidas, estou à disposição. 📖❤️ Um ótimo dia a todos! Atenciosamente, Miss Thayná
----
----
-DATA: 08/06/2026
-TITULO: Atividade para casa: Ser fantástico
-AUTOR: Escola
-CATEGORIA: tarefa
-CONTEUDO: Gostaríamos de compartilhar o próximo passo da construção do nosso Livro dos Heróis para o dever de casa! Desta vez, os alunos irão usar a criatividade para inventar um animal fantástico ou um ser fantástico, que fará parte das páginas do nosso livro. Eles poderão criar personagens únicos, imaginando suas características, habilidades e aparência. Orientações: • Para essa atividade, os alunos utilizarão a folha-atividade da Aula 53, Material 2; • Incentive seu filho(a) a usar a imaginação para criar um personagem original e criativo; • Como esta produção irá compor as páginas do nosso Livro dos Heróis, pedimos que as crianças realizem a atividade com bastante calma, atenção e capricho. 📅 Prazo de entrega: 11/06 (quinta-feira). Contamos com o apoio de vocês para inspirar e incentivar nossos pequenos autores! 📚 Atenciosamente, Misses Thayná e Patrícia. Aula 53 Material 2 PDF (67.7 KB)
----
----
-DATA: 08/06/2026
-TITULO: Aviso importante-Setor Escolar
-AUTOR: Miss Jéssica
-CATEGORIA: atividade
-CONTEUDO: Gostaríamos de reforçar uma orientação apresentada na reunião de início do ano: cada setor da escola possui atribuições e responsabilidades específicas, organizadas para garantir um atendimento eficiente e de qualidade a todos. Dessa forma, solicitamos a gentileza de direcionar cada assunto ao setor responsável: 📚 Assuntos pedagógicos (desenvolvimento do aluno, questões acadêmicas, comportamento, atividades, avaliações ,eventos escolares e demais questões relacionadas à rotina escolar) devem ser tratados com a equipe pedagógica, composta por professores, coordenação e direção. ✅Professora Regente e Teacher Assistant. ✅ Coordenação Pedagógica ✅Auxiliar de Coordenação ✅ Direção Pedagógica: 📋 Assuntos administrativos e financeiros (documentação,matrícula, contratos, boletos, pagamentos, declarações e demais demandas administrativas) devem ser direcionados à Secretaria e ao Administrativo Financeiro. ✅Recepcionista escolar ✅ Secretaria Escolar ✅ADM Financeiro Essa organização é fundamental para que cada demanda seja atendida da forma mais adequada, proporcionando mais agilidade, clareza e eficiência no atendimento às famílias. Agradecemos a compreensão, o respeito aos fluxos de comunicação e a parceria de sempre. Com carinho, Miss Jéssica ❤️ Jessica do Nascimento_20260608_1505_00.jpg Image (178.3 KB)
----
----
-DATA: 08/06/2026
-TITULO: Pesquisa de Satisfação 🐻🍁
-AUTOR: Escola
-CATEGORIA: aviso
-CONTEUDO: Gostaríamos de lembrar que até o dia 12 de junho, aguardamos a participação de vocês na nossa Pesquisa de Satisfação. Esse é um momento muito importante para compartilharem suas opiniões sobre a experiência da família em nossa escola — desde o atendimento até a proposta pedagógica e a infraestrutura. A participação de cada família é fundamental para continuarmos aprimorando cada detalhe da experiência educacional oferecida aos nossos Little Bears! ✨ A pesquisa é anônima e pode ser respondida em poucos minutos. 👉 Clique no link abaixo para participar: Pesquisa de Satisfação Maple Bear Valqueire Contamos com a sua contribuição para construirmos, juntos, uma Maple Bear cada vez melhor! 💛 Equipe Maple Bear Valqueire 🐻🍁
----
+
 ---
 DATA: 03/06/2026
 TITULO: Country Party
