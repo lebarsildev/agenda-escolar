@@ -1,4 +1,11 @@
 ---
+DATA: 09/06/2026
+TITULO: 🇧🇷⚽ Comunicado – Funcionamento da Escola durante os Jogos do Brasil ⚽🇧🇷
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: Com a aproximação dos jogos da Seleção Brasileira, informamos como será o funcionamento da escola nas datas das partidas: 📅 13/06 (sábado) – Jogo às 19h ✅ Não haverá alteração no funcionamento da escola. 📅 19/06 (sexta-feira) – Jogo às 21h30 ✅ Não haverá alteração no funcionamento da escola. 📅 24/06 (quarta-feira) – Jogo às 19h ⏰ Os alunos serão liberados às 17h. Agradecemos a compreensão e contamos com a colaboração de todos para que possamos nos organizar da melhor forma possível. Com carinho,Miss Jéssica
+---
+---
 DATA: 08/06/2026
 TITULO: Pesquisa de Satisfação 🐻🍁
 AUTOR: Escola
