@@ -1,5 +1,12 @@
 ---
 DATA: 08/06/2026
+TITULO: Pesquisa de Satisfação 🐻🍁
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: Gostaríamos de lembrar que até o dia 12 de junho, aguardamos a participação de vocês na nossa Pesquisa de Satisfação. Esse é um momento muito importante para compartilharem suas opiniões sobre a experiência da família em nossa escola — desde o atendimento até a proposta pedagógica e a infraestrutura. A participação de cada família é fundamental para continuarmos aprimorando cada detalhe da experiência educacional oferecida aos nossos Little Bears! ✨ A pesquisa é anônima e pode ser respondida em poucos minutos. 👉 Clique no link abaixo para participar: Pesquisa de Satisfação Maple Bear Valqueire Contamos com a sua contribuição para construirmos, juntos, uma Maple Bear cada vez melhor! 💛 Equipe Maple Bear Valqueire 🐻🍁
+---
+---
+DATA: 08/06/2026
 TITULO: Aviso importante-Setor Escolar
 AUTOR: Miss Jéssica
 CATEGORIA: atividade
