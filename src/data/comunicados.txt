@@ -1,5 +1,12 @@
 ---
 DATA: 08/06/2026
+TITULO: Aviso importante-Setor Escolar
+AUTOR: Miss Jéssica
+CATEGORIA: atividade
+CONTEUDO: Gostaríamos de reforçar uma orientação apresentada na reunião de início do ano: cada setor da escola possui atribuições e responsabilidades específicas, organizadas para garantir um atendimento eficiente e de qualidade a todos. Dessa forma, solicitamos a gentileza de direcionar cada assunto ao setor responsável: 📚 Assuntos pedagógicos (desenvolvimento do aluno, questões acadêmicas, comportamento, atividades, avaliações ,eventos escolares e demais questões relacionadas à rotina escolar) devem ser tratados com a equipe pedagógica, composta por professores, coordenação e direção. ✅Professora Regente e Teacher Assistant. ✅ Coordenação Pedagógica ✅Auxiliar de Coordenação ✅ Direção Pedagógica: 📋 Assuntos administrativos e financeiros (documentação,matrícula, contratos, boletos, pagamentos, declarações e demais demandas administrativas) devem ser direcionados à Secretaria e ao Administrativo Financeiro. ✅Recepcionista escolar ✅ Secretaria Escolar ✅ADM Financeiro Essa organização é fundamental para que cada demanda seja atendida da forma mais adequada, proporcionando mais agilidade, clareza e eficiência no atendimento às famílias. Agradecemos a compreensão, o respeito aos fluxos de comunicação e a parceria de sempre. Com carinho, Miss Jéssica ❤️ Jessica do Nascimento_20260608_1505_00.jpg Image (178.3 KB)
+---
+---
+DATA: 08/06/2026
 TITULO: Atividade para casa: Ser fantástico
 AUTOR: Escola
 CATEGORIA: tarefa
