@@ -1,13 +1,4 @@
 ---
----
-DATA: 09/06/2026
-TITULO: 📢 Lembrete – Inscrições para o Exame Cambridge
-AUTOR: Miss Jéssica
-CATEGORIA: aviso
-CONTEUDO: Relembramos que as inscrições para o Exame Cambridge continuam abertas. Esta é uma excelente oportunidade para que nossos alunos obtenham uma certificação internacionalmente reconhecida, valorizando ainda mais sua trajetória acadêmica e o aprendizado da língua inglesa. As demais informações sobre inscrições, prazos, valores e orientações encontram-se no material em anexo. Em caso de dúvidas, nossa equipe está à disposição para auxiliar. Com carinho,Miss Jéssica _Carta Cambridge Movers (1) PDF (142.9 KB)
----
----
----
 DATA: 08/06/2026
 TITULO: Fun Friday -Clima de Copa!!⚽🇧🇷
 AUTOR: Miss Jéssica
