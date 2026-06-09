@@ -1,5 +1,12 @@
 ---
 DATA: 08/06/2026
+TITULO: Atividade para casa- Leitura na árvore
+AUTOR: Escola
+CATEGORIA: tarefa
+CONTEUDO: Informamos que já está disponível na plataforma Árvore a nova indicação de leitura para os alunos. 📚 Livro: Seis razões para preservar a Amazônia (Árvore de Livros) Orientação da atividade: • Incentive seu filho(a) a realizar a leitura da obra para que possa participar das discussões e atividades que serão desenvolvidas em sala de aula. • Durante a leitura, oriente-o(a) a observar e compreender a importância da preservação da Amazônia para o Brasil e para toda a humanidade. ⏰ Prazo para conclusão da leitura: até o dia 15/06 ( segunda-feira). Conto com o apoio de vocês para incentivar esse momento tão importante de leitura em casa, contribuindo para o desenvolvimento do hábito leitor e para a ampliação dos conhecimentos dos nossos alunos. Em caso de dúvidas, estou à disposição. 📖❤️ Um ótimo dia a todos! Atenciosamente, Miss Thayná
+---
+---
+DATA: 08/06/2026
 TITULO: Fun Friday -Clima de Copa!!⚽🇧🇷
 AUTOR: Miss Jéssica
 CATEGORIA: aviso
