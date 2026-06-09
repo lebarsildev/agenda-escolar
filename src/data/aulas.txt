@@ -1,19 +1,4 @@
----
----
-DATA: 2026-06-09
-PROFESSOR: Misses Thayná e Patrícia
-PERIODO: tarde
-MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
-MATERIA: 📚 PLA | Na aula de hoje, demos continuidade ao nosso processo de reescrita da lenda do Uirapuru. Em seguida, os alunos participaram de um estudo comparativo para compreender as diferenças e características marcantes que distinguem os contos das lendas. Avançando em nossas produções, os alunos também exploraram as características do texto dramático feito para ser encenado, aprendendo sobre a construção dos diálogos e a importância das rubricas. Após, deram os primeiros passos na produção de seus próprios textos , exercitando a criatividade e a escrita.
-MATERIA: ⚽ Aula de Música com a Miss Michelle | Aula de Música com a Miss Michelle. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a aula de Educação Física.
-MATERIA: ⚽ Aula de Educação Física com Mister Paulo | Aula de Educação Física com Mister Paulo. 🚀 Saída Desejamos um ótimo dia a todos.
-MATERIA: ✏️ ELA | Começamos o dia com o Buddy Reading. Em seguida, realizamos a terceira rotação dos centros de aprendizagem. Depois, os alunos leram de forma independente os capítulos 15 e 16 do livro The Thing About Georgie e participaram de uma conversa sobre os novos acontecimentos da história. As crianças foram incentivadas a fazer previsões e refletir sobre como esses eventos poderão influenciar os próximos capítulos.
-MATERIA: 🔢 Math | Na aula de hoje, realizamos a correção coletiva da página 49 do Student Workbook, revisando as estratégias utilizadas e esclarecendo possíveis dúvidas.
-MATERIA: 🎨 Arts | Na aula de hoje, os alunos finalizaram o desenho da flor papoula, colocando em prática os conceitos de contraste, sombra e profundidade trabalhados nas aulas anteriores. Com carinho,
-MATERIA: ✏️ ELA | Começamos o dia com o Buddy Reading. Em seguida, trabalhamos com os centros de aprendizagem. Centro 1 – Guided Reading: Leitura do capítulo 14 do livro The Thing About Georgie. Centro 2 – SLM 18: Comparing Characters: Os alunos compararam os personagens Russ e Andy, analisando suas características e a forma como cada um se relaciona com Georgie. Centro 3 – SLM 19: Reflections of Chapters 6 to 10: Os alunos responderam a perguntas de compreensão e reflexão sobre os capítulos 6 a 10 do livro. Centro 4 – I Understand My Words: Os alunos pesquisaram o significado de duas palavras no dicionário, escreveram frases utilizando essas palavras e identificaram um sinônimo e um antônimo para cada uma delas.
-MATERIA: 🔢 Math | Na aula de hoje, aprendemos sobre as faces dos sólidos geométricos. Exploramos as características de prismas e pirâmides, observando que as pirâmides possuem faces laterais triangulares, enquanto os prismas apresentam faces laterais retangulares. Em seguida, realizamos as páginas 48 e 49 do Student Workbook. Com carinho,
----
----
+
 ---
 DATA: 2026-06-08
 PROFESSOR: Misses Thayná e Patrícia
