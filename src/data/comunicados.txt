@@ -1,4 +1,24 @@
-
+---
+DATA: 11/06/2026
+TITULO: IMPORTANTE!
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: Pesquisa de Satisfação Prezados Responsáveis! Amanhã é o último dia para responder a pesquisa NPS. Esse é um momento muito importante para compartilharem suas opiniões sobre a experiência da família em nossa escola — desde o atendimento até a proposta pedagógica e a infraestrutura. A participação de cada família é fundamental para continuarmos aprimorando cada detalhe da experiência educacional oferecida aos nossos Little Bears! A pesquisa é anônima e pode ser respondida em menos de 1 minuto. Para participar é preciso clicar no link abaixo e inserir o CPF do responsável financeiro do aluno. https://survey.maplebear.ca/survey?utm_source=chatgpt.com Contamos com a sua contribuição para construirmos, juntos, uma Maple Bear cada vez melhor! Equipe Maple Bear Valqueire.
+---
+---
+DATA: 11/06/2026
+TITULO: Comunicado Country Party
+AUTOR: Miss Jéssica
+CATEGORIA: atividade
+CONTEUDO: Boa noite,Responsáveis! Para que possamos finalizar a organização das coreografias que serão apresentadas na nossa Country Party, pedimos a gentileza de que os responsáveis pelos alunos que não participarão do evento comuniquem a respectiva professora por meio da agenda escolar o quanto antes. Essa informação é muito importante para que possamos ajustar os ensaios e organizar cada apresentação da melhor forma possível. Contamos com a colaboração e o carinho de todos para que nossa festa seja ainda mais especial! Desde já, agradecemos a parceria de sempre. Com carinho,Miss Jéssica❤️
+---
+---
+DATA: 11/06/2026
+TITULO: 💚💛 Fun Friday – Tema Copa do Mundo 💙🤍
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: Passando para relembrar que amanhã teremos nossa Fun Friday temática da Copa do Mundo! 🇧🇷 Os alunos que desejarem estão convidados a vir com roupas e/ou acessórios que remetam às cores do Brasil, entrando no clima de torcida e celebração! Vale camiseta do Brasil, roupas nas cores verde, amarelo, azul e branco, tiaras, laços, pulseiras e outros acessórios temáticos. Não será permitido o uso de vuvuzelas, cornetas ou outros acessórios que produzam sons altos, pois, durante o dia, as turmas estarão em aula e precisamos manter um ambiente adequado para o aprendizado e o bem-estar de todos. Com carinho,miss Jéssica❤️
+---
 ---
 DATA: 10/06/2026
 TITULO: Atividade para casa- História
