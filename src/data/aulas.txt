@@ -1,4 +1,20 @@
 ---
+DATA: 2026-06-11
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA | Na aula de hoje, demos continuidade ao nosso estudo sobre o texto dramático. Os alunos avançaram na escrita de suas cenas, estruturando os personagens, os diálogos e as rubricas. Após a finalização da escrita, dois grupos deram vida aos seus textos e realizaram a dramatização das cenas criadas para a turma. Foi um momento divertido, onde eles puderam ver a escrita se transformar em atuação!
+MATERIA: ✏️ História | Continuamos nosso estudo sobre a história e a resistência dos povos indígenas, com foco no Território Indígena do Xingu. Utilizando o material de apoio (SLM), os alunos leram, interpretaram uma notícia e analisaram a situação de denúncia trazida pela reportagem que abordava o o desmatamento, as queimadas no entorno do território e a grave poluição dos rios. Além da análise, os alunos trabalharam o gênero textual, identificando perfeitamente a estrutura de uma notícia: título, subtítulo, data, fonte, legenda e o corpo do texto. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a aula de Educação Física.
+MATERIA: ⚽ Aula de Educação Física com Mister Paulo | Aula de Educação Física com Mister Paulo. 🚀 Saída Desejamos um ótimo dia a todos.
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA | Na aula de hoje, demos continuidade ao nosso processo de reescrita da lenda do Uirapuru. Em seguida, os alunos participaram de um estudo comparativo para compreender as diferenças e características marcantes que distinguem os contos das lendas. Avançando em nossas produções, os alunos também exploraram as características do texto dramático feito para ser encenado, aprendendo sobre a construção dos diálogos e a importância das rubricas. Após, deram os primeiros passos na produção de seus próprios textos , exercitando a criatividade e a escrita.
+MATERIA: ⚽ Aula de Música com a Miss Michelle | Aula de Música com a Miss Michelle. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a aula de Educação Física.
+MATERIA: ⚽ Aula de Educação Física com Mister Paulo | Aula de Educação Física com Mister Paulo. 🚀 Saída Desejamos um ótimo dia a todos.
+MATERIA: ✏️ ELA | Começamos o dia com o Buddy Reading. Em seguida, realizamos a terceira rotação dos centros de aprendizagem. Depois, os alunos leram de forma independente os capítulos 15 e 16 do livro The Thing About Georgie e participaram de uma conversa sobre os novos acontecimentos da história. As crianças foram incentivadas a fazer previsões e refletir sobre como esses eventos poderão influenciar os próximos capítulos.
+MATERIA: 🔢 Math | Na aula de hoje, realizamos a correção coletiva da página 49 do Student Workbook, revisando as estratégias utilizadas e esclarecendo possíveis dúvidas.
+MATERIA: 🎨 Arts | Na aula de hoje, os alunos finalizaram o desenho da flor papoula, colocando em prática os conceitos de contraste, sombra e profundidade trabalhados nas aulas anteriores. Com carinho,
+---
+---
 DATA: 2026-06-10
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
