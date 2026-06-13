@@ -1,5 +1,4 @@
 ---
----
 DATA: 2026-06-12
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
@@ -10,8 +9,6 @@ MATERIA: ✏️ ELA | Começamos o dia com o Buddy Reading. Em seguida, trabalha
 MATERIA: 🔬 Science | Na aula passada, os alunos escolheram um objeto que depende da luz para funcionar e produziram um texto explicando como ele funciona, onde pode ser encontrado e por que é importante. Na aula de hoje, apresentaram seus trabalhos para a turma, desenvolvendo a comunicação oral e compartilhando seus conhecimentos. Em seguida, aprendemos sobre as fontes de luz naturais e artificiais. Conversamos sobre exemplos de cada tipo e descobrimos que algumas fontes emitem luz, como o Sol, enquanto outras refletem a luz recebida, como a Lua. Para consolidar a aprendizagem, realizamos as páginas 56 e 57 do Student Book. Com carinho,
 MATERIA: ✏️ ELA | Começamos o dia com o Buddy Reading. Em seguida, trabalhamos com os seguintes centros de aprendizagem: Centro 1 – Guided Reading: Os alunos leram o capítulo 17 do livro The Thing About Georgie e discutiram os acontecimentos mais importantes da narrativa. Centro 2 – SLM 15: My Best Friend: Os alunos escreveram a versão final do parágrafo sobre seu melhor amigo, aplicando as revisões realizadas anteriormente. Centro 3 – SLM 20: I Understand Words: Os alunos escolheram duas palavras no dicionário, registraram suas definições, elaboraram frases utilizando cada uma delas e identificaram um sinônimo e um antônimo. Centro 4 – SLM 21: Response Journal – Word Endings: Os alunos praticaram o uso dos sufixos -ed e -ing, completando a atividade com as palavras indicadas.
 MATERIA: 🔢 Math | Na aula de hoje, aprendemos que os sólidos geométricos podem ser classificados de acordo com o número de faces, vértices e arestas. Também exploramos como comparar e organizar sólidos utilizando dois atributos ao mesmo tempo. Para consolidar a aprendizagem, realizamos a página 50 do Student Workbook. Com carinho,
----
----
 ---
 DATA: 2026-06-11
 PROFESSOR: Misses Thayná e Patrícia
