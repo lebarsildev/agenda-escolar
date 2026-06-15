@@ -1,5 +1,11 @@
 ---
 DATA: 15/06/2026
+TITULO: PESQUISA DE SATISFAÇÃO
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: PESQUISA DE SATISFAÇÃO
+---
+DATA: 15/06/2026
 TITULO: Bom dia, responsáveis! Segue em anexo o cardápio desta semana e da próxima. Excelente semana a todos!♥️
 AUTOR: Escola
 CATEGORIA: aviso
