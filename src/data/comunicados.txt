@@ -1,16 +1,4 @@
 ---
-DATA: 01/06/2026
-TITULO: Bom dia, Responsáveis! Segue o cardápio. Ótima semana para todos!
-AUTOR: Escola
-CATEGORIA: aviso
-CONTEUDO: Bom dia, Responsáveis! Segue o cardápio. Ótima semana para todos!
----
-DATA: 29/05/2026
-TITULO: Figurinhas da copa
-AUTOR: Escola
-CATEGORIA: aviso
-CONTEUDO: Figurinhas da copa
----
 DATA: 11/06/2026
 TITULO: IMPORTANTE!
 AUTOR: Escola
