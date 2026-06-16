@@ -1,22 +1,4 @@
 ---
-DATA: 16/06/2026
-TITULO: Country Party
-AUTOR: Escola
-CATEGORIA: aviso
-CONTEUDO: Country Party
----
-DATA: 16/06/2026
-TITULO: Atividade para casa: Geografia
-AUTOR: Escola
-CATEGORIA: aviso
-CONTEUDO: Atividade para casa: Geografia
----
-DATA: 16/06/2026
-TITULO: Atividade para casa: Leitura do livro Era uma vez Dom Quixote
-AUTOR: Escola
-CATEGORIA: aviso
-CONTEUDO: Atividade para casa: Leitura do livro Era uma vez Dom Quixote
----
 DATA: 15/06/2026
 TITULO: PESQUISA DE SATISFAÇÃO
 AUTOR: Escola
