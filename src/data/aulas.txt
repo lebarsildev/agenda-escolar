@@ -1,4 +1,19 @@
 ---
+DATA: 2026-06-16
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA | Na aula de hoje, demos continuidade com entusiasmo ao nosso Festival de Leitura. Os alunos leram e interpretaram mais uma lenda da nossa cultura, a História do Guaraná. Em seguida, os alunos avançaram para o circuito dinâmico dos centros de aprendizagem descritos ontem, aproveitando o momento para revisar produções, as versões finais dos textos e finalizar os preparativos para as dramatizações.
+MATERIA: ⚽ Aula de Música com a Miss Michelle | Aula de Música com a Miss Michelle. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a aula de Educação Física.
+MATERIA: ⚽ Aula de Educação Física com Mister Paulo | Aula de Educação Física com Mister Paulo. 🚀 Saída Desejamos um ótimo dia a todos.
+MATERIA: ✏️ ELA | Começamos o dia com o Buddy Reading. Em seguida, lemos os capítulos 18 e 19 do livro “The Thing About Georgie” e discutimos, em grupo, os acontecimentos e desdobramentos da história. As crianças foram convidadas a fazer previsões e refletir sobre os possíveis próximos acontecimentos da narrativa.
+MATERIA: 🔢 Math | Na aula de hoje, os alunos construíram estruturas de sólidos geométricos utilizando bolinhas de borracha e palitos plásticos. Com essa atividade prática, puderam explorar e identificar vértices, arestas e faces, consolidando os conceitos estudados na página 53 do Student Workbook.
+MATERIA: 🎨 Arts | Na aula de hoje, conhecemos o artista anglo-canadense Ted Harrison e exploramos suas obras, marcadas pelo uso de cores vibrantes, repetição e ritmo nas paisagens da região de Yukon. Inspirados por seu estilo, os alunos iniciaram a criação de uma paisagem artística, utilizando linhas para formar padrões e incluindo elementos como construções, animais ou pessoas. Nesta primeira etapa, desenharam as linhas com lápis e as cobriram com giz de cera. Na próxima aula, darão continuidade ao trabalho iniciando a pintura e a coloração da composição. Com carinho,
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA | Na aula de hoje, demos continuidade ao nosso estudo sobre o texto dramático. Os alunos avançaram na escrita de suas cenas, estruturando os personagens, os diálogos e as rubricas. Após a finalização da escrita, dois grupos deram vida aos seus textos e realizaram a dramatização das cenas criadas para a turma. Foi um momento divertido, onde eles puderam ver a escrita se transformar em atuação!
+MATERIA: ✏️ História | Continuamos nosso estudo sobre a história e a resistência dos povos indígenas, com foco no Território Indígena do Xingu. Utilizando o material de apoio (SLM), os alunos leram, interpretaram uma notícia e analisaram a situação de denúncia trazida pela reportagem que abordava o o desmatamento, as queimadas no entorno do território e a grave poluição dos rios. Além da análise, os alunos trabalharam o gênero textual, identificando perfeitamente a estrutura de uma notícia: título, subtítulo, data, fonte, legenda e o corpo do texto. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a aula de Educação Física.
+MATERIA: ⚽ Aula de Educação Física com Mister Paulo | Aula de Educação Física com Mister Paulo. 🚀 Saída Desejamos um ótimo dia a todos.
+---
 DATA: 2026-06-15
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
