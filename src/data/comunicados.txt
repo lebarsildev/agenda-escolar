@@ -1,4 +1,10 @@
 ---
+DATA: 18/06/2026
+TITULO: Confirmação do passeio
+AUTOR: Escola
+CATEGORIA: atividade
+CONTEUDO: Ontem encaminhamos uma mensagem de alteração do passeio: 📍 Data: 26/06 🕒 Horário da visita: 15h30 🚌 Saída da escola: 14h 🏫 Retorno previsto: 18h30 Gostaríamos de confirmar a participação do nosso Little Bear ? Aguardamos o mais breve possível 😄
+---
 DATA: 17/06/2026
 TITULO: 📣Passeio Ilha fiscal - mudança de data 📣
 AUTOR: Escola
