@@ -1,4 +1,10 @@
 ---
+DATA: 18/06/2026
+TITULO: Fun Friday copa do mundo💛💚
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: Em clima de torcida ,informamos que amanhã os alunos de todas as turmas poderão ir à escola com roupas e/ou acessórios que remetam ao Brasil, como camisetas, cores da bandeira, laços, pulseiras, entre outros. Pedimos apenas que não sejam enviados acessórios que emitam sons, como cornetas, vuvuzelas, apitos ou similares, para que possamos manter o ambiente adequado e não prejudicar o andamento das aulas. A participação é opcional, mas ficaremos muito felizes em ver nossos alunos entrando no espírito da ocasião!
+---
 DATA: 19/06/2026
 TITULO: Country Party -Informações importantes
 AUTOR: Miss Jéssica
