@@ -1,4 +1,11 @@
 ---
+DATA: 23/06/2026
+TITULO: ATENÇÃO!!!
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: Prezados responsáveis, Informamos que estamos sem energia elétrica devido ao estouro do transformador que abastece a rua. Entramos em contato com a Light, que nos informou não haver, até o momento, previsão para o restabelecimento do serviço. Pensando no bem-estar e na segurança de nossos alunos, solicitamos que os responsáveis venham buscá-los o mais breve possível. Agradecemos a compreensão e manteremos todos informados sobre qualquer atualização. Atenciosamente, Equipe Maple Bear Valqueire
+---
+---
 DATA: 18/06/2026
 TITULO: Fun Friday copa do mundo💛💚
 AUTOR: Miss Jéssica
