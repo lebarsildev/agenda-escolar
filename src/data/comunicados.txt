@@ -1,5 +1,23 @@
 ---
 DATA: 23/06/2026
+TITULO: Clima de copa🇧🇷
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: Em clima de torcida, informamos que amanhã os alunos que desejarem poderão vir à escola com roupas e/ou acessórios que remetam ao Brasil. 🇧🇷💚💛 Lembramos apenas que os acessórios devem ser adequados ao ambiente escolar e não poderão emitir sons, para não interferirem no andamento das aulas.
+---
+DATA: 23/06/2026
+TITULO: Horário de saída (Quarta feira 24/06)
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: Passando para relembrar que amanhã, quarta-feira, devido ao jogo do Brasil, todos os alunos serão liberados às 17h. Informamos também que não haverá futsal nem aula de dança, e que a escola não funcionará após esse horário, inclusive para atendimentos. Os alunos que desejarem, poderão ir com roupa ou acessórios que remetam o Brasil! Contamos com a colaboração de todos para que a saída dos alunos ocorra de forma organizada e dentro do horário estabelecido. Agradecemos a compreensão de todos !
+---
+DATA: 23/06/2026
+TITULO: 🌟 Ajude-nos a trazer mais benefícios para nossa comunidade escolar! 🌟
+AUTOR: Escola
+CATEGORIA: atividade
+CONTEUDO: Estamos buscando novas parcerias para oferecer ainda mais vantagens, experiências e benefícios exclusivos às nossas famílias. Para isso, queremos conhecer melhor os locais, atividades, serviços e estabelecimentos que fazem parte da rotina de vocês. Sua participação é muito importante e nos ajudará a criar conexões que tragam oportunidades especiais para toda a nossa comunidade escolar! 📝 Responda nossa pesquisa rápida: https://forms.gle/dfvpne9CUpLTr2pEA ⏱️ Leva apenas alguns minutos e fará toda a diferença para construirmos uma rede de parceiros cada vez mais alinhada aos interesses das nossas famílias. A pesquisa ficará disponível até 03.07. Desde já, agradecemos seu carinho e colaboração! 💙 Juntos, podemos criar ainda mais benefícios para a nossa comunidade Maple Bear! ✨
+---
+DATA: 23/06/2026
 TITULO: ATENÇÃO!!!
 AUTOR: Escola
 CATEGORIA: aviso
