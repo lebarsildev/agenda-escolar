@@ -1,5 +1,12 @@
 ---
 DATA: 26/06/2026
+TITULO: Atividade de Língua Portuguesa
+AUTOR: Escola
+CATEGORIA: atividade
+CONTEUDO: Gostaria de informar que, na próxima segunda-feira ,29/06, os alunos realizarão uma atividade de Dramatização de Texto em sala de aula, como encerramento da Unidade 2 de Língua Portuguesa. A proposta tem como tema “Heróis”, e tem como objetivo finalizar o trabalho desenvolvido ao longo da unidade, que envolveu leitura, produção textual e interpretação de diferentes narrativas. Os alunos já produziram previamente seus textos e, neste momento, irão realizar a apresentação dramatizada, colocando em prática o que foi escrito. Trata-se de uma atividade simples, de caráter interno e pedagógico, realizada em sala de aula. Para fins de registro e compartilhamento com as famílias, a apresentação será gravada. Os alunos estão bastante envolvidos e entusiasmados com a atividade e, por esse motivo, solicitaram a possibilidade de trazer alguns itens que possam ajudar na caracterização durante a dramatização. Será permitido que tragam esses materiais dentro da mochila, devendo utilizá-los apenas no momento da apresentação. Qualquer dúvida, estou à disposição. Atenciosamente, Miss Thayná Ribeiro.
+---
+---
+DATA: 26/06/2026
 TITULO: Orientações para a AV1de Artes
 AUTOR: Ms. Mari
 CATEGORIA: avaliacao
