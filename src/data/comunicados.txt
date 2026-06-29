@@ -1,4 +1,11 @@
 ---
+DATA: 28/06/2026
+TITULO: Aviso importante -Lembrete
+AUTOR: Miss Jéssica
+CATEGORIA: atividade
+CONTEUDO: Boa noite, Responsáveis! Amanhã, os alunos que desejarem poderão vir com roupas e/ou acessórios que remetam ao Brasil, entrando no clima de torcida e alegria! Pedimos apenas que não sejam enviados acessórios que emitam som, para que não atrapalhem o andamento das aulas. Lembramos também que não haverá aulas no turno da tarde. Para o turno da manhã, os horários de saída serão os seguintes: 📌 Infantil: saída às 11h30 📌 SK e Ensino Fundamental: saída às 12h Neste dia, não haverá serviço de cozinha para o almoço nem atividades extras. Após esse horário, a escola e todos os seus serviços de atendimento estarão encerrados, não havendo funcionamento no período da tarde. Contamos com a compreensão e a colaboração de todos para que a saída dos alunos ocorra de forma tranquila e organizada. Com carinho, Miss Jéssica ❤️
+---
+---
 DATA: 26/06/2026
 TITULO: Atividade de Língua Portuguesa
 AUTOR: Escola
