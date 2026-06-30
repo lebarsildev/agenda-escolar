@@ -1,4 +1,17 @@
 ---
+DATA: 2026-06-30
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA | Na aula de hoje, finalizamos a última página do nosso projeto do Livro dos Heróis da turma! Os alunos trabalharam em centros, realizando uma atividade de síntese sobre a obra "Era uma vez Dom Quixote". Em grupos, eles responderam a um roteiro de perguntas sobre o clássico, resgatando quem foi o personagem, as aventuras com seu fiel companheiro Sancho Pança, os motivos pelos quais ele ficou tão famoso, a época em que viveu e as curiosidades que mais chamaram a atenção da turma ao longo da leitura.
+MATERIA: ⚽ Aula de Música com a Miss Michelle | Aula de Música com a Miss Michelle. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a aula de Educação Física.
+MATERIA: ⚽ Aula de Educação Física com Mister Paulo | Aula de Educação Física com Mister Paulo. 🚀 Saída Desejamos um ótimo dia a todos.
+MATERIA: ✏️ ELA | Começamos o dia com o Buddy Reading. Em seguida, as crianças compartilharam suas impressões sobre as leituras realizadas, desenvolvendo a oralidade e a compreensão leitora. Depois, os grupos finalizaram os cartazes iniciados na aula passada sobre os elementos da narrativa.
+MATERIA: 🔢 Math | Na aula de hoje, trabalhamos com padrões na multiplicação. Aprendemos a utilizar o valor posicional para multiplicar por 10, 100 e 1.000. Exemplos: 5 × 1 dezena = 5 dezenas → 5 × 10 = 50 5 × 1 centena = 5 centenas → 5 × 100 = 500 5 × 1 milhar = 5 milhares → 5 × 1.000 = 5.000 Também aprendemos a utilizar fatores básicos da multiplicação aliados ao valor posicional para multiplicar por múltiplos de 10, 100 e 1.000. Exemplos: 3 × 3 = 9 3 × 3 dezenas = 9 dezenas → 3 × 30 = 90 3 × 3 centenas = 9 centenas → 3 × 300 = 900 3 × 3 milhares = 9 milhares → 3 × 3.000 = 9.000 Para consolidar a aprendizagem, realizamos as páginas 60 e 61 do Student Workbook.
+MATERIA: 🎨 Arts | Na aula de hoje, realizamos a AV1 de Artes. Com carinho,
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: ✏️ PLA | Na aula de hoje, finalizamos o último capítulo do livro "Era uma vez Dom Quixote". Reunidos em roda, realizamos a leitura compartilhada desse desfecho e, na sequência, os alunos puderam expressar suas considerações finais sobre toda a trajetória dessa obra. Para consolidar essa jornada literária, os alunos realizaram uma atividade de interpretação de texto e escreveram suas respostas no Caderno de Descobertas. Logo após, demos continuidade ao nosso estudo sobre os adjetivos iniciado ontem. A turma realizou novas atividades práticas e aproveitou o momento para sanar todas as dúvidas, consolidando a compreensão sobre quando uma palavra funciona como um adjetivo (característica) ou como um substantivo (nome) de acordo com o contexto. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a saída. 🚀 Saída Desejamos um ótimo dia a todos.
+---
 DATA: 2026-06-29
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
