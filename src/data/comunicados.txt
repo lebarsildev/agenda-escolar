@@ -1,4 +1,10 @@
 ---
+DATA: 06/07/2026
+TITULO: ✨Novo canal para acessar seu QR Code de pagamento✨
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: ✨ Seu QR Code de Pagamento ficou ainda mais fácil de acessar! 💙 Antes, o seu QR Code de pagamento era enviado apenas por e-mail. Agora, pensando em tornar esse processo ainda mais prático, ele também está disponível diretamente na Agenda! 📲 Assim, você pode acessar o QR Code de forma rápida e segura sempre que precisar. 📄 Abaixo, encaminhamos um PDF com o passo a passo para ajudá-los a localizar essa nova funcionalidade. Em caso de dúvidas, nossa equipe estará à disposição para ajudar! 💙 Equipe Maple Bear Valqueire
+---
 DATA: 03/07/2026
 TITULO: ACESSO PORTAL DO ALUNO / 2ª VIA PIX
 AUTOR: Escola
