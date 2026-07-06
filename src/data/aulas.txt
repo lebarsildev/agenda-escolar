@@ -1,4 +1,15 @@
 ---
+DATA: 2026-07-06
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: ✏️ PLA (Língua Portuguesa) | Na aula de hoje, iniciamos a nossa Unidade 3, que traz como tema central as Comunicações! Para mergulhar nesse universo, os alunos assistiram a um vídeo sobre a evolução histórica dos meios de comunicação. Na sequência, partimos para uma atividade reflexiva guiada por duas perguntas orientadoras: “Quais são as diferentes formas com que posso me comunicar?” e “Quais são os meios de comunicação que conheço?”. Debatemos sobre as diversas linguagens e ferramentas que usamos para nos conectar com o mundo. Para fechar a aula, realizamos a leitura interativa do livro "A Aventura da Escrita – A História do Desenho que Virou Letra", questionando a turma sobre a importância fundamental da escrita e relacionando-a diretamente com a evolução da comunicação humana.
+MATERIA: 🌍 Geografia | Na aula de hoje, encerramos a nossa Unidade 1. Promovemos um momento para relembrar e consolidar todos os grandes conceitos que estudamos ao longo desta jornada (como as regiões brasileiras, os biomas, os tipos de clima, as formas de relevo do nosso país...) Após, os alunos exercitaram a autonomia e o autoconhecimento preenchendo as atividades de autoavaliação e o registro de aprendizagem da unidade, mapeando suas próprias conquistas e saberes. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a saída. 🚀 Saída Desejamos uma ótima semana a todos.
+MATERIA: ✏️ ELA | Na aula de hoje, os alunos participaram da aula de Cambridge, com foco em Reading and Writing. Eles realizaram atividades que simulam o formato da avaliação, lendo textos, desenvolvendo a compreensão leitora e respondendo a questões de interpretação. Ao final, fizemos a correção coletiva, e a atividade foi enviada para casa na pasta.
+MATERIA: 🔢 Math | Na aula de hoje, os alunos realizaram a AV1 de Math. Em seguida, continuamos trabalhando com estimativas na multiplicação por meio do arredondamento. Para consolidar esse conteúdo, realizamos a página 63 do Student Workbook e fizemos a correção coletiva das atividades, esclarecendo dúvidas e reforçando as estratégias utilizadas. Com carinho,
+MATERIA: ✏️ ELA | Na aula de hoje, os alunos realizaram a AV1 de ELA, correspondente ao SLM 9, com atividades baseadas na leitura do livro The Thing About Georgie.
+MATERIA: 🔢 Math | Na aula de hoje, aprendemos a estimar produtos da multiplicação por meio do arredondamento de um dos fatores (com dois dígitos) para a dezena mais próxima. Por exemplo: 4 × 23 → arredondamos 23 para 20 e calculamos 4 × 20 = 80. Assim, a estimativa do produto é 80. Em seguida, realizamos a página 62 do Student Workbook e fizemos a correção coletiva das atividades. Com carinho,
+---
 DATA: 2026-07-03
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
