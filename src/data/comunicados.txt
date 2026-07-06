@@ -1,5 +1,17 @@
 ---
 DATA: 06/07/2026
+TITULO: Abertura da Unidade 3 de PLA: Comunicações
+AUTOR: Escola
+CATEGORIA: tarefa
+CONTEUDO: Prezadas famílias Hoje, demos início à nossa Unidade 3 de Língua Portuguesa com o tema Comunicações. Ao longo da semana e após o recesso, os alunos serão convidados a refletir sobre a pergunta essencial: "Como a evolução dos meios de comunicação afeta nosso comportamento?" Nesta unidade, os alunos irão explorar a evolução dos meios de comunicação, desde a invenção da escrita até as tecnologias digitais que fazem parte do nosso cotidiano. Ao longo desse percurso, compreenderão como as necessidades da sociedade impulsionaram novas formas de comunicação e como essas transformações influenciam nossos hábitos, relações e maneiras de aprender. Além disso, refletirão sobre os benefícios e os desafios do uso da internet, desenvolvendo atitudes de responsabilidade, respeito e cidadania digital. Confira os principais eixos que serão trabalhados: Exploração de Gêneros e Compreensão Leitora Durante esta unidade, ampliaremos as estratégias de leitura, escuta e interpretação por meio de diferentes gêneros textuais: Textos narrativos Textos expositivos, informativos e explicativos Reportagens impressas e digitais Legendas Guias de uso (textos instrucionais) Leitura em voz alta, respeitando a entonação e a expressividade indicadas pela pontuação Produção Textual Os alunos produzirão textos com diferentes finalidades comunicativas, colocando em prática os conhecimentos construídos durante a unidade: Registro de entrevistas Produção de um texto expositivo sobre a importância da escrita para a comunicação Elaboração de um Guia do Y4 para o Bom Uso da Internet, reunindo orientações para uma navegação segura, ética e consciente Conhecimentos Linguísticos e Gramaticais O estudo da língua acontecerá de forma contextualizada, sempre relacionado às leituras e produções realizadas em sala. Serão desenvolvidos os seguintes conteúdos: Ampliação do uso do dicionário como ferramenta de pesquisa Ampliação da função dos adjetivos na oração Identificação e uso de homônimos e parônimos Classificação
+---
+DATA: 06/07/2026
+TITULO: Atividade para casa: PLA
+AUTOR: Escola
+CATEGORIA: tarefa
+CONTEUDO: Gostaríamos de compartilhar o próximo dever de casa de Língua Portuguesa. Os alunos realizarão uma atividade de observação do caminho de casa até a escola. O objetivo é incentivar um olhar mais atento para a paisagem, identificando elementos naturais e construídos presentes no trajeto, além de perceber como o espaço pode ser observado e representado. Os alunos deverão utilizar a folha de atividade (Aula 66- Material 5) entregue em sala de aula. É importante que a observação seja feita com calma e atenção, registrando as informações solicitadas na atividade. A atividade será retomada e discutida em sala na próxima quarta-feira (08/07), por isso é fundamental que todos tragam a folha preenchida. Agradecemos o apoio e a parceria de sempre, incentivando as crianças a observarem o mundo ao seu redor com curiosidade e atenção! Aula 66 Material 5 PDF (54.1 KB)
+---
+DATA: 06/07/2026
 TITULO: ✨Novo canal para acessar seu QR Code de pagamento✨
 AUTOR: Escola
 CATEGORIA: aviso
