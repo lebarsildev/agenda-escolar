@@ -1,4 +1,10 @@
 ---
+DATA: 2026-07-03
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: ✏️ Geografia | Dedicamos nossa aula de hoje à realização da nossa AV1 de Geografia, uma atividade avaliativa prática e colaborativa. Trabalhando em grupos, os alunos assumiram o desafio de elaborar um cartaz temático focado na consciência socioambiental. Para isso, eles analisaram um conjunto de imagens disponibilizadas em sala e selecionaram aquelas que representavam tanto ações de preservação quanto de degradação do nosso patrimônio cultural e das riquezas naturais brasileiras. Em seguida, os alunos organizaram visualmente o material e produziram legendas explicativas para cada imagem. Eles capricharam! 💖 Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a saída. 🚀 Saída Desejamos um ótimo fim de semana a todos.
+---
 DATA: 2026-07-06
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
