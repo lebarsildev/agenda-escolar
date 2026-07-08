@@ -1,4 +1,10 @@
 ---
+DATA: 08/07/2026
+TITULO: Ausência da Ms Mari
+AUTOR: Coordenação Pedagógica
+CATEGORIA: atividade
+CONTEUDO: Prezadas famílias, Informamos que, por motivos de saúde, a Ms Mari precisou se ausentar hoje. Para garantir a continuidade do nosso planejamento, o Mr Igor assumiu a regência das atividades, Coordenação Pedagógica
+---
 DATA: 07/07/2026
 TITULO: SISTEMA CONTROLE DE SAÍDA DE ALUNOS
 AUTOR: Escola
