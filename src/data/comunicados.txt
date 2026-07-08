@@ -1,5 +1,11 @@
 ---
 DATA: 07/07/2026
+TITULO: SISTEMA CONTROLE DE SAÍDA DE ALUNOS
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: Prezadas famílias, Com o objetivo de oferecer ainda mais segurança, praticidade e agilidade em nossos processos, informamos que estamos implantando um novo sistema de controle de acesso e retirada dos alunos por meio de reconhecimento facial. O funcionamento será simples: Na entrada, o(a) aluno(a) realizará o reconhecimento facial, registrando automaticamente sua chegada à escola. Nesse momento, os responsáveis cadastrados receberão uma notificação informando que o(a) aluno(a) entrou na unidade. Na saída, o responsável autorizado realizará o reconhecimento facial na recepção. O sistema identificará automaticamente quais alunos estão vinculados àquele responsável, permitindo a liberação apenas dos estudantes autorizados. Após a retirada, os responsáveis cadastrados também receberão uma notificação informando que o(a) aluno(a) deixou a escola. Essa tecnologia reforça a segurança no processo de entrega dos alunos, reduz a possibilidade de erros de identificação e torna o atendimento mais ágil e eficiente. Para que o sistema funcione corretamente, será necessário que todos os responsáveis realizem o cadastro facial e atualizem seus dados de contato e endereço. Nos próximos dias, enviaremos um link por email para que esse cadastro seja realizado de forma rápida e segura. Pedimos a gentileza de que o preenchimento seja feito o quanto antes, garantindo que o sistema esteja plenamente operacional no início de sua utilização. Caso não receba o link, entre em contato com a secretaria. Importante: o link de cadastro será enviado para pai e mãe do(a) aluno(a). Para cadastrar os demais responsáveis autorizados no sistema será preciso que os pais enviem mensagem com o nome, CPF, RG, e data de nascimento na agenda ou no whatsapp solicitando o envio do link para cadastro dos mesmos. Contamos com a colaboração de todas as famílias nessa importante etapa de modernização dos nossos processos, sempre com o compromisso de proporcionar um ambiente cada vez mais seguro para nossos alunos.
+---
+DATA: 07/07/2026
 TITULO: 🎉COLÔNIA DE FÉRIAS - ÚLTIMAS VAGAS🎉
 AUTOR: Escola
 CATEGORIA: atividade
