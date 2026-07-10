@@ -1,5 +1,16 @@
 ---
 DATA: 2026-07-10
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA | Na aula de hoje, avançamos na leitura do livro "Navegando pelo Dicionário" até a página 15. Seguimos explorando a estrutura dos verbetes e conversamos sobre as características das siglas e abreviações que frequentemente encontramos ao usar o dicionário no nosso dia a dia. Para consolidar esses conceitos na prática, a turma realizou duas páginas de atividades com foco nos desafios propostos no livro e na pesquisa de palavras. Os alunos exercitaram a organização por ordem alfabética, a busca eficiente de termos e aprenderam a identificar e classificar as diferentes classes gramaticais (como substantivos, verbos e adjetivos) indicadas no próprio dicionário. Foi um momento importante de fixar os conteúdos. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a aula de Educação Física.
+MATERIA: ⚽ Aula de Educação Física com Mister Paulo | Aula de Educação Física com Mister Paulo. 🚀 Saída Desejamos um ótimo dia a todos.
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: ✏️ PLA | Na aula de hoje, iniciamos a leitura do livro "Navegando pelo Dicionário", explorando os conceitos apresentados até a página 9. Ao longo da leitura, os alunos conheceram a importância do uso do dicionário no nosso dia a dia e aprenderam o que é um verbete. A turma também aprendeu as principais abreviações que aparecem nos verbetes, além de observar como o dicionário indica a divisão silábica e traz o destaque da sílaba tônica de cada palavra. Para finalizar a aula estudamos sobre as palavras homônimas (aquelas que possuem a mesma pronúncia ou escrita, mas com significados completamente diferentes). Os alunos criaram exemplos de frases utilizando a mesma palavra em contextos diferentes.
+MATERIA: ⚽ Aula de Música com a Miss Michelle | Aula de Música com a Miss Michelle. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a aula de Educação Física.
+MATERIA: ⚽ Aula de Educação Física com Mister Paulo | Aula de Educação Física com Mister Paulo. 🚀 Saída Desejamos um ótimo dia a todos.
+---
+DATA: 2026-07-10
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
 MATERIA: ✏️ ELA | Começamos o dia com o Buddy Reading, em que os alunos realizaram uma leitura independente. Em seguida, finalizamos os centros de aprendizagem. Na aula de hoje, realizamos a Parte 6 do Reading & Writing de Cambridge. Os alunos analisaram uma imagem, responderam às perguntas propostas e, em seguida, produziram duas frases relacionadas à cena observada. Ao final, fizemos a correção coletiva. A atividade segue para casa na pasta para que as famílias possam acompanhar o desempenho dos estudantes.
