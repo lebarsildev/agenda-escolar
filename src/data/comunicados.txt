@@ -1,5 +1,11 @@
 ---
 DATA: 03/08/2026
+TITULO: Newsletter Agosto
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: Prezados responsáveis, segue nossa newsletter de agosto com as principais informações sobre os acontecimentos do mês. Newsletter agosto Link
+---
+DATA: 03/08/2026
 TITULO: Cardápio
 AUTOR: Miss Jéssica
 CATEGORIA: aviso
