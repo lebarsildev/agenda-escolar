@@ -1,4 +1,12 @@
 ---
+DATA: 2026-07-30
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: ⚽ Aula de Educação Física com Mister Paulo | Aula de Educação Física com Mister Paulo. 🚀 Saída Desejamos um ótimo dia a todos.
+MATERIA: ✏️ ELA | Começamos o dia com o Buddy Reading, momento em que os alunos realizaram uma leitura independente. Hoje, trabalhamos com o gênero textual personal recount (relato pessoal). Os alunos aprenderam que um personal recount é o relato de um evento que aconteceu com o próprio autor ou de algo que ele presenciou. Em seguida, realizamos a atividade BLM 12, na qual os alunos começaram a planejar seu próprio personal recount. Nessa atividade, eles precisaram escolher o título, definir o cenário (onde e quando aconteceu e quem estava presente) e organizar os acontecimentos da narrativa: o que aconteceu primeiro, depois, em seguida e, por fim, como a história terminou.
+MATERIA: ✏️ Science | Na aula de hoje, os alunos aprenderam que alguns materiais podem ser classificados como transparentes, translúcidos ou opacos. Aprendemos que, nos materiais transparentes, a luz atravessa completamente e não é bloqueada. Nos materiais translúcidos, a luz atravessa parcialmente, enquanto nos materiais opacos, a luz é bloqueada e não consegue atravessar o material. Em seguida, realizamos um experimento utilizando diferentes materiais, como plástico, copo com água, estojo, garrafa de água, régua, sacola plástica e tampa de plástico. Os alunos observaram cada material e o classificaram como transparente, translúcido ou opaco. Depois, aprendemos o que é uma sombra, que é uma área escura formada quando um objeto bloqueia a passagem da luz. Também conversamos sobre os shows de fantoches de sombra, uma forma de entretenimento muito popular antigamente, em que personagens eram movimentados diante de uma fonte de luz para criar sombras projetadas em uma tela. Para finalizar, realizamos as páginas 66, 67 e 68 do livro. Com carinho,
+---
 DATA: 2026-07-31
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
