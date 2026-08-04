@@ -1,5 +1,11 @@
 ---
 DATA: 03/08/2026
+TITULO: Passeio Escolar -Segundo Semestre
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: Passando para deixar um Save the Date muito especial: Teremos o nosso próximo passeio escolar! Todas as informações detalhadas estão em anexo. Fiquem atentos, pois em breve enviaremos mais orientações. Contamos com a participação de todos para mais um momento inesquecível dos nossos little Bears! WhatsApp Image 2026-08-03 at 17.11.50 Image (69.5 KB)
+---
+DATA: 03/08/2026
 TITULO: Atividade para casa – Leitura na Árvore
 AUTOR: Escola
 CATEGORIA: tarefa
