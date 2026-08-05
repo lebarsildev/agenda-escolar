@@ -1,4 +1,10 @@
 ---
+DATA: 04/08/2026
+TITULO: Knowledge Fair 2026
+AUTOR: Miss Jéssica
+CATEGORIA: atividade
+CONTEUDO: É com muita alegria que convidamos vocês para a nossa Knowledge Fair, a tradicional Feira do Conhecimento da Maple Bear Valqueire! Ao longo das últimas semanas, nossos alunos têm pesquisado, explorado, criado, experimentado e construído conhecimentos com muito entusiasmo. Agora chegou o momento de compartilhar todo esse aprendizado com as pessoas mais importantes de suas vidas: suas famílias! Será uma manhã especial, repleta de descobertas, apresentações e experiências preparadas com muito carinho pelas crianças e por nossa equipe pedagógica. Mais do que uma exposição de trabalhos, a Knowledge Fair é uma oportunidade para celebrar a curiosidade, a criatividade, a autonomia e o protagonismo dos nossos estudantes. Nossa Knowledge Fair será aberta para toda a família, por isso convidamos pais, mães, avós, irmãos, tios e demais familiares para prestigiarem esse momento tão especial e conhecerem de perto tudo o que nossos alunos vêm desenvolvendo. 🗓️ Data: 22 de agosto(Sábado) ⏰ Horário: das 9h às 12h (Cada aluno poderá comparecer no horário de sua preferência, entre 9h e 12h, junto com sua família) Contamos com a presença de todos para tornar esse dia ainda mais especial. Será uma grande alegria receber cada família e celebrar, juntos, as conquistas e o aprendizado de nossas crianças. Esperamos vocês para viver essa experiência conosco!
+---
 DATA: 03/08/2026
 TITULO: Passeio Escolar -Segundo Semestre
 AUTOR: Miss Jéssica
