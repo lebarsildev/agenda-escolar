@@ -1,5 +1,11 @@
 ---
 DATA: 05/08/2026
+TITULO: AV2 – HISTÓRIA | KNOWLEDGE FAIR
+AUTOR: Escola
+CATEGORIA: avaliacao
+CONTEUDO: Dando continuidade às atividades da nossa Knowledge Fair – Year 4, iniciaremos agora as propostas avaliativas de História, que também irão compor a nota da AV2. As atividades referentes à AV2 serão realizadas em grupos, durante as aulas, com acompanhamento e mediação da professora. Embora as produções sejam coletivas, a avaliação será individual. Durante todo o processo, observaremos a participação, as habilidades e os conhecimentos demonstrados por cada aluno, de acordo com os critérios específicos da disciplina. Como será a atividade? Os alunos serão organizados em quatro grupos, e cada grupo pesquisará uma etapa da evolução das formas de pagamento: Escambo; 🪙💵Moedas e cédulas; Cartão bancário; PIX. Após a pesquisa, os grupos responderão às atividades propostas, selecionarão as informações mais importantes e confeccionarão os materiais para a estação "Do Escambo ao PIX" da nossa Feira do Conhecimento. Em seguida, os alunos participarão da organização da exposição e da preparação de uma atividade interativa, na qual conduzirão os responsáveis por uma viagem no tempo, demonstrando como a evolução dos meios de comunicação contribuiu para transformar as formas de pagamento e a economia ao longo da História. Critérios avaliativos Durante todo o processo, serão observados: compreensão da evolução das formas de pagamento ao longo da História; capacidade de relacionar corretamente textos, imagens, acontecimentos históricos e os avanços dos meios de comunicação; seleção das informações relevantes para a construção da estação "Do Escambo ao PIX"; clareza e organização dos registros e das explicações apresentadas; participação, colaboração e responsabilidade no trabalho coletivo; autonomia, organização e gestão do tempo durante o desenvolvimento das atividades. Ao final dessa proposta, espera-se que os alunos compreendam que a evolução dos meios de comunicação impulsionou importantes mudanças na economia, tornando o comércio e as formas de pagamento cada vez mais rápidos,
+---
+DATA: 05/08/2026
 TITULO: Projeto Super Autor
 AUTOR: Coordenação Pedagógica
 CATEGORIA: atividade
