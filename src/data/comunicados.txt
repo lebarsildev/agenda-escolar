@@ -1,4 +1,10 @@
 ---
+DATA: 05/08/2026
+TITULO: Projeto Super Autor
+AUTOR: Coordenação Pedagógica
+CATEGORIA: atividade
+CONTEUDO: É com muita alegria que anunciamos o início de um projeto muito especial em nossa escola: SuperAutor, uma iniciativa desenvolvida em parceria com a Árvore de Livros, que convida nossos alunos a vivenciarem a experiência de se tornarem verdadeiros autores. Ao longo do projeto, cada criança escreverá e ilustrará seu próprio livro na escola, com o apoio e a mediação dos professores. Será uma oportunidade incrível para desenvolver a criatividade, a imaginação, a linguagem e o protagonismo dos nossos estudantes. Para tornar essa experiência ainda mais significativa, contamos também com a participação das famílias. Entre hoje e amanhã, a equipe da SuperAutor entrará em contato com vocês pelo WhatsApp para orientar sobre uma etapa muito importante do projeto: a escrita da biografia do aluno, que será realizada pelos responsáveis por meio da plataforma. Pedimos, por gentileza, que fiquem atentos às mensagens da SuperAutor e realizem essa etapa dentro do prazo informado. A biografia fará parte do livro e contribuirá para tornar essa lembrança ainda mais especial. Temos certeza de que este será um projeto inesquecível para nossos pequenos autores e suas famílias! Equipe Coordenação Pedagógica
+---
 DATA: 04/08/2026
 TITULO: Knowledge Fair 2026
 AUTOR: Miss Jéssica
