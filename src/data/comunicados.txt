@@ -1,5 +1,11 @@
 ---
 DATA: 05/08/2026
+TITULO: Atividade para casa: PLA
+AUTOR: Escola
+CATEGORIA: tarefa
+CONTEUDO: Gostaríamos de compartilhar o próximo dever de casa de Língua Portuguesa. Como forma de consolidar os conteúdos trabalhados em sala de aula, os alunos realizarão uma atividade de fixação e prática sobre palavras derivadas. O objetivo é ampliar a compreensão do processo de formação de palavras, identificando palavras derivadas e reconhecendo a relação que elas estabelecem com as palavras primitivas, fortalecendo o vocabulário e a consciência linguística. Para a realização da atividade, cada aluno recebeu: uma cópia da folha de atividade Aula 78 – Material 1. 📅 Data de entrega: 07/08 (sexta-feira). Agradecemos, como sempre, o apoio e a parceria das famílias, incentivando as crianças a revisarem o conteúdo estudado e a realizarem a atividade com autonomia, atenção e dedicação. Miss Thayná. Aula 78 Material 1 PDF (102.7 KB)
+---
+DATA: 05/08/2026
 TITULO: AV2 – HISTÓRIA | KNOWLEDGE FAIR
 AUTOR: Escola
 CATEGORIA: avaliacao
