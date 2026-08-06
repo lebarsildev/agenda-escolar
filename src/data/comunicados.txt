@@ -1,4 +1,10 @@
 ---
+DATA: 06/08/2026
+TITULO: Pesquisa de Ciências
+AUTOR: Ms. Mari
+CATEGORIA: aviso
+CONTEUDO: Queridos responsáveis, Estamos produzindo os materiais para a nossa Knowledge Fair, cujo tema será Light. As crianças já receberam seus temas e irão confeccionar os cartazes em sala de aula. Para isso, precisaremos da colaboração das famílias: pedimos que cada aluno realize uma breve pesquisa em inglês sobre o tema que recebeu (o tema foi anotado na agenda). Solicitamos que a pesquisa seja impressa e enviada até o dia 10/08 (segunda-feira). Ela será utilizada como material de apoio para que os grupos possam elaborar os textos dos cartazes durante as aulas. Os temas são: What is Light? / Natural Light × Artificial Light How Does Light Travel? Opaque, Transparent and Translucent Materials Shadow Puppet Show Agradecemos, desde já, a parceria e o apoio de sempre! Miss Mariana e Mister Igor
+---
 DATA: 05/08/2026
 TITULO: Atividade para casa: PLA
 AUTOR: Escola
