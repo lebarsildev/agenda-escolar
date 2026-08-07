@@ -1,4 +1,15 @@
 ---
+DATA: 2026-08-07
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Na aula de hoje, iniciamos a confecção do craft para o Dia dos Pais. Os alunos começaram a produzir a lembrança com muito carinho, colocando em prática a criatividade e o capricho durante a atividade.
+MATERIA: 🔢 Math | Na aula de hoje, revisamos os conceitos de multiplicação e divisão. Os alunos realizaram uma atividade de revisão e registraram os exercícios no caderno de Matemática, reforçando as estratégias trabalhadas em sala. Com carinho,
+MATERIA: ✏️ ELA | Na aula de hoje, aprendemos sobre imagery (linguagem imagética), uma figura de linguagem que utiliza palavras para criar imagens na mente do leitor, despertando os sentidos e tornando a descrição mais rica e envolvente. Em seguida, os alunos realizaram um SLM no qual analisaram diferentes frases e as classificaram como literal ou imagery, identificando quando a linguagem era objetiva ou figurada.
+MATERIA: 🔬 Science | Na aula de hoje, revisamos o conceito de sombra e conversamos sobre o shadow puppet (teatro de sombras), explorando como as sombras podem ser utilizadas para criar personagens e contar histórias. Em seguida, os alunos iniciaram a confecção das marionetes de papel que serão utilizadas na Knowledge Fair. Com carinho,
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA | Na aula de hoje, demos início a uma nova aventura literária! Começamos a leitura do livro "Ritinha Danadinha" e apreciamos a sua primeira história, que retrata situações divertidas do cotidiano infantil, mostrando como as crianças descobrem o mundo, aprendem com as experiências e desenvolvem novas habilidades. Na sequência, realizamos uma oficina gramatical focada nos substantivos e adjetivos simples e compostos. Os alunos colaram as definições e registraram exemplos no caderno de descobertas, exercitando a fixação dos conceitos e a escrita.
+MATERIA: 🌍 Geografia | Avançamos em nossas investigações sobre os setores da economia, direcionando o foco para o setor secundário (indústrias) e o setor terciário (comércio e serviços). Os alunos aprenderam a identificar e a diferenciar as principais atividades econômicas que caracterizam o espaço urbano. Para sintetizar e organizar essas ideias, construímos um mapa mental coletivo no quadro e realizamos o preenchimento passo a passo, enquanto cada estudante registrou seu próprio mapa individual no material, fortalecendo a sistematização do conteúdo. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a saída. 🚀 Saída Desejamos uma ótima semana a todos!
+---
 DATA: 2026-08-06
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
