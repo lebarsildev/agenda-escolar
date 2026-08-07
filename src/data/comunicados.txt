@@ -1,5 +1,11 @@
 ---
 DATA: 07/08/2026
+TITULO: COMUNICADO IMPORTANTE - ALERTA DE CLIMA
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: Prezadas famílias, Diante das atualizações na previsão de vendaval comunicadas pelo Prefeito e considerando a possibilidade de alteração das condições meteorológicas nas próximas horas, iniciaremos, de forma preventiva, a liberação antecipada dos alunos. Estamos realizando o acompanhamento das alterações climáticas em tempo real e iremos agir preventivamente. Pedimos, portanto, que os pais e responsáveis se desloquem até a escola para buscar as crianças até às 14:30h, para que possamos realizar a saída de maneira organizada e segura. Reforçamos que não há motivo para pânico ou deslocamentos em velocidade ou de forma insegura. As famílias que, por qualquer razão, demorarem um pouco mais para chegar podem ficar tranquilas: os alunos permanecerão acolhidos, supervisionados e em segurança na escola até a chegada de seus responsáveis. A medida é exclusivamente preventiva e tem como prioridade a segurança de toda a nossa comunidade escolar. Agradecemos a compreensão, a tranquilidade e a colaboração de todos.
+---
+DATA: 07/08/2026
 TITULO: COMUNICADO IMPORTANTE – ALERTA DE VENTANIA
 AUTOR: Escola
 CATEGORIA: aviso
