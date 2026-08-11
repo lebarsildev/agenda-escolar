@@ -1,4 +1,10 @@
 ---
+DATA: 11/08/2026
+TITULO: Cardápio
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: Segue o cardápio da semana. Jessica do Nascimento_20260811_1612_00.jpg Image (292.1 KB)
+---
 DATA: 10/08/2026
 TITULO: AV2 – GEOGRAFIA | KNOWLEDGE FAIR
 AUTOR: Escola
