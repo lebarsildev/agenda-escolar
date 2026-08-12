@@ -1,5 +1,17 @@
 ---
 DATA: 2026-08-11
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Na aula de hoje, revisamos as características dos contos populares (folk tales) e relembramos os principais acontecimentos da história The Dancing Turtles. Em seguida, os alunos realizaram, de forma individual, o SLM 5: Identifying the Six Elements of a Folktale, no qual identificaram os seis elementos de um conto popular com base na história The Dancing Turtles, aplicando os conceitos trabalhados em sala.
+MATERIA: ✏️ Math | Na aula de hoje, revisamos o conceito de tabela e sua utilização na organização de dados. Em seguida, os alunos realizaram a página 77 do Student Workbook e fizemos a correção coletiva, reforçando a leitura e a interpretação das informações apresentadas. Com carinho,
+MATERIA: ✏️ ELA | Na aula de hoje, iniciamos a Unidade 5: Folk Tales (Contos Populares). Conversamos sobre esse gênero textual, explicando que são histórias tradicionais transmitidas oralmente de geração em geração, fazendo parte da cultura de diferentes povos. Em seguida, realizamos a leitura do livro The Dancing Turtles e promovemos uma discussão sobre a história, incentivando os alunos a compartilharem suas ideias e interpretações.
+MATERIA: ✏️ Math | Na aula de hoje, iniciamos a Unidade 5: Data Management e aprendemos a ler e interpretar uma tabela. Para contextualizar o conteúdo, construímos coletivamente uma tabela classificando os alunos de acordo com o uniforme utilizado (calça, bermuda, vestido, blusa branca, blusa vermelha e blusa preta) e registramos a quantidade de alunos em cada categoria. Em seguida, realizamos a página 76 do Student Workbook e fizemos a correção coletiva.
+MATERIA: ✏️ Arts | Na aula de hoje, os alunos utilizaram as pesquisas realizadas para iniciar o planejamento dos cartazes da Knowledge Fair. Em grupos, começaram a organizar as informações, elaborar os textos e planejar as ilustrações que serão utilizadas na apresentação do projeto. Com carinho,
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: ✏️ PLA (Língua Portuguesa) | Reservamos o início da nossa aula para dar continuidade aos preparativos do nosso próximo Open House! Após, realizamos uma oficina prática sobre palavras derivadas, investigando a função dos prefixos e sufixos na criação de novas palavras e significados. Finalizamos a oficina com exercícios de revisão do material SLM, registrando e fixando o aprendizado. Em seguida, retomamos a leitura do livro "Ritinha Danadinha". No capítulo de hoje, a personagem nos levou a refletir sobre como a troca de pequenas letras dentro de uma palavra pode transformar completamente o seu significado. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a aula de Educação Física.
+MATERIA: ⚽ Aula de Educação Física com Mister Paulo | Aula de Educação Física com Mister Paulo. 🚀 Saída Desejamos um ótimo dia a todos.
+---
+DATA: 2026-08-11
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
 MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
