@@ -1,5 +1,11 @@
 ---
 DATA: 11/08/2026
+TITULO: Ausência Ms Paty
+AUTOR: Coordenação Pedagógica
+CATEGORIA: atividade
+CONTEUDO: Gostaríamos de informar que a Ms Patrícia, professora assistente do Year 4, precisará permanecer afastada por 5 dias, por orientação médica. Durante esse período, a rotina da turma seguirá normalmente, com a condução das aulas pela professora titular e acompanhamento da Coordenação, garantindo a continuidade do planejamento e das atividades previstas. Agradecemos a compreensão e desejamos à Ms Patrícia uma boa recuperação. Equipe Coordenação Pedagógica
+---
+DATA: 11/08/2026
 TITULO: Cardápio
 AUTOR: Miss Jéssica
 CATEGORIA: aviso
