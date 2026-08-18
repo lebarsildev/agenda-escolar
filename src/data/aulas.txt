@@ -1,4 +1,14 @@
 ---
+DATA: 2026-08-17
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ Arts | Na aula de hoje, revisamos o conceito de ênfase, identificando o ponto mais importante de uma composição artística. Também retomamos os conceitos de variação entre claro e escuro e toque de cor, compreendendo como um pequeno destaque de cor pode chamar a atenção para o ponto focal da obra. Em seguida, os alunos realizaram o planejamento da atividade avaliativa, definindo o tema que será o foco principal da composição e elaborando um rascunho do projeto que será desenvolvido na próxima aula. Com carinho,
+MATERIA: ✏️ ELA | Na aula de hoje, os alunos continuaram a produção dos cartazes para a Knowledge Fair. Em grupos, deram sequência à elaboração dos textos e das ilustrações, utilizando as pesquisas realizadas e o planejamento desenvolvido em sala para organizar as informações de forma clara e criativa.
+MATERIA: ✏️ Math | Na aula de hoje, aprendemos sobre o gráfico de pizza (circle graph), um tipo de gráfico utilizado para representar partes de um todo, mostrando a proporção de cada categoria em relação ao total. Em seguida, realizamos as páginas 79, 80 e 81 do Student Workbook para consolidar esse aprendizado e fizemos a correção coletiva. Com carinho,
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA (Língua Portuguesa) | Na aula de hoje, continuamos nossas descobertas sobre as regularidades ortográficas no uso dos sufixos, retomando as observações e conclusões construídas na oficina realizada anteriormente. Os alunos registraram no caderno as principais descobertas sobre o conteúdo e, em seguida, realizaram um exercício de fixação, aplicando os conhecimentos adquiridos na formação e escrita de palavras derivadas.
+MATERIA: ✏️ Geografia | Hoje, aprofundamos nossos estudos sobre consumo e consumismo a partir da leitura do livro Comprei isso, deu naquilo. Retomamos a obra com a turma e conversamos sobre as situações apresentadas, refletindo sobre como o consumo excessivo pode contribuir para o esgotamento dos recursos naturais e causar impactos ao meio ambiente. Em seguida, os alunos se organizaram em grupos e cada grupo recebeu um trecho do livro para leitura, análise e discussão. A partir das reflexões sobre as diferenças entre consumo e consumismo, iniciaram a produção do painel para a Knowledge Fair, relacionando os conhecimentos construídos em sala à proposta que será apresentada na feira. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a saída. 🚀 Saída Desejo um ótimo dia a todos!
+---
 DATA: 2026-08-14
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
