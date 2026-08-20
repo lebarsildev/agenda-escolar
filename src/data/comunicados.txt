@@ -1,4 +1,10 @@
 ---
+DATA: 20/08/2026
+TITULO: Lembrete - Knowledge fair
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: Nossa Knowledge Fair está chegando e queremos fazer um convite especial para que vocês venham prestigiar tudo o que nossos alunos estão preparando com tanto carinho, dedicação e entusiasmo! 🔎 Dia 22 de agosto (sábado) ⏰ Das 9h às 12h 👨‍👩‍👧‍👦 Aberta para toda a família! A Knowledge Fair é a nossa Feira de Conhecimento, um momento em que as crianças poderão compartilhar suas descobertas, aprendizados, pesquisas e tudo aquilo que construíram ao longo desse projeto. Será uma manhã muito especial para celebrar o conhecimento e, principalmente, valorizar o protagonismo dos nossos alunos! 📌 Importante: cada aluno poderá chegar no horário que desejar, dentro do período das 9h às 12h, de acordo com a disponibilidade da família. Esperamos vocês para viver esse momento junto com nossos Little Bears!
+---
 DATA: 18/08/2026
 TITULO: Reunião de transição
 AUTOR: Miss Jéssica
