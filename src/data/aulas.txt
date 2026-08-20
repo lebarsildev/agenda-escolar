@@ -1,4 +1,15 @@
 ---
+DATA: 2026-08-20
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 🌍 Geografia | Na aula de hoje, os alunos realizaram atividades de revisão para a Avaliação Trimestral de Geografia, retomando e consolidando os principais conteúdos trabalhados ao longo do trimestre. Durante as atividades, revisamos conceitos importantes, realizamos exercícios de fixação e esclarecemos dúvidas, contribuindo para a preparação dos alunos para a avaliação.
+MATERIA: ✏️ História | Demos continuidade às atividades da estação “Do Escambo ao PIX”, que fará parte da nossa Knowledge Fair. Os alunos avançaram na organização e produção dos materiais, retomando as diferentes formas de pagamento ao longo da História e refletindo sobre como a evolução dos meios de comunicação e da tecnologia contribuiu para transformar as relações comerciais e a circulação de dinheiro ao longo do tempo. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a aula de Educação Física.
+MATERIA: ⚽ Educação Física | aula com Mister Paulo. Saída Desejamos um ótimo dia a todos!
+MATERIA: ✏️ Math | Na aula de hoje, os alunos realizaram uma pesquisa com a turma do Year 3 para coletar dados relacionados ao tema Light. Cada grupo recebeu uma pergunta diferente e entrevistou os colegas para registrar as respostas. Com os dados coletados, cada grupo irá construir um tipo de gráfico diferente (tabela, gráfico de pizza, gráfico pictográfico ou gráfico de barras), aprendendo diferentes formas de organizar e representar informações.
+MATERIA: ✏️ Science | Na aula de hoje, os alunos realizaram a revisão de Science, retomando os principais conceitos estudados sobre a luz, como fontes de luz naturais e artificiais, materiais transparentes, translúcidos e opacos, reflexão da luz e formação das sombras. Em seguida, deram continuidade à produção dos materiais para a Knowledge Fair, avançando na elaboração dos cartazes. Com carinho,
+MATERIA: ✏️ Arts | Na aula de hoje, revisamos o conceito de ênfase, identificando o ponto mais importante de uma composição artística. Também retomamos os conceitos de variação entre claro e escuro e toque de cor, compreendendo como um pequeno destaque de cor pode chamar a atenção para o ponto focal da obra. Em seguida, os alunos realizaram o planejamento da atividade avaliativa, definindo o tema que será o foco principal da composição e elaborando um rascunho do projeto que será desenvolvido na próxima aula. Com carinho,
+---
 DATA: 2026-08-19
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
