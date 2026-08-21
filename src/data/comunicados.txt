@@ -1,4 +1,10 @@
 ---
+DATA: 21/08/2026
+TITULO: REMATRÍCULA 2027
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: Prezadas, famílias! É com muita alegria que estamos iniciando o período de Rematrícula para 2027 na Maple Bear Valqueire! Este é um momento muito importante para garantirmos a continuidade da jornada dos nossos alunos e planejarmos com carinho mais um ano de muito aprendizado, descobertas e desenvolvimento. Preparamos uma circular com todas as informações importantes sobre o processo de rematrícula, prazos, condições e novidades para 2027. 📄 Confira a circular completa abaixo e, em caso de dúvidas, nossa equipe estará à disposição para ajudar. Contamos com vocês para, juntos, continuarmos construindo a trajetória de cada aluno na Maple Bear! Circular de Rematrícula 2027 Link passo a passo para Rematricula 2027 Video (375 MB)
+---
 DATA: 20/08/2026
 TITULO: Lembrete - Knowledge fair
 AUTOR: Miss Jéssica
