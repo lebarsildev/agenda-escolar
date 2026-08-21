@@ -1,4 +1,15 @@
 ---
+DATA: 2026-08-18
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Na aula de hoje, os alunos realizaram a revisão de ELA de forma independente. Em seguida, fizemos a correção coletiva, revisando os conteúdos que serão avaliados. A atividade segue na mochila para que os alunos possam utilizá-la como material de estudo em casa.
+MATERIA: 🔢 Math | Na aula de hoje, aprendemos a construir um gráfico pictográfico (pictograph), um tipo de gráfico que utiliza figuras ou símbolos para representar quantidades. Em seguida, realizamos as páginas 82 e 83 do Student Workbook e fizemos a correção coletiva para consolidar esse aprendizado. Com carinho,
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: ✏️ PLA (Língua Portuguesa) | Na aula de hoje, iniciamos com uma oficina sobre o uso dos sufixos -ÊS/-ESA e -EZ/-EZA. A partir da análise de diferentes exemplos, os alunos identificaram as regularidades e compreenderam quando utilizar cada um deles na formação das palavras. Em seguida, registraram as principais descobertas no Caderno de Descobertas e realizaram uma atividade de fixação para aplicar os conhecimentos construídos. 🚨 Fire Drill: Participamos do simulado de evacuação de emergência em caso de incêndio, seguindo as orientações e os procedimentos de segurança estabelecidos pela escola.
+MATERIA: ✏️ Knowledge Fair | Após o Fire Drill, os alunos deram continuidade à produção dos cartazes para a Knowledge Fair. Organizados em grupos, avançaram na elaboração dos textos e das ilustrações que farão parte das produções apresentadas na feira. 💙 Letramento Emocional: Para finalizar, retomamos a leitura do livro Raul da Ferrugem Azul com a leitura do capítulo 5. A partir dos acontecimentos da história, conversamos sobre os sentimentos e as situações vivenciadas pelo personagem. Em seguida, cada aluno foi convidado a se colocar no lugar de Raul e refletir sobre a pergunta: “Que situação poderia causar uma ‘ferrugem azul’ em você?” Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a saída. Saída Desejo um ótimo final de semana a todos!
+MATERIA: ✏️ ELA | Na aula de hoje, os alunos continuaram a produção dos cartazes para a Knowledge Fair. Em grupos, deram sequência à elaboração dos textos e das ilustrações, utilizando as pesquisas realizadas e o planejamento desenvolvido em sala para organizar as informações de forma clara e criativa.
+MATERIA: 🔢 Math | Na aula de hoje, aprendemos sobre dois tipos de gráficos: o gráfico de barras (bar graph) e o gráfico de figuras (pictograph). Os alunos aprenderam a ler e interpretar os mesmos dados representados nesses dois tipos de gráficos, comparando as diferentes formas de organização das informações. Em seguida, iniciamos a página 78 do Student Workbook para consolidar esse aprendizado. Com carinho,
+---
 DATA: 2026-08-20
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
