@@ -1,5 +1,11 @@
 ---
 DATA: 25/08/2026
+TITULO: Conteúdo para a avaliação de Geografia - AV3
+AUTOR: Escola
+CATEGORIA: avaliacao
+CONTEUDO: Prezadas famílias, Nossa avaliação AV3 de Geografia está chegando! Preparamos este roteiro para ajudar nossos Big Bears a revisarem os principais conteúdos trabalhados em sala ao longo do trimestre. Nesta avaliação, o foco será a compreensão da organização do espaço geográfico, das relações entre sociedade e natureza e das atividades econômicas desenvolvidas no campo e na cidade. O que estudar? Organização espacial: bairro, cidade, estado, região e país. Orientação espacial: Rosa dos Ventos, pontos cardeais e colaterais. Limite e fronteira: compreensão e diferenciação desses conceitos. Territórios e diversidade cultural: importância dos territórios indígenas e quilombolas e reconhecimento da diversidade cultural brasileira. Paisagem e meio ambiente: ações de preservação e degradação ambiental, com atenção à relação entre desmatamento e erosão do solo. Zona rural e zona urbana: características e diferenças entre esses espaços. Setores da economia: características dos setores primário, secundário e terciário. Atividades do setor primário: agricultura, pecuária e extrativismo. Campo e cidade: relação de interdependência entre esses espaços e compreensão das etapas do processo produtivo, relacionando-as aos setores da economia. 📅 Data da avaliação: 03/09 (quinta-feira). Estou à disposição para qualquer dúvida. ❤️ Miss Thayná.
+---
+DATA: 25/08/2026
 TITULO: Conteúdo para a avaliação de Língua Portuguesa - AV3
 AUTOR: Escola
 CATEGORIA: avaliacao
