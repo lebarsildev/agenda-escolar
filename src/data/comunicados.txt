@@ -1,5 +1,17 @@
 ---
 DATA: 25/08/2026
+TITULO: Dever de casa de ELA
+AUTOR: Ms. Mari
+CATEGORIA: tarefa
+CONTEUDO: Segue o dever de casa de ELA, que também foi anotado pelos alunos na agenda. No SLM enviado para casa, o aluno deverá escolher 5 verbos irregulares e criar uma frase no passado com cada um deles. 📅 Prazo para entrega: segunda-feira, 31 de agosto. Qualquer dúvida, estou à disposição! 💛 Miss Mari
+---
+DATA: 25/08/2026
+TITULO: 📢 Novidade importante na saída dos alunos!
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: Prezadas famílias, Gostaríamos de informar que nosso sistema de controle de saída dos alunos por reconhecimento facial do responsável já está em funcionamento. O novo sistema foi implantado para tornar o processo de saída mais seguro, ágil e organizado, garantindo maior controle sobre as pessoas autorizadas a retirar nossos alunos. Por isso, reforçamos a importância de que cada família realize o cadastro de todos os responsáveis e/ou pessoas autorizadas que possam buscar o aluno na escola através do e-mail que foi enviado. É fundamental que todos estejam devidamente cadastrados, pois o reconhecimento facial será utilizado para a liberação do aluno no momento da saída. Aproveitamos para informar que não será mais possível receber a criança sem passar antes pelo leitor facial. Caso tenha dificuldade para realizar o cadastro ou não receba o e-mail, entre em contato com a Carla pela toddle ou pelo whatsapp da secretaria. Agradecemos a parceria e a colaboração de todos para que possamos tornar nosso processo de saída cada vez mais seguro para nossas crianças.
+---
+DATA: 25/08/2026
 TITULO: Conteúdo para a avaliação de História - AV3
 AUTOR: Escola
 CATEGORIA: avaliacao
