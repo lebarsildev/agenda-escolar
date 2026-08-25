@@ -1,4 +1,16 @@
 ---
+DATA: 2026-08-25
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: ✏️ PLA (Língua Portuguesa) | Na aula de hoje, trabalhamos o conteúdo de palavras homônimas e seus diferentes significados, relacionando-os aos sentidos literal e figurado por meio da leitura e análise do poema Contas. Os alunos observaram como uma mesma palavra pode assumir diferentes sentidos de acordo com o contexto em que é utilizada e, em seguida, realizaram uma atividade de interpretação e fixação sobre o conteúdo. Aproveitamos a proposta para também revisar os conteúdos de formação de palavras derivadas e verbetes de dicionário, retomando conceitos importantes e aplicando-os nas atividades realizadas em sala.
+MATERIA: ⚽ Aula de Música com a Miss Michelle | Aula de Música com a Miss Michelle. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a aula de Educação Física.
+MATERIA: ⚽ Aula de Educação Física com Mister Paulo | Aula de Educação Física com Mister Paulo. Saída Desejamos um ótimo dia a todos.
+MATERIA: ✏️ ELA | Na aula de hoje, aprendemos sobre os dígrafos (digraphs), que acontecem quando duas letras juntas produzem um único som. Os alunos realizaram o SLM de forma independente, completando frases com palavras que continham dígrafos. Em seguida, classificaram essas palavras de acordo com os dígrafos sh, wh, ch, ph e th.
+MATERIA: 🔢 Math | Na aula de hoje, realizamos a correção coletiva da revisão de Matemática, retomando os conteúdos estudados e esclarecendo as dúvidas dos alunos. Com carinho,
+MATERIA: ✏️ Math | Na aula de hoje, os alunos finalizaram os cartazes dos gráficos que começaram a construir na aula de ontem, utilizando os dados coletados durante a pesquisa realizada com a turma do Year 3. Cada grupo organizou as informações em um tipo de gráfico diferente (tabela, gráfico de pizza, gráfico pictográfico ou gráfico de barras), consolidando a compreensão sobre diferentes formas de representar e interpretar dados.
+MATERIA: ✏️ ELA | Na aula de hoje, os alunos deram continuidade à produção dos materiais para a Knowledge Fair. Em grupos, avançaram na elaboração dos cartazes, revisando os textos e aprimorando as ilustrações para comunicar as informações de forma clara, organizada e criativa. Com carinho,
+---
 DATA: 2026-08-18
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
