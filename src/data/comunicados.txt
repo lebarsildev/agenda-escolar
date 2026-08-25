@@ -1,5 +1,11 @@
 ---
 DATA: 25/08/2026
+TITULO: Conteúdo para a avaliação de História - AV3
+AUTOR: Escola
+CATEGORIA: avaliacao
+CONTEUDO: Prezadas famílias, Nossa avaliação AV3 de História está chegando! Preparamos este roteiro para ajudar nossos Big Bears a revisarem os principais conteúdos trabalhados em sala ao longo do trimestre. Nesta avaliação, o foco será a compreensão das Grandes Navegações, da chegada dos portugueses ao Brasil, das atividades econômicas desenvolvidas no período e de seus impactos sobre os povos indígenas e o território. O que estudar? Grandes Navegações: produtos valorizados pelos europeus, busca por novas rotas comerciais e principais perigos e dificuldades das viagens marítimas. Chegada dos portugueses à América: produtos encontrados no Brasil e introduzidos pelos portugueses e impactos desse contato sobre os povos indígenas. Escambo e feitorias: funcionamento das trocas entre indígenas e portugueses e importância das feitorias durante a exploração do pau-brasil. Exploração do pau-brasil: características da atividade, impactos ambientais e medidas adotadas para controlar sua extração. Produção de cana-de-açúcar: diferenças entre a exploração do pau-brasil e a produção açucareira, funcionamento dos engenhos e utilização do trabalho escravizado indígena e africano. Povos indígenas na atualidade: formas de resistência e preservação das culturas e modos de vida, com destaque para os Avá-Canoeiro e o Parque Indígena do Xingu. 📅 Data da avaliação: 02/09 (quarta-feira). Estou à disposição para qualquer dúvida. ❤️ Miss Thayná.
+---
+DATA: 25/08/2026
 TITULO: Conteúdo para a avaliação de Geografia - AV3
 AUTOR: Escola
 CATEGORIA: avaliacao
