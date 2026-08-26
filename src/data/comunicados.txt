@@ -1,5 +1,11 @@
 ---
 DATA: 26/08/2026
+TITULO: Comunicado
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: Gostaríamos de informar que a Miss Evellyn(Setor financeiro) não faz mais parte da nossa equipe. Neste momento, o Mister Rodrigo estará à frente do setor financeiro, dando continuidade aos atendimentos relacionados à área. Agradecemos a trajetória da Miss Evellyn conosco e desejamos sucesso em sua caminhada
+---
+DATA: 26/08/2026
 TITULO: Link da Reunião de Transição Y4 - Y5
 AUTOR: Coordenação Pedagógica
 CATEGORIA: aviso
