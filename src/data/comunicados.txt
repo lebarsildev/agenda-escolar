@@ -1,4 +1,10 @@
 ---
+DATA: 27/08/2026
+TITULO: Materiais para estudo – Próximas avaliações
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: Materiais para estudo – Próximas avaliações
+---
 DATA: 26/08/2026
 TITULO: Comunicado
 AUTOR: Miss Jéssica
