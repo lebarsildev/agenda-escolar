@@ -1,5 +1,11 @@
 ---
 DATA: 28/08/2026
+TITULO: AV3 de Música – 2º Trimestre
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: AV3 de Música – 2º Trimestre
+---
+DATA: 28/08/2026
 TITULO: Materiais para estudo – Próximas avaliações
 AUTOR: Escola
 CATEGORIA: aviso
