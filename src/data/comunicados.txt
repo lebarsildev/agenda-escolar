@@ -1,4 +1,16 @@
 ---
+DATA: 28/08/2026
+TITULO: Materiais para estudo – Próximas avaliações
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: Materiais para estudo – Próximas avaliações
+---
+DATA: 17/08/2026
+TITULO: Boa tarde,Responsáveis! Em anexo,segue o cardápio desta e da próxima semana. Ótima semana para todos!
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: Boa tarde,Responsáveis! Em anexo,segue o cardápio desta e da próxima semana. Ótima semana para todos!
+---
 DATA: 27/08/2026
 TITULO: Materiais para estudo – Próximas avaliações
 AUTOR: Escola
