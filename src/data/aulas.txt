@@ -1,4 +1,19 @@
 ---
+DATA: 2026-09-01
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📜 História | Na aula de hoje, finalizamos a Sequência Didática do Capítulo 2, retomando a pergunta orientadora: “Como se deram as transformações das práticas econômicas e comerciais durante a ocupação da América pelos portugueses?” Durante a conversa, os alunos retomaram os conhecimentos construídos sobre as trocas comerciais entre portugueses e indígenas, o escambo do pau-brasil e o cultivo da cana-de-açúcar. Comparamos esses diferentes momentos, identificando semelhanças e diferenças nas práticas econômicas e na ocupação do território. Para concluir , os alunos registraram no Mapa de Conclusão os conhecimentos construídos ao longo das aulas.
+MATERIA: ⚽ Aula de Música com a Miss Michelle | Aula de Música com a Miss Michelle. Na aula de hoje, os alunos realizaram a Avaliação de Música. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a aula de Educação Física.
+MATERIA: ⚽ Aula de Educação Física com Mister Paulo | Aula de Educação Física com Mister Paulo. Saída Desejamos um ótimo dia a todos.
+MATERIA: ✏️ ELA | Na aula de hoje, realizamos um SLM no qual os alunos completaram frases utilizando as palavras indicadas no exercício. Em seguida, receberam um novo grupo de palavras e criaram suas próprias frases, colocando em prática o vocabulário trabalhado. Ao final, realizamos a correção coletiva da atividade.
+MATERIA: 🔢 Math | Na aula de hoje, trabalhamos com a unidade de tempo: hora. Os alunos praticaram a leitura e a identificação das horas em relógios analógicos e digitais. Para consolidar o aprendizado, realizamos a página 91 do Student Workbook e, em seguida, fizemos a correção coletiva.
+MATERIA: 🎨 Arts | Na aula de hoje, os alunos realizaram a AV3 de Arts, colocando em prática os conteúdos e conceitos artísticos trabalhados ao longo das aulas. Com carinho,
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: ✏️ PLA (Língua Portuguesa) | Na aula de hoje, demos continuidade às atividades dos Centros de Aprendizagem para a produção do nosso Guia do Bom Uso da Internet. Cada grupo trabalhou com um tema específico e avançou na etapa de planejamento da escrita. Os alunos organizaram as informações pesquisadas em tópicos e desenvolveram explicações para cada um deles, selecionando as ideias mais importantes e estruturando-as de forma clara. Esse planejamento servirá como base para a elaboração do texto expositivo final, contribuindo para uma escrita mais organizada e coerente.
+MATERIA: ✏️ Geografia | Na aula de hoje, os alunos realizaram uma atividade sobre as diferentes atividades econômicas. A partir das situações apresentadas, identificaram onde cada atividade é realizada, a qual setor da economia pertence, sua relação com outras atividades econômicas e os possíveis impactos causados ao meio ambiente. Durante a realização da proposta, retomamos os conceitos necessários e aproveitamos o momento para esclarecer as dúvidas da turma. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a aula de Educação Física.
+MATERIA: ⚽ Aula de Educação Física com Mister Paulo | Aula de Educação Física com Mister Paulo. Saída Desejamos um ótimo dia a todos.
+---
 DATA: 2026-08-28
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
