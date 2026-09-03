@@ -1,5 +1,11 @@
 ---
 DATA: 03/09/2026
+TITULO: Super Autor - Acesso e passo a passo para criar biografia do autor.
+AUTOR: Coordenação Pedagógica
+CATEGORIA: aviso
+CONTEUDO: Segue um recado da Super Autor para as famílias da Maple Bear Valqueire: 📚 ATENÇÃO, FAMÍLIAS! COMO ACESSAR O PORTAL SUPER AUTOR 💙 Queremos reforçar uma informação importante: o acesso dos responsáveis ao portal da Super Autor é diferente do acesso do aluno à Árvore. São plataformas e logins distintos. 😉 Para acessar o portal da Super Autor, siga o passo a passo: 1️⃣ Acesse: superautor.com.br 2️⃣ Clique no botão “Entrar”; 3️⃣ No campo de login, informe o e-mail cadastrado do responsável; 4️⃣ No primeiro acesso, clique em “Esqueci minha senha”; 5️⃣ Você receberá um e-mail para redefinir sua senha; 6️⃣ Crie sua nova senha e pronto! 🎉 ⚠️ Importante: o login do responsável na Super Autor não é o mesmo utilizado pelo aluno na Árvore. Em caso de dúvidas, nossa equipe de Suporte de Pais está à disposição pelo WhatsApp: (21) 99722-3393 ou pelo link: https://api.whatsapp.com/send?l=pt_BR&phone=55021997223393. Em anexo está o passo a passo para criar a biografia do autor. Coordenação Pedagógica Passo a passo responsáveis_Biografia (1) PDF (1.6 MB)
+---
+DATA: 03/09/2026
 TITULO: Provas de Segunda Chamada - 2º Trimestre
 AUTOR: Coordenação Pedagógica
 CATEGORIA: avaliacao
