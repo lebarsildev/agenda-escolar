@@ -1,4 +1,10 @@
 ---
+DATA: 03/09/2026
+TITULO: Provas de Segunda Chamada - 2º Trimestre
+AUTOR: Coordenação Pedagógica
+CATEGORIA: avaliacao
+CONTEUDO: Informamos que as provas de Segunda Chamada referentes ao 2º trimestre serão realizadas nos dias 08 e 09 de setembro, conforme a organização abaixo: Data Disciplinas 08/09 ELA • Science • História • P.E. • Arts 09/09 Math • PLA • Geografia • Music As avaliações serão realizadas no contraturno do aluno, da seguinte forma: Alunos que estudam no turno da manhã realizarão as provas às 13h30. Alunos que estudam no turno da tarde realizarão as provas às 9h. Pedimos que os alunos compareçam à escola com pontualidade e tragam os materiais necessários para a realização das avaliações. Em caso de mais de uma prova prevista para o mesmo dia, as avaliações serão realizadas em sequência, conforme organização interna da escola. Agradecemos a parceria e contamos com a colaboração de todos. Coordenação Pedagógica
+---
 DATA: 01/09/2026
 TITULO: Livros Paradidáticos da Unidade 4 – Língua Portuguesa (PLA)
 AUTOR: Escola
