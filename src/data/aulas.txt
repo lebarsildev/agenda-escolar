@@ -1,4 +1,17 @@
 ---
+DATA: 2026-09-03
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Na aula de hoje, lemos o livro Why Mosquitoes Buzz in People’s Ears. Os alunos foram convidados a refletir sobre a história e a compará-la com as demais histórias que temos lido em sala, observando suas semelhanças e diferenças. Em seguida, iniciaram o planejamento de suas próprias histórias para a confecção do livro do projeto Super Autor.
+MATERIA: ✏️ Math | Na aula de hoje, continuamos trabalhando com o cálculo de elapsed time (tempo decorrido), ou seja, quanto tempo se passa entre o início e o fim de uma atividade. Os alunos praticaram diferentes situações envolvendo a passagem do tempo. Por fim, realizamos as páginas 94 e 95 do Student Workbook e fizemos a correção coletiva das atividades. Com carinho,
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📜 História | Na aula de hoje, finalizamos a Sequência Didática do Capítulo 2, retomando a pergunta orientadora: “Como se deram as transformações das práticas econômicas e comerciais durante a ocupação da América pelos portugueses?” Durante a conversa, os alunos retomaram os conhecimentos construídos sobre as trocas comerciais entre portugueses e indígenas, o escambo do pau-brasil e o cultivo da cana-de-açúcar. Comparamos esses diferentes momentos, identificando semelhanças e diferenças nas práticas econômicas e na ocupação do território. Para concluir , os alunos registraram no Mapa de Conclusão os conhecimentos construídos ao longo das aulas.
+MATERIA: ⚽ Aula de Música com a Miss Michelle | Aula de Música com a Miss Michelle. Na aula de hoje, os alunos realizaram a Avaliação de Música. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a aula de Educação Física.
+MATERIA: ⚽ Aula de Educação Física com Mister Paulo | Aula de Educação Física com Mister Paulo. Saída Desejamos um ótimo dia a todos.
+MATERIA: ✏️ ELA | Na aula de hoje, realizamos um SLM no qual os alunos completaram frases utilizando as palavras indicadas no exercício. Em seguida, receberam um novo grupo de palavras e criaram suas próprias frases, colocando em prática o vocabulário trabalhado. Ao final, realizamos a correção coletiva da atividade.
+MATERIA: 🔢 Math | Na aula de hoje, trabalhamos com a unidade de tempo: hora. Os alunos praticaram a leitura e a identificação das horas em relógios analógicos e digitais. Para consolidar o aprendizado, realizamos a página 91 do Student Workbook e, em seguida, fizemos a correção coletiva.
+MATERIA: 🎨 Arts | Na aula de hoje, os alunos realizaram a AV3 de Arts, colocando em prática os conteúdos e conceitos artísticos trabalhados ao longo das aulas. Com carinho,
+---
 DATA: 2026-09-02
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
