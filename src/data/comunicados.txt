@@ -1,4 +1,10 @@
 ---
+DATA: 04/09/2026
+TITULO: ÚLTIMO DIA PARA REMATRÍCULA
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: 🚨 ÚLTIMA CHAMADA, FAMÍLIAS MAPLE BEAR! 🚨 Amanhã, 5 de setembro, é o último dia para garantir todos os benefícios da Rematrícula Antecipada 2027! 💙 Ao realizar a rematrícula dentro do prazo, sua família garante: 💰 Desconto especial na anuidade 2027 📉 Reajuste anual reduzido 🎁 50% de desconto na taxa de material coletivo 🎟️ Voucher de 5% de desconto no SLM 2027 🏆 Participação no sorteio de um voucher de 100% de desconto no SLM 2027 💳 Parcelamento do SLM em até 10x sem juros 🎁 Brinde surpresa ⏰ É só até amanhã! Após o dia 5 de setembro, essas condições especiais não estarão mais disponíveis. 💙 Não deixe para a última hora! Garanta a vaga do seu filho(a) para 2027 e aproveite todos os benefícios da Rematrícula Antecipada. 📲 Nossa equipe está à disposição para ajudar você a concluir a rematrícula! Circular de rematrícula Link
+---
 DATA: 03/09/2026
 TITULO: Super Autor - Acesso e passo a passo para criar biografia do autor.
 AUTOR: Coordenação Pedagógica
