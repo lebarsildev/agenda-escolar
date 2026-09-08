@@ -1,5 +1,11 @@
 ---
 DATA: 08/09/2026
+TITULO: Cardápios
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: Segue o cardápio desta e da próxima semana. Excelente semana para todos ♥️ CARDÁPIO 2 MB VALQUEIRE SETEMEBRO 2026.pdf PDF (453.3 KB)
+---
+DATA: 08/09/2026
 TITULO: Atividade para casa – Leitura na Árvore
 AUTOR: Escola
 CATEGORIA: tarefa
