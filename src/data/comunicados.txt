@@ -1,5 +1,11 @@
 ---
 DATA: 08/09/2026
+TITULO: Abertura da Unidade 4 de PLA: Viagem
+AUTOR: Escola
+CATEGORIA: tarefa
+CONTEUDO: Prezadas famílias, Hoje, demos início à nossa Unidade 4 de Língua Portuguesa (PLA), na qual embarcaremos em uma jornada de descobertas por meio do tema Viagem: uma jornada de experiências. Ao longo desta unidade, os alunos serão convidados a refletir sobre a nossa Questão Essencial: “Por que viajamos?” A partir dela, investigaremos também outras perguntas importantes: PO 1. Como registrar as minhas experiências de viagem? PO 2. Através de quais experiências posso conhecer outros lugares? PO 3. Qual a importância de conhecer outros lugares do mundo? Durante esse percurso, os alunos compreenderão que os relatos de viagem podem ser produzidos com diferentes objetivos e focos e que conhecer outros lugares pode ampliar nossos conhecimentos sobre diferentes povos, costumes e culturas. Também refletiremos sobre como é possível conhecer outros lugares mesmo sem viajar fisicamente, por meio da leitura de textos ficcionais e não ficcionais, relatos, livros, imagens e diferentes experiências que nos aproximam de outras realidades e culturas. Exploração de Gêneros e Compreensão Leitora Ao longo da unidade, ampliaremos as estratégias de leitura, escuta e interpretação por meio de diferentes gêneros e situações de leitura: Relatos de viagem; Diário de bordo; Legendas; Leitura interativa, compartilhada e autônoma; Leitura em voz alta, respeitando a entonação e a expressividade indicadas pela pontuação. Produção Textual Os alunos terão oportunidades de registrar experiências, organizar informações e desenvolver sua capacidade de escrita por meio de diferentes propostas. Entre as principais produções da unidade, teremos: Produção de um diário de bordo sobre as férias; Produção de um texto persuasivo sobre um ponto turístico, utilizando argumentos para despertar no leitor o interesse em conhecer o lugar apresentado. Conhecimentos Linguísticos e Gramaticais O estudo da língua continuará acontecendo de maneira contextualizada, relacionado às leituras e produções realizadas em sala. Ser
+---
+DATA: 08/09/2026
 TITULO: Cardápios
 AUTOR: Miss Jéssica
 CATEGORIA: aviso
