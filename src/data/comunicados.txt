@@ -1,4 +1,10 @@
 ---
+DATA: 09/09/2026
+TITULO: Projeto SuperAutor — Lembrete às famílias
+AUTOR: Coordenação Pedagógica
+CATEGORIA: aviso
+CONTEUDO: Nosso Projeto SuperAutor está a todo vapor! Nessa experiência, cada criança está escrevendo e ilustrando seu próprio livro na escola, com a mediação e o acompanhamento dos professores. À família cabe uma participação muito especial: escrever a biografia da criança e fazer o upload das fotos na plataforma. 🔐 Como acessar o portal da SuperAutor 1️⃣ Acesse: superautor.com.br 2️⃣ Clique em “Entrar”; 3️⃣ Informe o e-mail cadastrado do responsável; 4️⃣ No primeiro acesso, clique em “Esqueci minha senha”; 5️⃣ Você receberá um e-mail para redefinir sua senha; 6️⃣ Crie sua nova senha e pronto! 🎉 ⚠️ Importante: o login do responsável na SuperAutor não é o mesmo utilizado pelo aluno na Árvore. 📅 Fique atento ao prazo! A pré-venda termina em 15/09/2026 e somente os livros adquiridos até essa data terão frete grátis. 🚚✨ 💛 Seja o maior incentivador do seu filho e garanta a obra dele! Adquira o livro pelo link do SuperAutor Caso precise de ajuda, conte com o suporte da SuperAutor pelo WhatsApp (21) 99722-3393: Falar com o suporte da SuperAutor pelo WhatsApp Equipe de Coordenação Pedagógica Passo a passo responsáveis_Biografia (1) PDF (1.6 MB)
+---
 DATA: 08/09/2026
 TITULO: Abertura da Unidade 4 de PLA: Viagem
 AUTOR: Escola
