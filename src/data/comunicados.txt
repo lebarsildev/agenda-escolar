@@ -1,4 +1,10 @@
 ---
+DATA: 11/09/2026
+TITULO: Collection Folder - 2 trimestre
+AUTOR: Ms. Mari
+CATEGORIA: atividade
+CONTEUDO: Segue na mochila a Collection Folder do 2º trimestre, contendo as atividades realizadas pelas crianças ao longo deste período. A Collection Folder tem como objetivo reunir e acompanhar o percurso de aprendizagem dos nossos alunos ao longo do trimestre. Por isso, aproveitem este momento para olhar as atividades com atenção junto com as crianças, valorizando suas conquistas e observando seus avanços, acertos, correções e também aquilo que ainda pode ser aprimorado. Informamos que a Collection Folder, juntamente com todas as atividades, deverá permanecer em casa. Não é necessário enviá-la novamente para a escola. Ms. Mari
+---
 DATA: 10/09/2026
 TITULO: Atividade para casa: História
 AUTOR: Escola
