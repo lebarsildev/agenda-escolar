@@ -1,5 +1,11 @@
 ---
 DATA: 14/09/2026
+TITULO: Atividade para casa: Geografia
+AUTOR: Escola
+CATEGORIA: tarefa
+CONTEUDO: Gostaríamos de compartilhar o próximo dever de casa de Geografia. Dando continuidade aos conteúdos trabalhados em sala de aula, os alunos realizarão uma pesquisa sobre as principais atividades econômicas desenvolvidas no campo e na cidade do município onde moram. Para a realização da atividade, os alunos utilizarão a folha Aula 7 – Material 4 e deverão: pesquisar e registrar as principais atividades econômicas desenvolvidas no campo e na cidade de seu município; identificar possíveis impactos dessas atividades na natureza; fazer um desenho representando uma paisagem rural e uma paisagem urbana do município. O objetivo é ampliar a compreensão dos alunos sobre o espaço onde vivem, reconhecendo as relações entre campo e cidade, atividades econômicas, paisagens e meio ambiente. 📅 Data de entrega: até 17/09 (quinta-feira). Agradecemos, como sempre, o apoio e a parceria das famílias, incentivando as crianças durante a pesquisa e contribuindo para que realizem a atividade com atenção, capricho e autonomia. 💜 Miss Thayná.
+---
+DATA: 14/09/2026
 TITULO: Segundo Parent-Teacher Interview (PTI) – Ensino Fundamental
 AUTOR: Coordenação Pedagógica
 CATEGORIA: aviso
