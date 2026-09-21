@@ -1,4 +1,10 @@
 ---
+DATA: 20/09/2026
+TITULO: Cardápio
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: Segue o cardápio. Ótima semana para todos!♥️ CARDÁPIO 21 SETEMBRO MB VALQUEIRE.pdf PDF (441.5 KB)
+---
 DATA: 18/09/2026
 TITULO: SORTEIO VOUCHER DE 100% NO SLM
 AUTOR: Escola
