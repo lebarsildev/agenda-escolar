@@ -1,4 +1,10 @@
 ---
+DATA: 29/09/2026
+TITULO: Informação Importante
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: Prezados responsáveis, hoje devido ao passeio do Year 1, os portões não serão abertos para a entrada dos carros no turno da manhã. Nossa equipe estará na calçada para auxiliar no recebimento dos alunos. Agradecemos a compreensão!
+---
 DATA: 28/09/2026
 TITULO: SINGAPORE MATH CHALLENGE — SMC 2026
 AUTOR: Coordenação Pedagógica
