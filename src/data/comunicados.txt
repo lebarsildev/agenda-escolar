@@ -1,5 +1,17 @@
 ---
 DATA: 29/09/2026
+TITULO: Conteúdo de ELA
+AUTOR: Ms. Mari
+CATEGORIA: atividade
+CONTEUDO: Queridos responsáveis, Estou enviando um breve resumo dos conteúdos de ELA (English Language Arts) que serão abordados na próxima atividade avaliativa, para que as crianças possam revisar e estudar em casa. O material apresenta os principais elementos das histórias que estamos trabalhando em sala: Beginning & Setting, How/Why Question, Characters, Problem e Solution, ajudando os alunos a compreender e identificar cada parte da narrativa. Espero que esse resumo seja um apoio para a revisão e ajude as crianças a estudarem de forma tranquila e confiante. Obrigada pela parceria de sempre! Miss Mari ChatGPT Image 29 de set. de 2026, 12_38_23 Image (1.8 MB)
+---
+DATA: 29/09/2026
+TITULO: Conteúdo de Science
+AUTOR: Ms. Mari
+CATEGORIA: atividade
+CONTEUDO: Queridos responsáveis, Estou enviando um breve resumo dos conteúdos que serão abordados na próxima atividade avaliativa, para que as crianças possam revisar e estudar em casa. Além disso, hoje estou enviando o livro de Ciências na mochila dos alunos, que poderá ser utilizado como apoio durante os estudos e as revisões. Espero que esse material ajude as crianças a retomarem os principais conteúdos de forma tranquila e confiante. Obrigada pela parceria de sempre! Miss Mari ChatGPT Image 29 de set. de 2026, 12_29_33 Image (1.7 MB)
+---
+DATA: 29/09/2026
 TITULO: Informação Importante
 AUTOR: Escola
 CATEGORIA: aviso
