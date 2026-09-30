@@ -1,4 +1,16 @@
 ---
+DATA: 30/09/2026
+TITULO: Foto Lês
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: Gostaríamos de informar que amanhã, a empresa Lês estará em nossa escola realizando o registro fotográfico de Natal dos alunos e foto de formatura para o Sk. Caso algum responsável não autorize a participação do aluno no registro, pedimos, por gentileza, que comunique a Secretaria da escola com antecedência. Agradecemos a parceria e desejamos que esse momento seja repleto de encanto e boas lembranças para nossos Little Bears! Miss Jéssica ❤️
+---
+DATA: 30/09/2026
+TITULO: Comunicado -Passeio escolar
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: Para organizarmos o nosso passeio escolar, precisamos saber quais alunos não comem pizza. Pedimos, por gentileza, que os responsáveis pelos alunos que não comem pizza nos informem pelo whatsapp da secretaria para que possamos organizar tudo com antecedência e garantir que todos aproveitem esse momento com tranquilidade. Agradecemos, como sempre, a parceria e a colaboração de vocês! ❤️ Miss Jéssica
+---
 DATA: 29/09/2026
 TITULO: Atividade para Casa – Nosso Diário de Viagem
 AUTOR: Escola
