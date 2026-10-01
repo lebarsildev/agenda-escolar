@@ -1,4 +1,10 @@
 ---
+DATA: 20/09/2026
+TITULO: Boa noite, Responsáveis! Segue o cardápio. Ótima semana para todos!♥️
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: Boa noite, Responsáveis! Segue o cardápio. Ótima semana para todos!♥️
+---
 DATA: 30/09/2026
 TITULO: Foto Lês
 AUTOR: Miss Jéssica
