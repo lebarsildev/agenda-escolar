@@ -1,5 +1,17 @@
 ---
 DATA: 02/10/2026
+TITULO: Passeio escolar
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: Passeio escolar
+---
+DATA: 02/10/2026
+TITULO: SINGAPORE MATH CHALLENGE — SMC 2026
+AUTOR: Coordenação Pedagógica
+CATEGORIA: avaliacao
+CONTEUDO: A Maple Bear Valqueire convida os alunos do Year 2 ao Year 4 a participarem do Singapore Math Challenge (SMC 2026), uma competição internacional de Matemática que estimula o raciocínio lógico e a resolução de problemas. É uma oportunidade para nossos alunos aplicarem seus conhecimentos, explorarem diferentes estratégias e vivenciarem novos desafios! A participação é opcional e sem custo para o aluno, pois a escola já realizou o investimento. Estrutura da prova A prova é bilíngue (português e inglês), tem duração de 90 minutos e reúne 31 questões, distribuídas em três seções: Seção A: 15 questões de múltipla escolha, valendo 2 pontos cada. Seção B: 10 questões abertas, valendo 4 pontos cada. Seção C: 6 questões abertas, valendo 5 pontos cada. Os alunos realizarão a prova correspondente ao ano escolar concluído em 2025. Assim, os estudantes do Year 2 farão a prova do Year 1; os do Year 3, a do Year 2; e os do Year 4, a do Year 3. Aplicação e monitoramento A aplicação seguirá um rigoroso protocolo de monitoramento, por meio de um link com transmissão de vídeo e áudio ao vivo. Os alunos deverão realizar a leitura das questões de forma autônoma, pois os monitores não poderão ler as questões para eles. Datas e horários Data Turma Horário 06/10 — terça-feira Year 4 Morning 13h30 às 15h 07/10 — quarta-feira Year 3 Afternoon 10h30 às 12h 07/10 — quarta-feira Year 3 Morning 13h30 às 15h 08/10 — quinta-feira Year 2 Afternoon 10h30 às 12h 08/10 — quinta-feira Year 2 Morning 13h30 às 15h Atenção: os participantes deverão comparecer no horário indicado para sua turma, no contraturno. Premiação A premiação seguirá a classificação por pontuação: Ouro: 8% das melhores pontuações. Prata: 12% das pontuações seguintes. Bronze: 20% das pontuações seguintes. Menção honrosa: 10% das pontuações seguintes. Alimentação No dia da prova, os alunos poderão trazer o almoço de casa ou contratar o almoço da escola. Confirme a participação do(a) aluno(a) pelo link abaixo: https://docs.google.com/fo
+---
+DATA: 02/10/2026
 TITULO: Singapore Math Challenge (SMC 2026) - Guia do Aluno
 AUTOR: Coordenação Pedagógica
 CATEGORIA: avaliacao
