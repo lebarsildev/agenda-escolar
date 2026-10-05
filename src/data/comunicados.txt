@@ -1,5 +1,11 @@
 ---
 DATA: 05/10/2026
+TITULO: Retorno Lês Fotografia escolar
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: Gostaríamos de informar que, no dia 19 de outubro, a equipe da Lês Fotografia Escolar estará novamente em nossa escola para realizar o registro fotográfico natalino dos alunos que não estavam presentes na oportunidade anterior. Neste dia, também serão realizadas as fotos de formatura dos alunos do SK que não estavam presentes. Caso algum responsável não autorize a participação do aluno no registro fotográfico, pedimos, por gentileza, que comunique previamente a Secretaria da escola.
+---
+DATA: 05/10/2026
 TITULO: Comemoração na escola -Dia das crianças
 AUTOR: Miss Jéssica
 CATEGORIA: aviso
