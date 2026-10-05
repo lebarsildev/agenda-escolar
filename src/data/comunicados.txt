@@ -1,4 +1,10 @@
 ---
+DATA: 05/10/2026
+TITULO: Comemoração na escola -Dia das crianças
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: No dia 13/10, teremos um momento super especial em celebração ao Dia das Crianças! Para deixar o dia ainda mais divertido, nossos Little Bears poderão escolher entre: 🎀 Dia do Cabelo Maluco ou 🧦 Dia da Meia Maluca A escolha fica a critério de cada familia! O mais importante é que as crianças possam participar, se divertir e aproveitar esse momento com muita alegria! E tem mais uma surpresa... 🎩✨ Teremos também um show de mágica especialmente preparado para nossos alunos, tornando essa celebração ainda mais encantadora! Estamos preparando tudo com muito carinho para proporcionar às nossas crianças um dia cheio de alegria, diversão, encantamento e boas lembranças!
+---
 DATA: 04/10/2026
 TITULO: Cardápio
 AUTOR: Miss Jéssica
