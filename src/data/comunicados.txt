@@ -1,4 +1,10 @@
 ---
+DATA: 04/10/2026
+TITULO: Cardápio
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: Segue o cardápio desta e da próxima semana.7 Ótima semana para todos! CARDÁPIO 2 MB VALQUEIRE INTEGRAL OUTUBRO 26.pdf PDF (454.5 KB)
+---
 DATA: 02/10/2026
 TITULO: Passeio escolar
 AUTOR: Escola
