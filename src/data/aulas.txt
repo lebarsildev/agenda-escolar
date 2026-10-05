@@ -1,4 +1,14 @@
 ---
+DATA: 2026-10-05
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: ✏️ PLA (Língua Portuguesa) | Na aula de hoje, demos continuidade às atividades dos Centros de Aprendizagem, organizados a partir dos livros Bia na África, Bia na Ásia e Bia na Europa. As obras apresentam estruturas semelhantes e relatam as experiências vivenciadas por Bia durante suas viagens com a mãe por diferentes lugares do mundo. Realizamos duas rotações entre os centros, possibilitando que os alunos explorassem diferentes obras e atividades. Ao longo das propostas, observaram as características dos relatos de viagem, conheceram diferentes experiências vivenciadas pela personagem e estabeleceram relações entre os textos.
+MATERIA: ✏️ Geografia | Na aula de hoje, demos continuidade aos estudos sobre a origem e a produção dos alimentos. Inicialmente, assistimos a um vídeo sobre como os alimentos orgânicos são produzidos, conversando sobre suas características e sobre as atividades realizadas no campo.Em seguida, retomamos as diferenças entre agricultura familiar e agronegócio e ampliamos a discussão sobre as atividades econômicas desenvolvidas nas áreas rurais e urbanas. Conversamos também sobre a presença de atividades industriais no espaço rural relacionadas ao agronegócio, compreendendo as relações existentes entre o campo e a cidade. Para finalizar, os alunos realizaram atividades de interpretação, nas quais identificaram diferenças entre as atividades desenvolvidas nas áreas rurais e urbanas, retomaram características da agricultura familiar e do agronegócio. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a saída. Saída Desejamos uma ótima semana a todos! 💜
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📜 História | Na aula de hoje, os alunos realizaram a AV1 de História. A partir da leitura e interpretação do texto apresentado na atividade, refletiram sobre a importância da internet durante a pandemia e sobre como esse período evidenciou a exclusão digital e as desigualdades de acesso às tecnologias.
+MATERIA: 📚 PLA (Língua Portuguesa) | Após a avaliação, realizamos a nossa roda de leitura, dando continuidade à leitura do livro Diário de Pilar na Grécia. Em seguida, fizemos uma retomada da obra por meio de um roteiro com os principais acontecimentos da história, relembrando personagens, lugares visitados e momentos importantes da narrativa. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a saída. Saída Desejamos um ótimo dia a todos! 💜
+---
 DATA: 2026-10-01
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
