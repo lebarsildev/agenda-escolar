@@ -1,5 +1,11 @@
 ---
 DATA: 05/10/2026
+TITULO: SMC 2026 | Solicitação de almoço
+AUTOR: Coordenação Pedagógica
+CATEGORIA: avaliacao
+CONTEUDO: As famílias que desejarem contratar o almoço da Alimenttar no dia da prova SMC 2026 deverão enviar uma mensagem à Carla, da recepção, pelo aplicativo Toddle, informando o nome e a turma do aluno. Pedimos que a solicitação seja feita com antecedência, para que a empresa possa se organizar e garantir o almoço de todas as crianças que contratarem o serviço. Agradecemos a colaboração! Coordenação Pedagógica
+---
+DATA: 05/10/2026
 TITULO: Retorno Lês Fotografia escolar
 AUTOR: Miss Jéssica
 CATEGORIA: aviso
