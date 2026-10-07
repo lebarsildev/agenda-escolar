@@ -1,5 +1,16 @@
 ---
 DATA: 2026-10-06
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: ✏️ PLA (Língua Portuguesa) | Na aula de hoje, demos continuidade às atividades dos Centros de Aprendizagem, organizados a partir dos livros Bia na África, Bia na Ásia e Bia na Europa. Realizamos as últimas rotações entre os grupos, garantindo que os alunos tivessem a oportunidade de participar das diferentes propostas e explorar as três obras. Com as rotações de hoje, finalizamos nossos Centros de Aprendizagem, encerrando esse percurso de leitura e atividades sobre as experiências de viagem vivenciadas pela personagem Bia em diferentes lugares do mundo.
+MATERIA: ⚽ Música | Aula de Música com a Miss Michelle. Organização da sala: organizamos os materiais e o espaço coletivo para a aula de Educação Física.
+MATERIA: ⚽ Educação Física | Aula de Educação Física com Mister Paulo. Saída Desejamos um ótimo dia a todos! 💜
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 🌍 Geografia | Na aula de hoje, os alunos realizaram a AV1 de Geografia, colocando em prática os conhecimentos construídos sobre matéria-prima, cadeia de produção e circulação e a importância dos produtos para a sociedade. A partir da leitura e interpretação de um texto informativo, cada aluno investigou um produto produzido com matéria-prima proveniente do estado do Rio de Janeiro, identificando e organizando as etapas percorridas desde a obtenção da matéria-prima até a chegada do produto ao consumidor. Organização da sala: após a atividade, os alunos organizaram seus materiais e o espaço coletivo e se prepararam para a aula de Educação Física.
+MATERIA: ⚽ Educação Física | Aula de Educação Física com Mister Paulo. Saída Desejamos um ótimo dia a todos! 💜
+---
+DATA: 2026-10-06
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
 MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
