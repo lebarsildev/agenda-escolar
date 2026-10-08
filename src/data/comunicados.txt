@@ -1,4 +1,10 @@
 ---
+DATA: 08/10/2026
+TITULO: Passeio Escolar -Informações
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: Passando para relembrar algumas informações importantes sobre o passeio: ⏰ Horário de chegada à escola: 7h Pedimos, por gentileza, que os alunos cheguem pontualmente, para que possamos organizar nossa saída com tranquilidade, segurança e muita organização. 👕 Os alunos deverão estar devidamente uniformizados. 💧 Cada aluno deverá levar sua garrafinha de água. 🍎 Pedimos também que levem um lanche para a parte da tarde. 🚌 Retorno previsto à escola: 16h30. Avisaremos pelo grupo de WhatsApp informaçôes durante o passeio. Estamos preparando tudo com muito carinho para que nossos alunos aproveitem cada momento desse passeio! Contamos com a colaboração de todos para que tenhamos uma saída tranquila e um dia muito divertido e especial!
+---
 DATA: 07/10/2026
 TITULO: Atividades para casa – História e Geografia
 AUTOR: Escola
