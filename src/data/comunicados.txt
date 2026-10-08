@@ -1,5 +1,11 @@
 ---
 DATA: 08/10/2026
+TITULO: Dia das Crianças — Convite Especial do CIAC
+AUTOR: Miss Jéssica
+CATEGORIA: atividade
+CONTEUDO: Por meio da nossa parceria com o CIAC, nossos alunos foram convidados para participar de uma festa em comemoração ao Dia das Crianças! Será um momento preparado com muito carinho para celebrar essa data tão especial e proporcionar às nossas crianças muita diversão! Para obter mais informações sobre o evento, programação, horários,valores e demais detalhes, pedimos que os responsáveis entrem diretamente em contato com a secretaria do CIAC pelo telefone: 📞 (21) 97682-9689 WhatsApp Image 2026-10-07 at 19.34.15 Image (325 KB)
+---
+DATA: 08/10/2026
 TITULO: Passeio Escolar -Informações
 AUTOR: Miss Jéssica
 CATEGORIA: aviso
