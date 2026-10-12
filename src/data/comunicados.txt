@@ -1,4 +1,10 @@
 ---
+DATA: 09/10/2026
+TITULO: Newsletter Outubro
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: Prezados responsáveis, segue em anexo a newsletter de outubro. https://canva.link/k3j7s3j57tkj3ut https://canva.link/k3j7s3j57tkj3ut Link
+---
 DATA: 08/10/2026
 TITULO: Dia das Crianças — Convite Especial do CIAC
 AUTOR: Miss Jéssica
