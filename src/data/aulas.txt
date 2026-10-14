@@ -1,4 +1,10 @@
 ---
+DATA: 2026-10-14
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: ✏️ ELA | Na aula de hoje, trabalhamos com os elementos de uma história. Os alunos escolheram um livro e registraram em seus cadernos o título e o autor. Em seguida, escreveram um breve resumo da história em um parágrafo e compartilharam suas opiniões sobre a leitura, explicando se gostaram ou não do livro e por quê. Para finalizar, retomamos a produção da versão final dos Pourquoi Tales, utilizando como base o planejamento desenvolvido nas aulas anteriores.
+MATERIA: ✏️ Science | Na aula de hoje, aprendemos que o som é produzido por vibrações. Durante uma experiência, os alunos observaram o que acontece quando colocamos um elástico em um copo plástico: ao vibrar, o elástico produz som. Também aprendemos como produzimos sons ao falar. O ar passa pelos pulmões e chega à laringe, onde estão localizadas as cordas vocais. Os alunos puderam perceber essa vibração colocando a mão no pescoço enquanto falavam. Em seguida, aprendemos como os seres humanos e os animais percebem as vibrações e como conseguimos ouvir os sons. As ondas sonoras se propagam pelo ar e são captadas pelo ouvido. Elas passam pelo canal auditivo até chegar ao tímpano, uma membrana fina localizada no ouvido médio. Quando o tímpano vibra, ele movimenta três pequenos ossos, que conduzem as vibrações até a cóclea. Aprendemos que a cóclea possui líquido e pequenas estruturas semelhantes a pelos. As vibrações fazem o líquido se movimentar e esses pequenos pelos se moverem para frente e para trás. Essas estruturas estão conectadas aos nervos, que enviam sinais ao cérebro. É o cérebro que interpreta esses sinais e nos permite compreender o que estamos ouvindo. Para finalizar, realizamos as lições 4 e 5 do nosso livro de Science. Com carinho,
+---
 DATA: 2026-10-13
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
