@@ -1,5 +1,12 @@
 ---
 DATA: 2026-10-14
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA (Língua Portuguesa) | Na aula de hoje,, assistimos a um vídeo com o reconto da obra Bia na África, permitindo que os alunos relembrassem os principais acontecimentos da narrativa. Em seguida, retomamos o organizador gráfico preenchido na aula anterior e utilizamos perguntas orientadoras para estruturar a produção textual em três parágrafos: início, meio e fim. A partir desse planejamento, os alunos produziram seus próprios recontos, com atenção à sequência dos acontecimentos, à organização das ideias e à coerência textual. Reforçamos a importância de não copiar a história original, mas recontá-la com suas próprias palavras, preservando os acontecimentos essenciais da narrativa e desenvolvendo a autonomia e a criatividade na escrita.
+MATERIA: 📜 História | Na aula de hoje, aprofundamos nossos estudos sobre a evolução da fabricação do dinheiro, comparando os processos utilizados antigamente com as tecnologias empregadas atualmente na produção de moedas e cédulas. Conversamos sobre como os avanços tecnológicos transformaram a fabricação do dinheiro, tornando os processos mais modernos e incorporando novos recursos de segurança. Também retomamos as mudanças nas formas de pagamento, especialmente a partir da pandemia de COVID-19, período em que os pagamentos digitais ganharam ainda mais espaço. Refletimos sobre como o uso do PIX e de outras tecnologias tem contribuído para a diminuição do uso de dinheiro em espécie no cotidiano, embora moedas e cédulas continuem sendo utilizadas. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a saída. Saída Desejamos um ótimo feriado a todos! 💜
+---
+DATA: 2026-10-14
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
 MATERIA: ✏️ ELA | Na aula de hoje, trabalhamos com os elementos de uma história. Os alunos escolheram um livro e registraram em seus cadernos o título e o autor. Em seguida, escreveram um breve resumo da história em um parágrafo e compartilharam suas opiniões sobre a leitura, explicando se gostaram ou não do livro e por quê. Para finalizar, retomamos a produção da versão final dos Pourquoi Tales, utilizando como base o planejamento desenvolvido nas aulas anteriores.
