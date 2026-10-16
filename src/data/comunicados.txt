@@ -1,4 +1,10 @@
 ---
+DATA: 16/10/2026
+TITULO: Lembrete-Retorno Les fotografia escolar
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: Gostaríamos de informar que, no dia 19 de outubro, a equipe da Les Fotografia Escolar estará novamente em nossa escola para realizar o registro fotográfico natalino dos alunos que não estavam presentes na oportunidade anterior. Neste dia, também serão realizadas as fotos de formatura dos alunos do SK que não estavam presentes. Caso algum responsável não autorize a participação do aluno no registro fotográfico, pedimos, por gentileza, que comunique previamente a Secretaria da escola.
+---
 DATA: 09/10/2026
 TITULO: Newsletter Outubro
 AUTOR: Escola
