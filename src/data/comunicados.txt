@@ -1,5 +1,11 @@
 ---
 DATA: 19/10/2026
+TITULO: Cardápio
+AUTOR: Miss Jéssica
+CATEGORIA: aviso
+CONTEUDO: Segue o cardápio desta e da próxima semana. Ótima semana para todos!♥️ CARDÁPIO 3 INTEGRAL MB VILA VALQUEIRE OUTUBRO 26.pdf PDF (458.2 KB)
+---
+DATA: 19/10/2026
 TITULO: Trocas e Trocos — Feira do Year 3
 AUTOR: Coordenação Pedagógica
 CATEGORIA: atividade
