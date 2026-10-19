@@ -1,4 +1,16 @@
 ---
+DATA: 19/10/2026
+TITULO: Trocas e Trocos — Feira do Year 3
+AUTOR: Coordenação Pedagógica
+CATEGORIA: atividade
+CONTEUDO: Os alunos do Year 3 estão preparando a 2ª edição da Feira de Trocas e Trocos, parte do projeto de PLA. Será uma oportunidade para conhecer produtos criados e preparados pelos nossos alunos e prestigiar o trabalho da turma. A feira estará aberta a toda a comunidade escolar: 📅 23/10, sexta-feira — das 11h30 às 13h e das 17h às 18h30 📅 29/10, quinta-feira — das 11h30 às 13h e das 17h às 18h30 📍 Quadra do primeiro andar Haverá alimentos, artesanatos, livros, jogos e outros itens. O valor arrecadado será destinado a um projeto da turma e também a uma doação. Esperamos vocês! Sua presença e qualquer compra, independentemente do valor, incentivam os alunos e valorizam o empenho dedicado a esse projeto. Atenção: nas datas do evento, o drop-off não funcionará no turno da tarde. Coordenação Pedagógica.
+---
+DATA: 19/10/2026
+TITULO: Bom dia, responsáveis! Segue o cardápio desta e da próxima semana. Ótima semana para todos!♥️
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: Bom dia, responsáveis! Segue o cardápio desta e da próxima semana. Ótima semana para todos!♥️
+---
 DATA: 16/10/2026
 TITULO: Lembrete-Retorno Les fotografia escolar
 AUTOR: Miss Jéssica
