@@ -1,4 +1,10 @@
 ---
+DATA: 20/10/2026
+TITULO: Livro Paradidático – Língua Portuguesa (PLA)
+AUTOR: Escola
+CATEGORIA: tarefa
+CONTEUDO: Para que os alunos possam acompanhar as propostas de leitura e as atividades que serão desenvolvidas em sala, solicitamos o envio do livro paradidático, já previsto na lista de materiais do início do ano: 📖 Livro: Scherazade – Histórias de As Mil e Uma Noites Autor: Jordi Sierra I Fabra Editora: Paulinas Pedimos, por gentileza, que o livro seja enviado etiquetado com o nome completo do aluno, para facilitar a identificação e a organização dos materiais em sala. 📅 Prazo para envio: até o dia 26/10 (segunda-feira). Agradecemos, como sempre, o apoio e a parceria das famílias! 💜 Permaneço à disposição para quaisquer dúvidas ou esclarecimentos. Miss Thayná
+---
 DATA: 19/10/2026
 TITULO: Orientações e Informações Importantes – Prova de Cambridge
 AUTOR: Ms. Mari
