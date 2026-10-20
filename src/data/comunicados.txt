@@ -1,5 +1,11 @@
 ---
 DATA: 20/10/2026
+TITULO: Cambridge English — Confirmação de inscrição e horários da prova | 24/10
+AUTOR: Ms. Mari
+CATEGORIA: avaliacao
+CONTEUDO: Prezadas famílias, A prova de Cambridge será realizada no dia 24 de outubro. Encaminhamos, em anexo, o Confirmation of Entry and Timetable, documento que confirma a inscrição do aluno e apresenta os horários e as informações sobre sua participação no exame. O documento também contém as informações para acessar o resultado on-line, quando estiver disponível. Por isso, recomendamos que o guardem para consulta posterior. Desejamos aos nossos alunos uma experiência tranquila e cheia de confiança! Ms. Mari CoE Movers-Mateus Caldeira Larocca Da Silva PDF (89.7 KB) Timetable_Report Movers PDF (78.4 KB)
+---
+DATA: 20/10/2026
 TITULO: Livro Paradidático – Língua Portuguesa (PLA)
 AUTOR: Escola
 CATEGORIA: tarefa
