@@ -1,5 +1,11 @@
 ---
 DATA: 20/10/2026
+TITULO: Leitura na Árvore
+AUTOR: Escola
+CATEGORIA: tarefa
+CONTEUDO: Informamos que já está disponível na plataforma Árvore de Livros a nova indicação de leitura para os alunos. 📖 Livro: A menina que abraça o vento: a história de uma refugiada congolesa Autora: Fernanda Paraguassu Editora: Voo (1ª edição) Em nossas aulas de Geografia, estamos estudando os movimentos migratórios, compreendendo os conceitos de migração, imigração e emigração, além dos diferentes motivos que levam as pessoas a deixar seu país de origem e buscar uma nova vida em outro lugar. 📚 Pedimos que incentivem as crianças a realizar a leitura, pois ela será importante para as discussões e atividades que desenvolveremos em sala de aula. Agradecemos, como sempre, o apoio e a parceria das famílias! 💜 Miss Thayná
+---
+DATA: 20/10/2026
 TITULO: Cambridge English — Confirmação de inscrição e horários da prova | 24/10
 AUTOR: Ms. Mari
 CATEGORIA: avaliacao
