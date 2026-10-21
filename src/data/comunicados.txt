@@ -1,5 +1,17 @@
 ---
 DATA: 21/10/2026
+TITULO: ENERGIA NORMALIZADA, AULA NORMAL!
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: ENERGIA NORMALIZADA, AULA NORMAL!
+---
+DATA: 21/10/2026
+TITULO: Segunda oportunidade da AV1 de Matemática
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: Segunda oportunidade da AV1 de Matemática
+---
+DATA: 21/10/2026
 TITULO: Calendário de Atividades Avaliativas – AV2 | 3º Trimestre
 AUTOR: Escola
 CATEGORIA: avaliacao
