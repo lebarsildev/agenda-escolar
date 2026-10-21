@@ -1,5 +1,17 @@
 ---
 DATA: 21/10/2026
+TITULO: Interclasse
+AUTOR: Miss Jéssica
+CATEGORIA: atividade
+CONTEUDO: Estamos organizando com muito carinho o nosso Interclasse e, para que possamos montar os times e preparar tudo da melhor forma, precisamos confirmar quais alunos participarão do evento.Por isso, estamos enviando uma enquete de participação com a data correspondente ao Interclasse de cada turma.Pedimos, por gentileza, que respondam o quanto antes, pois essa confirmação é fundamental para organizarmos os times e todos os detalhes da nossa programação.Contamos com a colaboração de vocês para que esse momento seja muito especial para os nossos Little Bears! Agradecemos desde já pela parceria! Enquete Interclasse
+---
+DATA: 21/10/2026
+TITULO: AV2 – Orientações e Critérios avaliativos
+AUTOR: Escola
+CATEGORIA: avaliacao
+CONTEUDO: Seguem as informações sobre as atividades avaliativas AV2 do Year 4, que acontecerão na próxima semana, conforme o cronograma abaixo. História – 28/10 (quarta-feira) Conteúdo: A escravidão na África e o comércio de pessoas escravizadas. A atividade será realizada individualmente, em sala de aula, por meio de leitura, interpretação e análise de informações históricas. Critérios avaliativos: Leitura e interpretação de fontes históricas e mapas. Compreensão das rotas e dos processos históricos estudados. Capacidade de comparação e análise histórica. Clareza, coerência e organização das respostas. 📌 Importante: os alunos terão acesso aos textos e materiais de apoio necessários durante a realização da atividade. Língua Portuguesa (PLA) – 29/10 (quinta-feira) Atividade avaliativa: Exposição literária do livro Antártica: um mundo feito de gelo, de Maristela Colucci. Cada aluno deverá produzir, em casa, um cartaz individual em folha A3, sobre o tema recebido, utilizando as três perguntas orientadoras para organizar sua pesquisa. Segue anexo um exemplo. Orientações importantes: Hoje, os alunos receberam a folha A3, o tema individual e as três perguntas orientadoras. Também enviamos para casa o livro Antártica: um mundo feito de gelo, cuja leitura finalizamos hoje em sala de aula, para consulta durante a pesquisa. O cartaz deverá conter título, pequenos textos explicativos, imagens ou desenhos e uma curiosidade relacionada ao tema. Não é necessário copiar as perguntas no cartaz, apenas apresentar as informações pesquisadas com suas próprias palavras. No dia 29/10, os alunos deverão entregar o cartaz e realizar uma breve apresentação oral para a turma. Critérios avaliativos: Compreensão da obra e domínio do tema. Seleção e organização das informações pesquisadas. Clareza e coerência na produção escrita. Clareza, postura e desenvoltura na apresentação oral. Autonomia e domínio do conteúdo apresentado. Organização visual e criatividade do cartaz. 📌 Importante: orientamos que o
+---
+DATA: 21/10/2026
 TITULO: ENERGIA NORMALIZADA, AULA NORMAL!
 AUTOR: Escola
 CATEGORIA: aviso
