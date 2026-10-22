@@ -1,4 +1,12 @@
 ---
+DATA: 2026-10-22
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA (Língua Portuguesa) | Iniciamos a aula com uma roda de leitura, retomando o livro Antártica e dando continuidade à narrativa até a página 43. Durante a leitura, conversamos sobre os novos acontecimentos da história, compartilhando observações e impressões sobre as experiências vivenciadas pelos personagens. Em seguida, nos Centros, realizamos uma atividade chamada “Ditado Mútuo”, com o objetivo de revisar e consolidar os conhecimentos sobre as classes gramaticais: substantivo, adjetivo e verbo. Durante a dinâmica, os alunos ouviram palavras ditadas e tiveram o desafio de registrá-las e classificá-las de acordo com suas classes gramaticais. Para isso, organizaram seus registros em duas colunas: “Palavras que tenho certeza” e “Palavras que tenho dúvida”. A proposta estimulou a escuta atenta, a reflexão sobre a função das palavras e a identificação das próprias dúvidas, incentivando a autonomia e a construção dos conhecimentos gramaticais de maneira colaborativa.
+MATERIA: ⚽ Música | Aula de Música com a Miss Michelle. Organização da sala: organizamos os materiais e o espaço coletivo para a aula de Educação Física.
+MATERIA: ⚽ Educação Física | Aula de Educação Física com Mister Paulo. Saída Desejamos um ótimo dia a todos! 💜
+---
 DATA: 2026-10-20
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
