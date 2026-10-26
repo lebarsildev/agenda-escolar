@@ -1,5 +1,11 @@
 ---
 DATA: 26/10/2026
+TITULO: Importante-Interclasse
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: Importante-Interclasse
+---
+DATA: 26/10/2026
 TITULO: IMPORTANTE!
 AUTOR: Escola
 CATEGORIA: aviso
