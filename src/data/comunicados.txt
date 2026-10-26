@@ -1,4 +1,10 @@
 ---
+DATA: 26/10/2026
+TITULO: IMPORTANTE!
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: Prezadas famílias, Nossa Pesquisa de Satisfação NPS já está disponível e gostaríamos muito de contar com a participação de todos! 👉 Acesse a pesquisa: https://survey.maplebear.ca/survey A opinião das nossas famílias é fundamental para entendermos o que estamos fazendo bem e, principalmente, identificarmos oportunidades para continuar aprimorando a experiência dos nossos alunos e de toda a comunidade escolar. ⏱️ É muito rápido: a pesquisa leva menos de 1 minuto para ser respondida. Contamos com a participação de todos! Quanto maior o número de respostas, melhor conseguiremos compreender a percepção das nossas famílias e direcionar nossas ações de melhoria. Caso tenha alguma dificuldade para acessar à pesquisa, entre em contato com a secretaria. Agradecemos pela parceria, confiança e por fazerem parte da construção de uma Maple Bear cada vez melhor! 🍁 Maple Bear Valqueire
+---
 DATA: 23/10/2026
 TITULO: Year 4 | Leitura, reflexão e escrita para fortalecer a convivência
 AUTOR: Coordenação Pedagógica
