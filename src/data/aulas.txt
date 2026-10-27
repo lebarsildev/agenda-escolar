@@ -1,4 +1,16 @@
 ---
+DATA: 2026-10-27
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: ✏️ PLA (Língua Portuguesa) | Na aula de hoje, iniciamos a leitura do livro Scherazade – Histórias de As Mil e uma Noites, dando continuidade aos nossos estudos sobre a cultura árabe e suas tradições literárias. Retomamos os conhecimentos sobre Scherazade, apresentados anteriormente no livro ABC do Mundo Árabe, e conversamos sobre a origem das histórias de As Mil e uma Noites, destacando as características da literatura de ficção e a importância da imaginação nas narrativas. Em seguida, realizamos uma leitura compartilhada das páginas 11 a 15 e uma leitura interativa do prólogo, das páginas 17 a 22, explorando os personagens e os acontecimentos que dão início à obra. Também conhecemos a organização do livro em capítulos e combinamos que a leitura será realizada gradualmente, ao longo das próximas semanas, incentivando a continuidade da leitura em casa e o desenvolvimento do hábito leitor.
+MATERIA: ⚽ Música | Aula de Música com a Miss Michelle. Organização da sala: organizamos os materiais e o espaço coletivo para a aula de Educação Física.
+MATERIA: ⚽ Educação Física | Aula de Educação Física com Mister Paulo. Saída Desejamos um ótimo dia a todos! 💜
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA (Língua Portuguesa) | Na aula de hoje, dedicamos um momento especial à organização e à escrita dos nossos portfólios, retomando as aprendizagens construídas ao longo das últimas unidades. Os alunos tiveram a oportunidade de selecionar as atividades que gostariam de incluir em seus portfólios, refletindo sobre suas escolhas e escrevendo justificativas para explicar por que consideraram cada produção significativa para sua trajetória de aprendizagem.
+MATERIA: ✏️ História | Demos continuidade aos estudos iniciados na aula anterior sobre a formação histórica e cultural da população brasileira, aprofundando nossos conhecimentos sobre as antigas relações entre o Brasil e o continente africano. Durante a aula, conversamos sobre o processo histórico que estabeleceu essas relações, especialmente no contexto da escravização de povos africanos e de sua chegada forçada ao Brasil, refletindo sobre a importância de compreender esse período para conhecer a formação da nossa sociedade. Em seguida, os alunos realizaram uma atividade de interpretação e levantamento de conhecimentos prévios, organizada a partir de três reflexões: eu já sei, eu acho que sei e quero saber sobre a escravidão. Organização da sala: após a aula de História, os alunos organizaram seus materiais e o espaço coletivo e se prepararam para a aula de Educação Física.
+MATERIA: ⚽ Educação Física | Aula de Educação Física com Mister Paulo. Saída Desejamos um ótimo dia a todos! 💜
+---
 DATA: 2026-10-26
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
