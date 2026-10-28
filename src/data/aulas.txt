@@ -1,4 +1,11 @@
 ---
+DATA: 2026-10-28
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA (Língua Portuguesa) | Iniciamos a aula com uma roda de leitura, na qual finalizamos a leitura do livro Antártica. Durante esse momento, realizamos uma conversa sobre os principais acontecimentos da expedição, as características dos tripulantes e as experiências vivenciadas ao longo da viagem. Aproveitamos esse momento para apresentar e distribuir os temas da nossa Atividade Avaliativa de PLA , que será desenvolvida a partir do livro Antártica. Conversamos sobre a proposta e orientamos os alunos quanto aos temas que serão explorados na avaliação.Em seguida, realizamos uma oficina de gramática sobre os pronomes pessoais, aprofundando nossos conhecimentos sobre as pessoas do discurso e a conjugação verbal. Durante a atividade, construímos diálogos em centros, observando como os pronomes são utilizados em diferentes situações de comunicação e como os verbos se modificam de acordo com a pessoa do discurso.
+MATERIA: 📜 História | Iniciamos a Unidade 3 – “A África escravizada e a Europa importada”, dando continuidade aos conhecimentos que já vínhamos construindo sobre a escravização de povos africanos e a formação histórica do Brasil. Durante a aula, conversamos sobre a diversidade cultural e étnica da população brasileira, refletindo sobre como os diferentes povos que participaram da formação do nosso país contribuíram para a construção da nossa identidade.Também estudamos os conceitos de diversidade e descendência, reconhecendo a importância das nossas origens e das influências indígenas, africanas e europeias na formação da sociedade brasileira. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a saída. Saída Desejamos um ótimo dia a todos! 💜
+---
 DATA: 2026-10-27
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
