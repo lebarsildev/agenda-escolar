@@ -1,5 +1,12 @@
 ---
 DATA: 2026-10-29
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: ✏️ PLA (Língua Portuguesa) | Na aula de hoje, os alunos realizaram a Atividade Avaliativa- AV2 de Língua Portuguesa, apresentando para a turma seus trabalhos sobre o livro Antártica, de Maristela Colucci. Foi um momento muito especial, no qual os alunos compartilharam conhecimentos, descobertas e curiosidades sobre a Antártica, demonstrando dedicação, criatividade e envolvimento com a proposta. Assim, encerramos nossa “Expedição à Antártica” de maneira muito significativa, celebrando as aprendizagens construídas ao longo desse percurso de leitura e descobertas! 🐧❄️💙 Organização da sala: organizamos os materiais e o espaço coletivo para a aula de Educação Física.
+MATERIA: ⚽ Educação Física | Aula de Educação Física com Mister Paulo. Saída Desejamos um ótimo dia a todos! 💜
+---
+DATA: 2026-10-29
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
 MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
