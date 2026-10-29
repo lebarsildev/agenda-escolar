@@ -1,4 +1,11 @@
 ---
+DATA: 2026-10-29
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: ✏️ PLA (Língua Portuguesa) | Na aula de hoje, iniciamos uma nova unidade sobre a cultura árabe e suas influências na cultura brasileira. Conversamos sobre os diferentes povos que contribuíram para a formação do Brasil e realizamos uma dinâmica com tarjetas contendo curiosidades sobre a cultura árabe, relacionando-as aos nossos costumes, à língua, à alimentação e a outros aspectos culturais. Apresentamos a questão essencial da unidade: “Como podemos reconhecer influências de outros países em nossa cultura?” e as perguntas orientadoras que nortearão nossos estudos. Em seguida, realizamos uma roda de leitura interativa do livro ABC do Mundo Árabe, explorando o título, a quarta capa e as características de uma obra não ficcional. Finalizamos a aula com as atividades dos Centros de Aprendizagem da nova unidade, ampliando os conhecimentos sobre o tema de maneira participativa.
+MATERIA: 🌍 Geografia | Na aula de hoje, estudamos os fluxos migratórios internos do Brasil entre as décadas de 1960 e 1990, com destaque para os deslocamentos da população da região Nordeste para o Sudeste. Conversamos sobre os principais motivos dessas migrações, especialmente a busca por melhores oportunidades de trabalho e condições de vida. Também abordamos o êxodo rural, compreendendo por que esse movimento foi mais intenso naquele período e comparando suas características com a realidade atual. Em seguida, realizamos uma atividade sobre as características culturais da região Nordeste, com destaque para sua culinária típica e receitas tradicionais, reconhecendo como os movimentos migratórios contribuíram para a diversidade cultural e alimentar do nosso país. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a saída. Saída Desejamos uma ótima semana a todos! 💜
+---
 DATA: 2026-10-28
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
