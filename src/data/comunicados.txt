@@ -1,4 +1,10 @@
 ---
+DATA: 29/10/2026
+TITULO: Alimenttar - Trabalho de Casa: aprendizado e sabor em família! 🥬
+AUTOR: Coordenação Pedagógica
+CATEGORIA: tarefa
+CONTEUDO: Hoje, os alunos do Junior Kindergarten ao Year 4 receberão um kit da ação de educação nutricional “Dever de Casa”, promovida pela Alimenttar. O alimento escolhido neste mês é o repolho! O kit contém o alimento e orientações para preparar uma receita com a participação das crianças, proporcionando um momento de interação familiar, descobertas e aprendizado. Para participar: Preparem a receita em família, envolvendo a criança nas etapas adequadas à sua idade, sempre com a supervisão de um adulto. Acessem o QR Code disponível no material para compartilhar a receita, enviar fotos e contar como foi a experiência. Atenção: retirem o kit da mochila assim que a criança chegar em casa e armazenem o alimento adequadamente, pois ele é perecível. Contamos com a participação de vocês nessa experiência! Ms Dani
+---
 DATA: 26/10/2026
 TITULO: Importante-Interclasse
 AUTOR: Escola
