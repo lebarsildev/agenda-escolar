@@ -1,4 +1,10 @@
 ---
+DATA: 30/10/2026
+TITULO: Atividade para casa – Leitura do livro paradidático
+AUTOR: Escola
+CATEGORIA: tarefa
+CONTEUDO: Para dar continuidade às nossas atividades de leitura compartilhada, solicitamos que os alunos realizem, em casa, a leitura do livro paradidático Scherazade – Histórias de As Mil e Uma Noites, de Jordi Sierra I Fabra. 📖 Leitura: Capítulos IV e V, até a página 91. 📅 Prazo: 04/11 (quarta-feira). A leitura será retomada em nossa aula de quarta-feira, por meio de conversas e atividades de compreensão e interpretação da história. Contamos com o incentivo das famílias para que as crianças realizem a leitura com atenção e autonomia. Agradecemos, como sempre, o apoio e a parceria das famílias! 💜 Miss Thayná 💜
+---
 DATA: 29/10/2026
 TITULO: Alimenttar - Trabalho de Casa: aprendizado e sabor em família! 🥬
 AUTOR: Coordenação Pedagógica
