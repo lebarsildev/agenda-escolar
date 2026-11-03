@@ -1,4 +1,11 @@
 ---
+DATA: 2026-11-03
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: ✏️ PLA (Língua Portuguesa) | Na aula de hoje, realizamos uma oficina sobre a tonicidade das palavras, com o objetivo de identificar a sílaba tônica e compreender sua posição nas palavras. Inicialmente, organizamos uma dinâmica nos Centros, na qual os alunos tiveram o desafio de identificar a sílaba pronunciada com maior intensidade e distribuir as palavras em colunas, de acordo com a posição da sílaba tônica.Em seguida, os alunos foram convidados a registrar suas palavras no flip chart e, coletivamente, classificamos as palavras em oxítonas, paroxítonas e proparoxítonas, compreendendo as características de cada grupo. Para finalizar, realizamos uma atividade de fixação do SLM e registramos nossas conclusões no Caderno de Descobertas, consolidando os conhecimentos construídos durante a oficina.
+MATERIA: 📚 História | Os alunos realizaram a Atividade Avaliativa -AV2 de História, contemplando os conhecimentos construídos sobre a escravização de povos africanos e as rotas transaariana e transatlântica. Durante a avaliação, os alunos tiveram a oportunidade de demonstrar sua compreensão sobre as características da escravidão doméstica na África, o comércio transatlântico de pessoas escravizadas e as diferenças entre as rotas estudadas. Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a saída. Saída Desejamos um ótimo dia a todos! 💜
+---
 DATA: 2026-10-30
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
