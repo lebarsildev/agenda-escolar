@@ -1,4 +1,11 @@
 ---
+DATA: 2026-11-04
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA (Língua Portuguesa) | Iniciamos a aula com uma roda de leitura do livro Scherazade, dando continuidade aos nossos estudos sobre a cultura árabe e suas tradições literárias. Retomamos os acontecimentos dos capítulos anteriores, compartilhando observações e impressões sobre a narrativa. Em seguida, avançamos para a leitura do capítulo III, explorando os novos acontecimentos da história.
+MATERIA: 📚 Geografia | Na aula de hoje, os alunos realizaram a Atividade Avaliativa -AV2 de Geografia, contemplando os conhecimentos construídos ao longo da unidade sobre migrações e a formação cultural da população brasileira. A atividade abordou os diferentes povos imigrantes que vieram para o Brasil, seus continentes de origem e suas contribuições para a formação da nossa sociedade. 🎃 Halloween – Trick or Treat: Após as atividades, participamos de um momento especial do Halloween, com o tradicional Trick or Treat! 🍬👻 Organização da sala: incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a saída. Saída Desejamos um ótimo feriado a todos! 💜
+---
 DATA: 2026-11-03
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
