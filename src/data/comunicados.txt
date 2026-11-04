@@ -1,5 +1,11 @@
 ---
 DATA: 04/11/2026
+TITULO: Atividade para casa – História
+AUTOR: Escola
+CATEGORIA: tarefa
+CONTEUDO: Em nossas aulas de História, estamos estudando a cultura afro-brasileira e suas contribuições para a formação da identidade cultural do Brasil. Como atividade para casa, os alunos deverão realizar uma pesquisa sobre elementos da cultura afro-brasileira, preenchendo a atividade “Lista A–Z – Cultura afro-brasileira”, disponível no material didático ( Unidade 3 | Aula 8 – Material 1) Orientações: Pesquisar exemplos de manifestações da cultura afro-brasileira, como músicas, danças, comidas típicas, festividades e tradições. Preencher a lista de A a Z com os exemplos encontrados. Realizar a atividade com atenção, organização e capricho. 📅 Data de entrega: 09/11 (segunda-feira). Agradecemos o apoio e a parceria das famílias! 💜 Miss Thayná Aula 8 Material 1 PDF (1.7 MB)
+---
+DATA: 04/11/2026
 TITULO: Interclasse- Recado importante
 AUTOR: Miss Jéssica
 CATEGORIA: atividade
