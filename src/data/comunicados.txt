@@ -1,4 +1,10 @@
 ---
+DATA: 05/11/2026
+TITULO: Livro Paradidático – Língua Portuguesa (PLA)
+AUTOR: Escola
+CATEGORIA: tarefa
+CONTEUDO: Para que os alunos possam acompanhar as propostas de leitura e as atividades que serão desenvolvidas em sala, solicitamos o envio dos livros paradidáticos abaixo: 📖 Livro: A Bolsa Amarela Autora: Lygia Bojunga Editora: Casa Lygia Bojunga Ano: 2013 📖 Livro: De Cabeça para Baixo Autor: Ricardo da Cunha Lima Editora: Companhia das Letras Ano: 2000 Pedimos, por gentileza, que o livro seja enviado etiquetado com o nome completo do aluno, para facilitar a identificação e a organização dos materiais em sala. 📅 Prazo para envio: até o dia 09/11 (segunda-feira). Agradecemos, como sempre, o apoio e a parceria das famílias! 💜 Miss Thayná
+---
 DATA: 04/11/2026
 TITULO: Atividade para casa – História
 AUTOR: Escola
