@@ -1,5 +1,11 @@
 ---
 DATA: 09/11/2026
+TITULO: Checklist de estudos Math e critérios avaliativos para a AV3
+AUTOR: Ms. Mari
+CATEGORIA: avaliacao
+CONTEUDO: nossa AV3 de Math contemplará os conteúdos trabalhados em sala de aula durante a revisão. É importante que os alunos revisem os conceitos e pratiquem as atividades para desenvolver confiança e segurança na resolução dos exercícios. Páginas para estudo: 106 a 143 Também segue em anexo um checklist para estudos. Conteúdos avaliativos O aluno deverá ser capaz de: Translations: Identificar e realizar translações de figuras em uma malha quadriculada, deslocando-as para diferentes direções. Reflections: Reconhecer e representar reflexões de figuras, compreendendo o conceito de imagem espelhada. Rotations: Identificar e realizar rotações de figuras, reconhecendo movimentos de rotação no sentido horário e anti-horário. Fractions of a Whole: Identificar e representar frações de um inteiro, reconhecendo as partes que compõem o todo. Fractions of a Set: Calcular frações de um conjunto de elementos. Equivalent Fractions: Reconhecer, identificar e escrever frações equivalentes. Improper Fractions and Mixed Numbers: Identificar e representar frações impróprias e números mistos, compreendendo a relação entre eles. Comparing and Ordering Fractions: Comparar frações e organizar números fracionários em ordem crescente ou decrescente. Tenths and Hundredths: Compreender os conceitos de décimos e centésimos, identificando seus valores e representações decimais. Comparing Decimals: Comparar números decimais, identificando qual é maior, menor ou se são equivalentes. Adding and Subtracting Decimals: Resolver operações de adição e subtração envolvendo números decimais. Adding Money: Resolver situações-problema envolvendo valores monetários e realizar adições com dinheiro. Measuring in Centimetres and Millimetres: Reconhecer e utilizar centímetros e milímetros como unidades de medida de comprimento. Converting between Millimetres and Centimetres: Realizar conversões entre milímetros (mm) e centímetros (cm). É importante que os alunos revisem os conteúdos no Student Workbook e refaçam os exer
+---
+DATA: 09/11/2026
 TITULO: Checklist de estudos ELA
 AUTOR: Ms. Mari
 CATEGORIA: avaliacao
