@@ -1,5 +1,11 @@
 ---
 DATA: 09/11/2026
+TITULO: Checklist de estudos ELA
+AUTOR: Ms. Mari
+CATEGORIA: avaliacao
+CONTEUDO: Segue em anexo um checklist de estudos para a AV3 de ELA. Também envio os critérios avaliativos: CRITÉRIOS AVALIATIVOS – ELA O aluno deverá ser capaz de: Identificar e interpretar idioms, compreendendo seus significados em diferentes contextos. Identificar e classificar verbos, reconhecendo seu uso nas frases. Identificar substantivos. Identificar adjetivos e compreender sua função na descrição de pessoas, lugares e objetos. Reconhecer e diferenciar homophones e homonyms, utilizando as palavras de acordo com seus significados e contextos. Identificar e utilizar corretamente os tempos verbais: presente, passado e futuro. Reconhecer e aplicar corretamente o uso de apóstrofos para indicar posse e contrações. Ler, compreender e interpretar diferentes textos, identificando informações explícitas, ideia principal e detalhes. Aplicar corretamente as regras gramaticais e ortográficas na escrita de palavras e frases. Ms. Mari Checklist de Estudos Maple Bear Image (1.8 MB)
+---
+DATA: 09/11/2026
 TITULO: Year 5 Booklist - 2027
 AUTOR: Coordenação Pedagógica
 CATEGORIA: tarefa
