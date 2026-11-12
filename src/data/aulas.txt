@@ -1,5 +1,13 @@
 ---
 DATA: 2026-11-12
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA (Língua Portuguesa) | Na aula de hoje, demos continuidade aos estudos sobre a conjugação verbal nos tempos presente, pretérito e futuro. Os alunos realizaram atividades práticas de conjugação dos verbos “conseguir” e “partir”, observando as mudanças nas terminações verbais de acordo com os pronomes pessoais e as pessoas do discurso. Em seguida, compararam as conjugações, identificando semelhanças e regularidades na formação dos tempos verbais. A proposta favoreceu a compreensão das conjugações verbais (-IR), desenvolvendo a capacidade de reconhecer e utilizar corretamente os verbos em diferentes situações.
+MATERIA: ✏️ Geografia | Na aula de hoje, realizamos uma revisão dos conteúdos estudados para a AV3, retomando os principais conceitos relacionados aos movimentos migratórios e à formação da população brasileira. Revisamos os conceitos de migração, imigração e emigração, diferenciando os fluxos migratórios internos e externos e o êxodo rural. Também retomamos os estudos sobre os diferentes povos que migraram para o Brasil, seus continentes de origem e suas contribuições para a diversidade cultural do nosso país. Inicialmente, os alunos responderam às questões com autonomia e, posteriormente, fizemos a correção coletiva, retomando os conteúdos estudados e esclarecendo as dúvidas para a avaliação. Organização da sala: organizamos os materiais e o espaço coletivo para a aula de Educação Física.
+MATERIA: ⚽ Educação Física | Aula de Educação Física com Mister Paulo. Saída Desejamos um ótimo dia a todos! 💜
+---
+DATA: 2026-11-12
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
 MATERIA: 🧘 Volta à calma | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
