@@ -1,4 +1,16 @@
 ---
+DATA: 11/11/2026
+TITULO: 📅 AV3: Atenção às novas datas!
+AUTOR: Coordenação Pedagógica
+CATEGORIA: avaliacao
+CONTEUDO: Prezadas famílias, Informamos que, em razão do Simulado de Lockdown, que será realizado no dia 23 de novembro, o período das avaliações AV3, anteriormente previsto para 23 a 27 de novembro, será alterado para 24 a 30 de novembro. Pedimos que considerem as novas datas na organização da rotina de estudos dos alunos. Agradecemos a compreensão e a parceria de todos. Warm regards,
+---
+DATA: 11/11/2026
+TITULO: Simulado de Lockdown - Treinamento de segurança
+AUTOR: Coordenação Pedagógica
+CATEGORIA: atividade
+CONTEUDO: Prezadas famílias, No dia 23 de novembro (segunda-feira), realizaremos um simulado de Lockdown em nossa escola. O treinamento será conduzido pela Guardião Escolar, a mesma empresa responsável pelo treinamento de Fire Drill (simulado de evacuação em caso de incêndio). O Lockdown é um procedimento de segurança utilizado em situações de potencial risco que exijam a permanência de alunos e profissionais em locais protegidos dentro da escola, como uma tentativa de invasão ou outra ameaça à segurança da comunidade escolar. Esclarecemos que essa atividade será um exercício simulado, preventivo e exclusivamente educativo, com o objetivo de preparar a equipe e os alunos para agir de maneira organizada e segura diante de uma eventual emergência. As crianças serão preparadas previamente, com explicações adequadas à faixa etária e uma abordagem lúdica. Para isso, utilizaremos a história “Pascoal e o Vento do Norte”, por meio da qual serão orientadas a compreender que, ao receberem determinado sinal, deverão seguir as instruções da professora, permanecer juntas, em silêncio e em um local protegido da sala. Durante o exercício, será transmitido um sinal de alerta pelo sistema de som interno da escola. Ao identificá-lo, os profissionais seguirão o protocolo estabelecido: as portas das salas serão trancadas, as luzes apagadas e os alunos reunidos em um local previamente definido, fora da vista de portas e janelas. As crianças permanecerão acompanhadas pelos profissionais durante todo o procedimento, até o sinal oficial de encerramento. Reforçamos que as crianças serão preparadas previamente para a atividade, que será conduzida de forma acolhedora, sem qualquer ameaça real. A história “Pascoal e o Vento do Norte” será utilizada justamente para tornar a experiência compreensível e adequada à faixa etária, com o cuidado de evitar interpretações que possam gerar insegurança ou ansiedade. A realização de exercícios e protocolos de segurança integra as medidas de prevenção e proteção exi
+---
 DATA: 10/11/2026
 TITULO: Atividade para casa – Leitura do livro paradidático
 AUTOR: Escola
