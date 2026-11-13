@@ -1,5 +1,11 @@
 ---
 DATA: 13/11/2026
+TITULO: 🚒 Fire Drill – Mais uma etapa de preparação e segurança!
+AUTOR: Coordenação Pedagógica
+CATEGORIA: atividade
+CONTEUDO: Prezadas famílias, Informamos que, hoje, realizamos mais uma etapa do nosso Fire Drill (simulado de evacuação) no turno da manhã, envolvendo as turmas da Educação Infantil e do Ensino Fundamental. Diferentemente dos dois treinamentos anteriores, nos quais os alunos receberam orientações detalhadas sobre os procedimentos de segurança, desta vez realizamos uma simulação sem aviso prévio, acompanhada pelo bombeiro da Guardião Escolar, que esteve presente durante toda a atividade. O objetivo foi observar como as crianças e a equipe colocariam em prática os conhecimentos já trabalhados. A atividade aconteceu de forma organizada e tranquila, permitindo que todos exercitassem os procedimentos de evacuação em um contexto seguro e supervisionado. O resultado foi excelente! Nossa equipe e nossos alunos chegaram ao ponto de encontro em apenas 3 minutos e 42 segundos, demonstrando agilidade, atenção e preparo. Ressaltamos que a atividade foi exclusivamente preventiva, sem qualquer situação real de risco. Esses treinamentos fazem parte do nosso compromisso contínuo com a segurança, ajudando toda a comunidade escolar a agir com tranquilidade e responsabilidade sempre que necessário. Seguimos cuidando e preparando nossos alunos, sempre priorizando sua segurança e seu bem-estar. Ms Dani
+---
+DATA: 13/11/2026
 TITULO: Critérios avaliativos da AV3 de Science e Checklist para estudos.
 AUTOR: Ms. Mari
 CATEGORIA: avaliacao
