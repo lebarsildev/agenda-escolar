@@ -1,4 +1,10 @@
 ---
+DATA: 2026-11-17
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📚 PLA (Língua Portuguesa) | Na aula de hoje, iniciamos a atividade de revisão para a Avaliação AV3 de Língua Portuguesa, retomando os principais conteúdos estudados ao longo da unidade. Inicialmente, os alunos realizaram as atividades com autonomia, tendo um tempo destinado à leitura, à resolução das questões e ao esclarecimento de dúvidas individuais. Após o Fire Drill, retomamos a revisão e realizamos a correção coletiva, aprofundando as explicações sobre os conteúdos que geraram mais dúvidas, especialmente a classificação das palavras quanto à sílaba tônica, as classes gramaticais e os tempos verbais. 🚨 Fire Drill – Simulação de Evacuação: Hoje, participamos de mais uma simulação de evacuação escolar, desta vez sem aviso prévio, com o objetivo de exercitar os procedimentos de segurança em situações de emergência. A atividade contou com o acompanhamento de um bombeiro da Guardião Escolar, que esteve presente durante toda a simulação, orientando e acompanhando os procedimentos de evacuação. 📖 Materiais para estudo – AV3: Hoje, os alunos levaram para casa todas as atividades de revisão realizadas, juntamente com os checklists de estudo das disciplinas e o caderno de descobertas. Esses materiais servirão como apoio para a preparação das avaliações, permitindo que as crianças retomem os conteúdos trabalhados em sala e organizem seus estudos. Organização da sala: organizamos os materiais e o espaço coletivo para a saída. Saída Desejamos um ótimo final de semana a todos! 💜
+---
 DATA: 2026-11-16
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
