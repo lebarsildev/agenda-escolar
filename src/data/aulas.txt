@@ -1,4 +1,11 @@
 ---
+DATA: 2026-11-23
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: ✏️ PLA (Língua Portuguesa) | Na aula de hoje, demos continuidade aos estudos da obra literária Scherazade – Histórias de As Mil e Uma Noites, realizando uma atividade de produção textual chamada “As novas histórias de Scherazade”. Inicialmente, retomamos os principais acontecimentos da obra, refletindo sobre as estratégias utilizadas pela personagem para despertar a curiosidade do rei e o poder transformador das histórias. Em seguida, os alunos iniciaram o planejamento de uma narrativa original, definindo título, cenário, personagens, conflito, solução e ensinamento. Com base nesse planejamento, começaram a elaboração do rascunho, organizando suas ideias em introdução, desenvolvimento, desfecho e conclusão.
+MATERIA: ✏️ História | Na aula de hoje, iniciamos uma nova sequência didática, intitulada “Do Nordeste para o Sudeste”, aprofundando nossos conhecimentos sobre os movimentos migratórios internos no Brasil. Estudamos sobre os principais fatores que motivaram a migração de nordestinos para a Região Sudeste, com destaque para a seca, a falta de oportunidades de emprego e a busca por melhores condições de vida. Em seguida, os alunos realizaram uma atividade de interpretação de uma charge sobre o êxodo rural, analisando a situação representada e estabelecendo relações com os motivos que levam as pessoas a deixar o campo em direção às cidades. Organização da sala: Ao final das atividades, incentivamos os alunos a organizarem seus materiais e o espaço coletivo para a saída. Saída Desejamos uma ótima tarde a todos! 💜
+---
 DATA: 2026-11-19
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
