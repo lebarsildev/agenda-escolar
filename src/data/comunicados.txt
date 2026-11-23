@@ -1,4 +1,10 @@
 ---
+DATA: 16/11/2026
+TITULO: Bom dia, responsáveis! Segue o cardápio desta e da próxima semana. Ótima semana para todos! ♥️
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: Bom dia, responsáveis! Segue o cardápio desta e da próxima semana. Ótima semana para todos! ♥️
+---
 DATA: 19/11/2026
 TITULO: TARDE DE AUTÓGRAFOS – SUPERAUTOR E 2ª FEIRA LITERÁRIA** ✨📚
 AUTOR: Escola
