@@ -1,4 +1,10 @@
 ---
+DATA: 24/11/2026
+TITULO: Lista de materiais individuais e livros para didáticos 2027
+AUTOR: Escola
+CATEGORIA: atividade
+CONTEUDO: Prezados responsáveis, nossa lista de materiais individuais e livros paradidáticos para 2027 já estão disponíveis através do link: https://maple-bear-valqueire-livros-2027.dreamycardinal2.chatgpt.site/ A mesma também pode ser acessada através da School Polices (Políticas Escolares) que fica na página inicial da agenda Toddle. É importante revisitar a lista periodicamente, pois ela está sujeita a alterações. Segue em anexo um vídeo mostrando o caminho. Em caso de dúvidas, entre em contato com a secretaria. Passo a passo lista de materiais e livros Video (6.6 MB)
+---
 DATA: 23/11/2026
 TITULO: Treinamento de Lockdown – Simulado realizado com sucesso!
 AUTOR: Coordenação Pedagógica
