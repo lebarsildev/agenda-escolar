@@ -1,4 +1,10 @@
 ---
+DATA: 25/11/2026
+TITULO: Critérios Avaliativos AV3 de Artes
+AUTOR: Escola
+CATEGORIA: aviso
+CONTEUDO: Critérios Avaliativos AV3 de Artes
+---
 DATA: 24/11/2026
 TITULO: Lista de materiais individuais e livros para didáticos 2027
 AUTOR: Escola
