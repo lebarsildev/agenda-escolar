@@ -1,4 +1,11 @@
 ---
+DATA: 2026-11-25
+PROFESSOR: Ms. Mari e Mr. Igor
+PERIODO: manhã
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: ✏️ PLA (Língua Portuguesa) | Na aula de hoje, iniciamos a Unidade 6, explorando a pergunta essencial “Onde encontramos poesia?”. Conversamos sobre a presença da poesia em diferentes manifestações artísticas e situações do cotidiano, diferenciando os conceitos de poesia, poema e poeta. Em seguida, estudamos os principais elementos de um poema: versos, estrofes, rimas e ritmo. Iniciamos também a leitura do livro paradidático De Cabeça para Baixo, de Ricardo da Cunha Lima, até a página 29, analisando as rimas, a quantidade de versos e estrofes dos poemas. Além disso, exploramos a obra Rimas Saborosas, por meio de uma atividade de leitura, análise e registro escrito, na qual os alunos identificaram os elementos dos poemas. 🚨 Simulado de Lockdown: Durante a aula de PLA, participamos de um treinamento de segurança escolar, conduzido pela equipe da Guardião Escolar. O simulado de lockdown teve como objetivo orientar e preparar os alunos para agir de maneira segura e organizada em possíveis situações de emergência, reforçando a importância de manter a calma, seguir as orientações dos responsáveis e respeitar os procedimentos de segurança da escola.
+MATERIA: ✏️ Geografia | Na aula de hoje, estudamos a organização política e administrativa do Brasil, identificando as funções do prefeito, governador, presidente, vereadores, deputados estaduais, deputados federais e senadores.Compreendemos as responsabilidades desses representantes nas esferas municipal, estadual e federal, utilizando o município do Rio de Janeiro como referência. Também assistimos a um vídeo explicativo sobre as funções do prefeito e dos vereadores, aprofundando nossos conhecimentos sobre a administração municipal.Para consolidar as aprendizagens, realizamos uma atividade, relacionando os cargos políticos às suas respectivas responsabilidades. Organização da sala: Ao final das atividades, incentivamos os alunos a organizarem seus materiais e o espaço coletivo para saída. Saída Desejamos uma ótima semana a todos! 💜
+---
 DATA: 2026-11-24
 PROFESSOR: Misses Thayná e Patrícia
 PERIODO: tarde
