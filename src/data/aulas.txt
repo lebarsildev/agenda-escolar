@@ -1,4 +1,12 @@
 ---
+DATA: 2026-11-26
+PROFESSOR: Misses Thayná e Patrícia
+PERIODO: tarde
+MATERIA: 🧘 Após o lanche, realizamos um momento de volta à calma para i | Após o lanche, realizamos um momento de volta à calma para iniciarmos a aula.
+MATERIA: 📜 História | Iniciamos nossas atividades com a realização da AV3 de História, na qual os alunos aplicaram os conhecimentos adquiridos sobre as sociedades africanas, o processo de escravização dos povos africanos, as rotas comerciais transaariana e transatlântica, a diáspora africana, a migração forçada e a Lei Áurea. A avaliação contemplou os principais conteúdos estudados ao longo da unidade.
+MATERIA: ✏️ PLA (Língua Portuguesa) | Na aula de hoje, realizamos uma oficina de reflexão linguística sobre as diferenças entre o uso das palavras “mal” e “mau”, assim como “mais” e “mas”. Exploramos os significados e as particularidades de cada palavra, estabelecendo relações entre “mal” e “bem”, “mau” e “bom”, além de diferenciarmos o uso de “mais”, que indica quantidade ou intensidade, e “mas”, que expressa oposição.Em seguida, os alunos realizaram atividades de escrita e aplicação desses conhecimentos em frases contextualizadas, favorecendo a compreensão e o emprego adequado dessas palavras na produção escrita. Organização da sala: Após as atividades, organizamos os materiais e o espaço coletivo para a aula de Educação Física.
+MATERIA: ⚽ Educação Física | Aula de Educação Física com Mister Paulo, na qual os alunos realizaram a avaliação da disciplina. Saída Desejamos uma ótima tarde a todos! 💜
+---
 DATA: 2026-11-25
 PROFESSOR: Ms. Mari e Mr. Igor
 PERIODO: manhã
